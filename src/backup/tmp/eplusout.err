@@ -1,0 +1,144 @@
+Program Version,EnergyPlus, Version 23.2.0-7636e6b3e9, YMD=2024.11.21 11:06,
+   ** Warning ** Sizing:Parameters: note Timesteps in Averaging Window entered value=[2] is less than 1 hour (i.e., 6 timesteps).
+   ************* Beginning Zone Sizing Calculations
+   ** Warning ** Site:GroundTemperature:BuildingSurface: Some values fall outside the range of 15-25C.
+   **   ~~~   ** These values may be inappropriate.  Please consult the Input Output Reference for more details.
+   ** Warning ** Weather file location will be used rather than entered (IDF) Location object.
+   **   ~~~   ** ..Location object=SITE (01-01:31-12)  (01-01:31-12)
+   **   ~~~   ** ..Weather File Location=SINGAPORE - SGP IWEC Data WMO#=486980
+   **   ~~~   ** ..due to location differences, Latitude difference=[0.00] degrees, Longitude difference=[0.00] degrees.
+   **   ~~~   ** ..Time Zone difference=[1.0] hour(s), Elevation difference=[0.00] percent, [0.00] meters.
+   ** Warning ** GetSurfaceData: Construction PROJECT PARTITION of interzone surface 1FFIRSTFLOOREAST:OPENOFFICE_PARTITION_1_0_0 does not have the same materials in the reverse order as the construction PROJECT PARTITION_REV of adjacent surface ATRIUMRECEPTION:RECEPTION_PARTITION_1_0_10001
+   **   ~~~   ** or the properties of the reversed layers are not correct due to differing layer front and back side values
+   **   ~~~   ** ...but Nominal U values are similar, diff=[0.0000] ... simulation proceeds.
+   **   ~~~   ** ...if the two zones are expected to have significantly different temperatures, the proper "reverse" construction should be created.
+   **   ~~~   ** ...this problem for this pair will not be reported again.
+   ** Warning ** GetSurfaceData: There are 54 window/glass door(s) that may cause inaccurate shadowing due to Solar Distribution.
+   **   ~~~   ** For explicit details on each window, use Output:Diagnostics,DisplayExtraWarnings;
+   ** Warning ** CalculateZoneVolume: 2 zones are not fully enclosed. For more details use:  Output:Diagnostics,DisplayExtrawarnings; 
+   ** Warning ** CheckUsedConstructions: There are 6 nominally unused constructions in input.
+   **   ~~~   ** For explicit details on each unused construction, use Output:Diagnostics,DisplayExtraWarnings;
+   ** Warning ** GetInternalHeatGains: People="PEOPLE 1FFIRSTFLOOREAST:OPENOFFICE" has comfort related schedules but no thermal comfort model selected.
+   **   ~~~   ** If schedules are specified for air velocity, clothing insulation, and/or work efficiency but no thermal comfort
+   **   ~~~   ** thermal comfort model is selected, the schedules will be listed as unused schedules in the .err file.
+   **   ~~~   ** To avoid these errors, select a valid thermal comfort model or eliminate these schedules in the PEOPLE input.
+   ** Warning ** GetInternalHeatGains: People="PEOPLE 1FFIRSTFLOORWEST:OPENOFFICE" has comfort related schedules but no thermal comfort model selected.
+   **   ~~~   ** If schedules are specified for air velocity, clothing insulation, and/or work efficiency but no thermal comfort
+   **   ~~~   ** thermal comfort model is selected, the schedules will be listed as unused schedules in the .err file.
+   **   ~~~   ** To avoid these errors, select a valid thermal comfort model or eliminate these schedules in the PEOPLE input.
+   ** Warning ** GetInternalHeatGains: People="PEOPLE 0FGROUNDFLOORWEST:OPENOFFICE" has comfort related schedules but no thermal comfort model selected.
+   **   ~~~   ** If schedules are specified for air velocity, clothing insulation, and/or work efficiency but no thermal comfort
+   **   ~~~   ** thermal comfort model is selected, the schedules will be listed as unused schedules in the .err file.
+   **   ~~~   ** To avoid these errors, select a valid thermal comfort model or eliminate these schedules in the PEOPLE input.
+   ** Warning ** GetInternalHeatGains: People="PEOPLE 0FGROUNDFLOOREAST:OPENOFFICE" has comfort related schedules but no thermal comfort model selected.
+   **   ~~~   ** If schedules are specified for air velocity, clothing insulation, and/or work efficiency but no thermal comfort
+   **   ~~~   ** thermal comfort model is selected, the schedules will be listed as unused schedules in the .err file.
+   **   ~~~   ** To avoid these errors, select a valid thermal comfort model or eliminate these schedules in the PEOPLE input.
+   ** Warning ** GetInternalHeatGains: People="PEOPLE CORECIRCULATION:CIRCULATION" has comfort related schedules but no thermal comfort model selected.
+   **   ~~~   ** If schedules are specified for air velocity, clothing insulation, and/or work efficiency but no thermal comfort
+   **   ~~~   ** thermal comfort model is selected, the schedules will be listed as unused schedules in the .err file.
+   **   ~~~   ** To avoid these errors, select a valid thermal comfort model or eliminate these schedules in the PEOPLE input.
+   ** Warning ** GetInternalHeatGains: People="PEOPLE ATRIUMRECEPTION:RECEPTION" has comfort related schedules but no thermal comfort model selected.
+   **   ~~~   ** If schedules are specified for air velocity, clothing insulation, and/or work efficiency but no thermal comfort
+   **   ~~~   ** thermal comfort model is selected, the schedules will be listed as unused schedules in the .err file.
+   **   ~~~   ** To avoid these errors, select a valid thermal comfort model or eliminate these schedules in the PEOPLE input.
+   ** Warning ** GetInternalHeatGains: People="PEOPLE 1FFIRSTFLOOREAST1:OPENOFFICE" has comfort related schedules but no thermal comfort model selected.
+   **   ~~~   ** If schedules are specified for air velocity, clothing insulation, and/or work efficiency but no thermal comfort
+   **   ~~~   ** thermal comfort model is selected, the schedules will be listed as unused schedules in the .err file.
+   **   ~~~   ** To avoid these errors, select a valid thermal comfort model or eliminate these schedules in the PEOPLE input.
+   ** Warning ** GetInternalHeatGains: People="PEOPLE 1FFIRSTFLOORWEST1:OPENOFFICE" has comfort related schedules but no thermal comfort model selected.
+   **   ~~~   ** If schedules are specified for air velocity, clothing insulation, and/or work efficiency but no thermal comfort
+   **   ~~~   ** thermal comfort model is selected, the schedules will be listed as unused schedules in the .err file.
+   **   ~~~   ** To avoid these errors, select a valid thermal comfort model or eliminate these schedules in the PEOPLE input.
+   ** Warning ** GetInternalHeatGains: People="PEOPLE 0FGROUNDFLOORWEST1:OPENOFFICE" has comfort related schedules but no thermal comfort model selected.
+   **   ~~~   ** If schedules are specified for air velocity, clothing insulation, and/or work efficiency but no thermal comfort
+   **   ~~~   ** thermal comfort model is selected, the schedules will be listed as unused schedules in the .err file.
+   **   ~~~   ** To avoid these errors, select a valid thermal comfort model or eliminate these schedules in the PEOPLE input.
+   ** Warning ** GetInternalHeatGains: People="PEOPLE 0FGROUNDFLOOREAST1:OPENOFFICE" has comfort related schedules but no thermal comfort model selected.
+   **   ~~~   ** If schedules are specified for air velocity, clothing insulation, and/or work efficiency but no thermal comfort
+   **   ~~~   ** thermal comfort model is selected, the schedules will be listed as unused schedules in the .err file.
+   **   ~~~   ** To avoid these errors, select a valid thermal comfort model or eliminate these schedules in the PEOPLE input.
+   ** Warning ** GetInternalHeatGains: People="PEOPLE CORECIRCULATION1:CIRCULATION" has comfort related schedules but no thermal comfort model selected.
+   **   ~~~   ** If schedules are specified for air velocity, clothing insulation, and/or work efficiency but no thermal comfort
+   **   ~~~   ** thermal comfort model is selected, the schedules will be listed as unused schedules in the .err file.
+   **   ~~~   ** To avoid these errors, select a valid thermal comfort model or eliminate these schedules in the PEOPLE input.
+   ** Warning ** GetInternalHeatGains: People="PEOPLE ATRIUMRECEPTION1:RECEPTION" has comfort related schedules but no thermal comfort model selected.
+   **   ~~~   ** If schedules are specified for air velocity, clothing insulation, and/or work efficiency but no thermal comfort
+   **   ~~~   ** thermal comfort model is selected, the schedules will be listed as unused schedules in the .err file.
+   **   ~~~   ** To avoid these errors, select a valid thermal comfort model or eliminate these schedules in the PEOPLE input.
+   ** Warning ** GetInternalHeatGains: People="PEOPLE BLOCK1:ZONE1" has comfort related schedules but no thermal comfort model selected.
+   **   ~~~   ** If schedules are specified for air velocity, clothing insulation, and/or work efficiency but no thermal comfort
+   **   ~~~   ** thermal comfort model is selected, the schedules will be listed as unused schedules in the .err file.
+   **   ~~~   ** To avoid these errors, select a valid thermal comfort model or eliminate these schedules in the PEOPLE input.
+   ** Warning ** Calculated design heating load for zone=1FFIRSTFLOOREAST:OPENOFFICE is zero.
+   **   ~~~   ** Check Sizing:Zone and ZoneControl:Thermostat inputs.
+   ** Warning ** Calculated design heating load for zone=1FFIRSTFLOORWEST:OPENOFFICE is zero.
+   **   ~~~   ** Check Sizing:Zone and ZoneControl:Thermostat inputs.
+   ** Warning ** Calculated design heating load for zone=0FGROUNDFLOORWEST:OPENOFFICE is zero.
+   **   ~~~   ** Check Sizing:Zone and ZoneControl:Thermostat inputs.
+   ** Warning ** Calculated design heating load for zone=0FGROUNDFLOOREAST:OPENOFFICE is zero.
+   **   ~~~   ** Check Sizing:Zone and ZoneControl:Thermostat inputs.
+   ** Warning ** Calculated design heating load for zone=CORECIRCULATION:CIRCULATION is zero.
+   **   ~~~   ** Check Sizing:Zone and ZoneControl:Thermostat inputs.
+   ** Warning ** Calculated design heating load for zone=ATRIUMRECEPTION:RECEPTION is zero.
+   **   ~~~   ** Check Sizing:Zone and ZoneControl:Thermostat inputs.
+   ** Warning ** Calculated design heating load for zone=1FFIRSTFLOOREAST1:OPENOFFICE is zero.
+   **   ~~~   ** Check Sizing:Zone and ZoneControl:Thermostat inputs.
+   ** Warning ** Calculated design heating load for zone=1FFIRSTFLOORWEST1:OPENOFFICE is zero.
+   **   ~~~   ** Check Sizing:Zone and ZoneControl:Thermostat inputs.
+   ** Warning ** Calculated design heating load for zone=0FGROUNDFLOORWEST1:OPENOFFICE is zero.
+   **   ~~~   ** Check Sizing:Zone and ZoneControl:Thermostat inputs.
+   ** Warning ** Calculated design heating load for zone=0FGROUNDFLOOREAST1:OPENOFFICE is zero.
+   **   ~~~   ** Check Sizing:Zone and ZoneControl:Thermostat inputs.
+   ** Warning ** Calculated design heating load for zone=CORECIRCULATION1:CIRCULATION is zero.
+   **   ~~~   ** Check Sizing:Zone and ZoneControl:Thermostat inputs.
+   ** Warning ** Calculated design heating load for zone=ATRIUMRECEPTION1:RECEPTION is zero.
+   **   ~~~   ** Check Sizing:Zone and ZoneControl:Thermostat inputs.
+   ************* Beginning System Sizing Calculations
+   ** Warning ** Since Zone Minimum Air Flow Input Method = CONSTANT, input for Fixed Minimum Air Flow Rate will be ignored.
+   **   ~~~   ** Occurs in AirTerminal:SingleDuct:VAV:NoReheat = 1FFIRSTFLOOREAST:OPENOFFICE SINGLE DUCT VAV NO REHEAT
+   ** Warning ** Since Zone Minimum Air Flow Input Method = CONSTANT, input for Fixed Minimum Air Flow Rate will be ignored.
+   **   ~~~   ** Occurs in AirTerminal:SingleDuct:VAV:NoReheat = 1FFIRSTFLOORWEST:OPENOFFICE SINGLE DUCT VAV NO REHEAT
+   ** Warning ** Since Zone Minimum Air Flow Input Method = CONSTANT, input for Fixed Minimum Air Flow Rate will be ignored.
+   **   ~~~   ** Occurs in AirTerminal:SingleDuct:VAV:NoReheat = 0FGROUNDFLOORWEST:OPENOFFICE SINGLE DUCT VAV NO REHEAT
+   ** Warning ** Since Zone Minimum Air Flow Input Method = CONSTANT, input for Fixed Minimum Air Flow Rate will be ignored.
+   **   ~~~   ** Occurs in AirTerminal:SingleDuct:VAV:NoReheat = 0FGROUNDFLOOREAST:OPENOFFICE SINGLE DUCT VAV NO REHEAT
+   ** Warning ** Since Zone Minimum Air Flow Input Method = CONSTANT, input for Fixed Minimum Air Flow Rate will be ignored.
+   **   ~~~   ** Occurs in AirTerminal:SingleDuct:VAV:NoReheat = CORECIRCULATION:CIRCULATION SINGLE DUCT VAV NO REHEAT
+   ** Warning ** Since Zone Minimum Air Flow Input Method = CONSTANT, input for Fixed Minimum Air Flow Rate will be ignored.
+   **   ~~~   ** Occurs in AirTerminal:SingleDuct:VAV:NoReheat = ATRIUMRECEPTION:RECEPTION SINGLE DUCT VAV NO REHEAT
+   ** Warning ** Since Zone Minimum Air Flow Input Method = CONSTANT, input for Fixed Minimum Air Flow Rate will be ignored.
+   **   ~~~   ** Occurs in AirTerminal:SingleDuct:VAV:NoReheat = 1FFIRSTFLOOREAST1:OPENOFFICE SINGLE DUCT VAV NO REHEAT
+   ** Warning ** Since Zone Minimum Air Flow Input Method = CONSTANT, input for Fixed Minimum Air Flow Rate will be ignored.
+   **   ~~~   ** Occurs in AirTerminal:SingleDuct:VAV:NoReheat = 1FFIRSTFLOORWEST1:OPENOFFICE SINGLE DUCT VAV NO REHEAT
+   ** Warning ** Since Zone Minimum Air Flow Input Method = CONSTANT, input for Fixed Minimum Air Flow Rate will be ignored.
+   **   ~~~   ** Occurs in AirTerminal:SingleDuct:VAV:NoReheat = 0FGROUNDFLOORWEST1:OPENOFFICE SINGLE DUCT VAV NO REHEAT
+   ** Warning ** Since Zone Minimum Air Flow Input Method = CONSTANT, input for Fixed Minimum Air Flow Rate will be ignored.
+   **   ~~~   ** Occurs in AirTerminal:SingleDuct:VAV:NoReheat = 0FGROUNDFLOOREAST1:OPENOFFICE SINGLE DUCT VAV NO REHEAT
+   ** Warning ** Since Zone Minimum Air Flow Input Method = CONSTANT, input for Fixed Minimum Air Flow Rate will be ignored.
+   **   ~~~   ** Occurs in AirTerminal:SingleDuct:VAV:NoReheat = CORECIRCULATION1:CIRCULATION SINGLE DUCT VAV NO REHEAT
+   ** Warning ** Since Zone Minimum Air Flow Input Method = CONSTANT, input for Fixed Minimum Air Flow Rate will be ignored.
+   **   ~~~   ** Occurs in AirTerminal:SingleDuct:VAV:NoReheat = ATRIUMRECEPTION1:RECEPTION SINGLE DUCT VAV NO REHEAT
+   ** Warning ** ManageSizing: Calculated Heating Design Air Flow Rate for System=AIR LOOP is zero.
+   **   ~~~   ** Check Sizing:Zone and ZoneControl:Thermostat inputs.
+   ************* Beginning Plant Sizing Calculations
+   ** Warning ** Error when autosizing the load for cooling tower = COOLING TOWER. Tower Design Range Temperature is different from the Design Loop Delta Temperature.
+   **   ~~~   ** Tower Design Range Temperature specified in tower = COOLING TOWER
+   **   ~~~   ** is inconsistent with Design Loop Delta Temperature specified in Sizing:Plant object = CONDENSER LOOP.
+   **   ~~~   ** ..The Design Range Temperature specified in tower is = 5.60
+   **   ~~~   ** ..The Design Loop Delta Temperature specified in plant sizing data is = 5.00
+   ** Warning ** Error when autosizing the UA for cooling tower = COOLING TOWER. Tower Design Approach Temperature is inconsistent with Approach from Plant Sizing Data.
+   **   ~~~   ** The Design Approach Temperature from inputs specified in Sizing:Plant object = CONDENSER LOOP
+   **   ~~~   ** is inconsistent with Design Approach Temperature specified in tower = COOLING TOWER.
+   **   ~~~   ** ..The Design Approach Temperature from inputs specified is = 3.40
+   **   ~~~   ** ..The Design Approach Temperature specified in tower is = 3.90
+   ** Warning ** Error when autosizing the load for cooling tower = COOLING TOWER. Tower Design Range Temperature is different from the Design Loop Delta Temperature.
+   **   ~~~   ** Tower Design Range Temperature specified in tower = COOLING TOWER
+   **   ~~~   ** is inconsistent with Design Loop Delta Temperature specified in Sizing:Plant object = CONDENSER LOOP.
+   **   ~~~   ** ..The Design Range Temperature specified in tower is = 5.60
+   **   ~~~   ** ..The Design Loop Delta Temperature specified in plant sizing data is = 5.00
+   ** Warning ** Error when autosizing the UA for cooling tower = COOLING TOWER. Tower Design Approach Temperature is inconsistent with Approach from Plant Sizing Data.
+   **   ~~~   ** The Design Approach Temperature from inputs specified in Sizing:Plant object = CONDENSER LOOP
+   **   ~~~   ** is inconsistent with Design Approach Temperature specified in tower = COOLING TOWER.
+   **   ~~~   ** ..The Design Approach Temperature from inputs specified is = 3.40
+   **   ~~~   ** ..The Design Approach Temperature specified in tower is = 3.90
