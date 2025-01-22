@@ -1,0 +1,24 @@
+[build-system]
+requires = ['setuptools']
+build-backend = 'setuptools.build_meta'
+
+[project]
+name = 'hvacmarl6e43'
+requires-python = '>=3.11'
+version = '0.0.0a'
+dependencies = [
+    'tqdm',
+    #'controllables-energyplus',
+    #'controllables-energyplus[examples]',
+    'numpy',
+    'pythermalcomfort',
+    'ray[rllib,tune]',
+    'torch',
+    'holoviews',
+    'matplotlib',
+    'tables',
+]
+
+[tool.setuptools.packages.find]
+where = ['packages']
+namespaces = true
