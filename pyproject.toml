@@ -9,10 +9,11 @@ version = '0.0.0a'
 dependencies = [
     'tqdm',
     #'controllables-energyplus',
-    #'controllables-energyplus[examples]',
     'numpy',
     'pythermalcomfort',
-    'ray[rllib,tune]',
+    'ray[rllib,tune]==2.38.0',
+    'gpy',
+    'scikit-learn',
     'torch',
     'holoviews',
     'matplotlib',

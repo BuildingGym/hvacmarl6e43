@@ -46,7 +46,7 @@ class ComfortElecSavingRewardFunction:
         airspeed: Optional[float]
     
     def __call__(self, inputs: Inputs) -> float:
-        hvac_elec = inputs['supply_fan_elec'] + inputs['extract_fan_elec']
+        hvac_elec = inputs['hvac_elec']
         office_occupancy = inputs['office_occupancy']
         comfort = self._comfort_function({
             'temperature_drybulb': inputs['temperature_drybulb'],
@@ -89,7 +89,7 @@ class ComfortElecSavingVectorRewardFunction:
         airspeed: Optional[float]
 
     def __call__(self, inputs: Inputs) -> float:     
-        hvac_elec = inputs['supply_fan_elec'] + inputs['extract_fan_elec']
+        hvac_elec = inputs['hvac_elec']
         office_occupancy = inputs['office_occupancy']
         comfort = self._comfort_function({
             'temperature_drybulb': inputs['temperature_drybulb'],
@@ -109,7 +109,7 @@ class ComfortElecSavingVectorRewardFunction:
                     norm_comfort_1 = (self._comfort_history[1] - comfort_min) / (comfort_max - comfort_min)
 
                     # TODO
-                    elec_min, elec_max = 14510, 22506
+                    elec_min, elec_max = 0, 13000000
                     norm_elec_0 = (self._elec_history[0] - elec_min) / (elec_max - elec_min)
                     norm_elec_1 = (self._elec_history[1] - elec_min) / (elec_max - elec_min)
 
