@@ -324,7 +324,7 @@ to describe the relationships of competition and cooperation among multiple agen
 number of independent agents. To solve the problem as a multi-agent Markov game, this problem is first decomposed 
 into three main components: states, actions, and rewards, denoted as $S, A, R$, where $s \in S$, $a \in A$, 
 and $r \in R$. $S$ represents the environmental state, and each agent updates its 
-state-action function $V^\pi(o, a)$ (where $\pi$ is the policy network’s weight parameter) based 
+state-action function $V^\pi(o, a)$ (where $\pi$ is the policy network's weight parameter) based 
 on the observations of the environment.
 
 The dynamic information obtained locally is $o = (o_1, o_2, \ldots, o_N)$, which corresponds to 
@@ -440,12 +440,12 @@ and communication overhead. By efficiently utilizing parameterized policy functi
 require information from other agents to approximate the globally optimal actions.
 \subsection{Population-Based Training (PBT)}
 
-\begin{figure}
-    \centering
-    \adjustbox{max width=\textwidth, max height=0.8\textheight}{
-        \includegraphics{figures/PBT.png}
-    }
-\end{figure}
+% \begin{figure}
+%     \centering
+%     \adjustbox{max width=\textwidth, max height=0.8\textheight}{
+%         \includegraphics{figures/PBT.png}
+%     }
+% \end{figure}
 
 Population-Based Training (PBT) is an adaptive optimization method that combines 
 hyperparameter optimization and model training, commonly used in deep learning and 
@@ -484,17 +484,17 @@ TODO
     \centering
     \begin{subfigure}[b]{0.3\textwidth}
         \centering
-        \includegraphics[width=\textwidth]{figures/figure:building.png}
+        \includegraphics[width=\textwidth]{figures/building.png}
         \caption{Building, Whole}
     \end{subfigure}
     \begin{subfigure}[b]{0.3\textwidth}
         \centering
-        \includegraphics[width=\textwidth]{figures/figure:building-f1.png}
+        \includegraphics[width=\textwidth]{figures/building-f1.png}
         \caption{Building, 1st Floor}
     \end{subfigure}
     \begin{subfigure}[b]{0.3\textwidth}
         \centering
-        \includegraphics[width=\textwidth]{figures/figure:building-f2.png}
+        \includegraphics[width=\textwidth]{figures/building-f2.png}
         \caption{Building, 2nd Floor}
     \end{subfigure}
 \end{figure}

@@ -1,0 +1,32 @@
+OutputControl:Files,
+  No, ! CSV
+  No, ! MTR
+  No, ! ESO
+  No, ! EIO
+  No, ! Tabular
+  No, ! SQLite
+  No, ! JSON
+  No, ! AUDIT
+  No, ! Zone Sizing
+  No, ! System Sizing
+  No, ! DXF
+  No, ! BND
+  No, ! RDD
+  No, ! MDD
+  No, ! MTD
+  No, ! END
+  No, ! SHD
+  No, ! DFS
+  No, ! GLHE
+  No, ! DelightIn
+  No, ! DelightELdmp
+  No, ! DelightDFdmp
+  No, ! EDD
+  No, ! DBG
+  No, ! PerfLog
+  No, ! SLN
+  No, ! SCI
+  No, ! WRL
+  No, ! Screen
+  No, ! ExtShd
+  No; ! Tarcog

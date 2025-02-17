@@ -69,15 +69,13 @@ class CommonRLExperiment(CommonExperiment):
                     },
                 ),
                 # TODO
-                #num_samples=3,
-                num_samples=4,
-                #num_samples=1,
+                num_samples=3,
                 metric='env_runners/episode_reward_mean',
                 mode='max',
             ),
             run_config=air.RunConfig(
                 stop=CombinedStopper(
-                    MaximumIterationStopper(max_iter=300),
+                    MaximumIterationStopper(max_iter=600),
                     TrialPlateauStopper(
                         metric='episode_reward_mean', 
                         std=0.01, 
