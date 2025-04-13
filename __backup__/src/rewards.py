@@ -29,7 +29,7 @@ class ComfortFunction:
             clo=_pytc_.utilities.clo_dynamic(clo=self._clothing, met=self._metab_rate),
             limit_inputs=False ,
         )['pmv']
-        return self._pmv_limit - _numpy_.abs(pmv)
+        return pmv
 
 
 class ComfortElecSavingRewardFunction:
@@ -88,6 +88,13 @@ class ComfortElecSavingVectorRewardFunction:
         humidity: float
         airspeed: Optional[float]
 
+    # def calculate_pmv_penalty(self, pmv):
+    #     if _numpy_.abs(pmv) > self._penalty_limit:
+    #         pmv_penalty = 10 * (_numpy_.abs(pmv) - self._penalty_limit) / self._pmv_limit
+    #     else:
+    #         pmv_penalty = _numpy_.abs(pmv) / self._pmv_limit
+    #     return pmv_penalty
+
     def __call__(self, inputs: Inputs) -> float:     
         hvac_elec = inputs['hvac_elec']
         office_occupancy = inputs['office_occupancy']
@@ -98,41 +105,12 @@ class ComfortElecSavingVectorRewardFunction:
             'airspeed': inputs.get('airspeed', .1),
         })
         reward = 0
+        energy = hvac_elec/2600000
+        print(f'energy: {energy}')
         if office_occupancy != 0:  
-            self._comfort_history.append(_numpy_.array(comfort))
-            self._elec_history.append(_numpy_.array(hvac_elec))
-
-            if len(self._comfort_history) == 2:
-                with _numpy_.errstate(divide='ignore', invalid='ignore'):
-                    comfort_min, comfort_max = -0.5, 0.5
-                    norm_comfort_0 = (self._comfort_history[0] - comfort_min) / (comfort_max - comfort_min)
-                    norm_comfort_1 = (self._comfort_history[1] - comfort_min) / (comfort_max - comfort_min)
-
-                    # TODO
-                    elec_min, elec_max = 8720597, 14000000
-                    norm_elec_0 = (self._elec_history[0] - elec_min) / (elec_max - elec_min)
-                    norm_elec_1 = (self._elec_history[1] - elec_min) / (elec_max - elec_min)
-
-                    # delta_comfort =(self._comfort_history[1]-self._comfort_history[0])/self._comfort_history[0]
-                    # delta_elec = (self._elec_history[1]-self._elec_history[0])/self._elec_history[0]
-
-                    delta_comfort = norm_comfort_1 - norm_comfort_0
-                    delta_elec = norm_elec_1 - norm_elec_0
-
-                    angle = _numpy_.arctan2(delta_comfort, delta_elec)
-                    distance = _numpy_.sqrt(delta_elec**2 + delta_comfort**2)
-                    distance_to_goal = _numpy_.sqrt(
-                        (norm_elec_1 - 0) ** 2 + (norm_comfort_1 - 1) ** 2
-                    )
-                    max_distance = _numpy_.sqrt(2)
-                    reward_proximity = 1 - distance_to_goal / max_distance
-                    reward_angle = _numpy_.cos(angle - _numpy_.pi * 3 / 4)
-                    reward = reward_angle * distance
-
-                    if _numpy_.isnan(reward):
-                        reward = 0.
-
-            # print(f'pmv: {pmv}, reward: {reward}, office_occupancy: {Office_Occupancy}' )
+            # pmv_penalty = self.calculate_pmv_penalty(comfort)
+            reward = - energy - _numpy_.abs(comfort)
+        print(f'pmv: {comfort}, reward: {reward}, office_occupancy: {office_occupancy}' )
         return reward
 
 

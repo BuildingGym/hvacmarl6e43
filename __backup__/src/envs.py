@@ -76,7 +76,7 @@ class MultiAgentBuildingEnv(MultiAgentEnv):
                         type='Zone Temperature Control',
                         control_type='Cooling Setpoint',
                         key=var_key,
-                    ) 
+                    ).cast(_numpy_.array) 
                 ),
                 # 'air flow rate': BoxSpace(
                 #     low=0., high=100.,
@@ -117,7 +117,7 @@ class MultiAgentBuildingEnv(MultiAgentEnv):
                     ).bind(OutputVariable.Ref(
                         type='Zone Mean Air Temperature',
                         key=var_key,
-                    )),
+                    ).cast(_numpy_.array)),
                 'temperature:radiant': BoxSpace(
                         low=-_numpy_.inf, high=+_numpy_.inf,
                         dtype=_numpy_.float32,
@@ -125,7 +125,7 @@ class MultiAgentBuildingEnv(MultiAgentEnv):
                     ).bind(OutputVariable.Ref(
                         type='Zone Mean Radiant Temperature',
                         key=var_key,
-                    )),
+                    ).cast(_numpy_.array)),
                 'humidity': BoxSpace(
                         low=-_numpy_.inf, high=+_numpy_.inf,
                         dtype=_numpy_.float32,
@@ -133,7 +133,7 @@ class MultiAgentBuildingEnv(MultiAgentEnv):
                     ).bind(OutputVariable.Ref(
                         type='Zone Air Relative Humidity',
                         key=var_key,
-                    )),
+                    ).cast(_numpy_.array)),
                 # 'AHU COOLING COIL': BoxSpace(
                 #         low=-_numpy_.inf, high=+_numpy_.inf,
                 #         dtype=_numpy_.float32,
@@ -142,21 +142,21 @@ class MultiAgentBuildingEnv(MultiAgentEnv):
                 #         type='Cooling Coil Total Cooling Rate',
                 #         key='AIR LOOP AHU COOLING COIL',
                 #     )),
-                # 'Fan Electricity Rate': BoxSpace(
-                #     low=-_numpy_.inf, high=+_numpy_.inf,
-                #     dtype=_numpy_.float32,
-                #     shape=(),
-                # ).bind(OutputVariable.Ref(
-                #     type='Fan Electricity Rate',
-                #     key='AIR LOOP AHU SUPPLY FAN',
-                # )),
+                'Fan Electricity Rate': BoxSpace(
+                    low=-_numpy_.inf, high=+_numpy_.inf,
+                    dtype=_numpy_.float32,
+                    shape=(),
+                ).bind(OutputVariable.Ref(
+                    type='Fan Electricity Rate',
+                    key='AIR LOOP AHU SUPPLY FAN',
+                ).cast(_numpy_.array)),
                 'energy-consumption': BoxSpace(
                     low=-_numpy_.inf, high=+_numpy_.inf,
                     dtype=_numpy_.float32,
                     shape=(),
                 ).bind(OutputMeter.Ref(
                     type='Electricity:HVAC',
-                )),
+                ).cast(_numpy_.array)),
                 'occupancy': BoxSpace(
                     low=-_numpy_.inf, high=+_numpy_.inf,
                     dtype=_numpy_.float32,
@@ -164,7 +164,7 @@ class MultiAgentBuildingEnv(MultiAgentEnv):
                 ).bind(OutputVariable.Ref(
                     type='Schedule Value',
                     key='Office_OpenOff_Occ',
-                )),
+                ).cast(_numpy_.array)),
             }),
             'reward': RoomAgentRewardFunction(),
         }
@@ -332,7 +332,7 @@ class MonoAgentBuildingEnv(Env):
     def run(self):
         system = make_building(
             # TODO
-            #report='tmp/',
+            report='tmp/',
             # TODO rm
             #report='backup/tmp/',
             repeat=True,
