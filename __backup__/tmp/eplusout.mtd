@@ -1,0 +1,1724 @@
+
+ Meters for 95,1FFIRSTFLOOREAST:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:1FFIRSTFLOOREAST:OPENOFFICE [J]
+  OnMeter=Electricity:SpaceType:GENERAL [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:1FFIRSTFLOOREAST:OPENOFFICE [J]
+  OnMeter=InteriorLights:Electricity:SpaceType:GENERAL [J]
+  OnMeter=ELECTRIC EQUIPMENT#1FFirstFloorEast:OpenOffice#GeneralLights:InteriorLights:Electricity [J]
+  OnMeter=ELECTRIC EQUIPMENT#1FFirstFloorEast:OpenOffice#GeneralLights:InteriorLights:Electricity:Zone:1FFIRSTFLOOREAST:OPENOFFICE [J]
+  OnMeter=ELECTRIC EQUIPMENT#1FFirstFloorEast:OpenOffice#GeneralLights:InteriorLights:Electricity:SpaceType:GENERAL [J]
+
+ Meters for 216,1FFIRSTFLOORWEST:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:1FFIRSTFLOORWEST:OPENOFFICE [J]
+  OnMeter=Electricity:SpaceType:GENERAL [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:1FFIRSTFLOORWEST:OPENOFFICE [J]
+  OnMeter=InteriorLights:Electricity:SpaceType:GENERAL [J]
+  OnMeter=ELECTRIC EQUIPMENT#1FFirstFloorWest:OpenOffice#GeneralLights:InteriorLights:Electricity [J]
+  OnMeter=ELECTRIC EQUIPMENT#1FFirstFloorWest:OpenOffice#GeneralLights:InteriorLights:Electricity:Zone:1FFIRSTFLOORWEST:OPENOFFICE [J]
+  OnMeter=ELECTRIC EQUIPMENT#1FFirstFloorWest:OpenOffice#GeneralLights:InteriorLights:Electricity:SpaceType:GENERAL [J]
+
+ Meters for 277,0FGROUNDFLOORWEST:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:0FGROUNDFLOORWEST:OPENOFFICE [J]
+  OnMeter=Electricity:SpaceType:GENERAL [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:0FGROUNDFLOORWEST:OPENOFFICE [J]
+  OnMeter=InteriorLights:Electricity:SpaceType:GENERAL [J]
+  OnMeter=ELECTRIC EQUIPMENT#0FGroundFloorWest:OpenOffice#GeneralLights:InteriorLights:Electricity [J]
+  OnMeter=ELECTRIC EQUIPMENT#0FGroundFloorWest:OpenOffice#GeneralLights:InteriorLights:Electricity:Zone:0FGROUNDFLOORWEST:OPENOFFICE [J]
+  OnMeter=ELECTRIC EQUIPMENT#0FGroundFloorWest:OpenOffice#GeneralLights:InteriorLights:Electricity:SpaceType:GENERAL [J]
+
+ Meters for 338,0FGROUNDFLOOREAST:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:0FGROUNDFLOOREAST:OPENOFFICE [J]
+  OnMeter=Electricity:SpaceType:GENERAL [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:0FGROUNDFLOOREAST:OPENOFFICE [J]
+  OnMeter=InteriorLights:Electricity:SpaceType:GENERAL [J]
+  OnMeter=ELECTRIC EQUIPMENT#0FGroundFloorEast:OpenOffice#GeneralLights:InteriorLights:Electricity [J]
+  OnMeter=ELECTRIC EQUIPMENT#0FGroundFloorEast:OpenOffice#GeneralLights:InteriorLights:Electricity:Zone:0FGROUNDFLOOREAST:OPENOFFICE [J]
+  OnMeter=ELECTRIC EQUIPMENT#0FGroundFloorEast:OpenOffice#GeneralLights:InteriorLights:Electricity:SpaceType:GENERAL [J]
+
+ Meters for 399,CORECIRCULATION:CIRCULATION GENERAL LIGHTING:Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:CORECIRCULATION:CIRCULATION [J]
+  OnMeter=Electricity:SpaceType:GENERAL [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:CORECIRCULATION:CIRCULATION [J]
+  OnMeter=InteriorLights:Electricity:SpaceType:GENERAL [J]
+  OnMeter=ELECTRIC EQUIPMENT#CoreCirculation:Circulation#GeneralLights:InteriorLights:Electricity [J]
+  OnMeter=ELECTRIC EQUIPMENT#CoreCirculation:Circulation#GeneralLights:InteriorLights:Electricity:Zone:CORECIRCULATION:CIRCULATION [J]
+  OnMeter=ELECTRIC EQUIPMENT#CoreCirculation:Circulation#GeneralLights:InteriorLights:Electricity:SpaceType:GENERAL [J]
+
+ Meters for 460,ATRIUMRECEPTION:RECEPTION GENERAL LIGHTING:Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:ATRIUMRECEPTION:RECEPTION [J]
+  OnMeter=Electricity:SpaceType:GENERAL [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:ATRIUMRECEPTION:RECEPTION [J]
+  OnMeter=InteriorLights:Electricity:SpaceType:GENERAL [J]
+  OnMeter=ELECTRIC EQUIPMENT#AtriumReception:Reception#GeneralLights:InteriorLights:Electricity [J]
+  OnMeter=ELECTRIC EQUIPMENT#AtriumReception:Reception#GeneralLights:InteriorLights:Electricity:Zone:ATRIUMRECEPTION:RECEPTION [J]
+  OnMeter=ELECTRIC EQUIPMENT#AtriumReception:Reception#GeneralLights:InteriorLights:Electricity:SpaceType:GENERAL [J]
+
+ Meters for 521,1FFIRSTFLOOREAST1:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:1FFIRSTFLOOREAST1:OPENOFFICE [J]
+  OnMeter=Electricity:SpaceType:GENERAL [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:1FFIRSTFLOOREAST1:OPENOFFICE [J]
+  OnMeter=InteriorLights:Electricity:SpaceType:GENERAL [J]
+  OnMeter=ELECTRIC EQUIPMENT#1FFirstFloorEast1:OpenOffice#GeneralLights:InteriorLights:Electricity [J]
+  OnMeter=ELECTRIC EQUIPMENT#1FFirstFloorEast1:OpenOffice#GeneralLights:InteriorLights:Electricity:Zone:1FFIRSTFLOOREAST1:OPENOFFICE [J]
+  OnMeter=ELECTRIC EQUIPMENT#1FFirstFloorEast1:OpenOffice#GeneralLights:InteriorLights:Electricity:SpaceType:GENERAL [J]
+
+ Meters for 582,1FFIRSTFLOORWEST1:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:1FFIRSTFLOORWEST1:OPENOFFICE [J]
+  OnMeter=Electricity:SpaceType:GENERAL [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:1FFIRSTFLOORWEST1:OPENOFFICE [J]
+  OnMeter=InteriorLights:Electricity:SpaceType:GENERAL [J]
+  OnMeter=ELECTRIC EQUIPMENT#1FFirstFloorWest1:OpenOffice#GeneralLights:InteriorLights:Electricity [J]
+  OnMeter=ELECTRIC EQUIPMENT#1FFirstFloorWest1:OpenOffice#GeneralLights:InteriorLights:Electricity:Zone:1FFIRSTFLOORWEST1:OPENOFFICE [J]
+  OnMeter=ELECTRIC EQUIPMENT#1FFirstFloorWest1:OpenOffice#GeneralLights:InteriorLights:Electricity:SpaceType:GENERAL [J]
+
+ Meters for 643,0FGROUNDFLOORWEST1:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:0FGROUNDFLOORWEST1:OPENOFFICE [J]
+  OnMeter=Electricity:SpaceType:GENERAL [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:0FGROUNDFLOORWEST1:OPENOFFICE [J]
+  OnMeter=InteriorLights:Electricity:SpaceType:GENERAL [J]
+  OnMeter=ELECTRIC EQUIPMENT#0FGroundFloorWest1:OpenOffice#GeneralLights:InteriorLights:Electricity [J]
+  OnMeter=ELECTRIC EQUIPMENT#0FGroundFloorWest1:OpenOffice#GeneralLights:InteriorLights:Electricity:Zone:0FGROUNDFLOORWEST1:OPENOFFICE [J]
+  OnMeter=ELECTRIC EQUIPMENT#0FGroundFloorWest1:OpenOffice#GeneralLights:InteriorLights:Electricity:SpaceType:GENERAL [J]
+
+ Meters for 704,0FGROUNDFLOOREAST1:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:0FGROUNDFLOOREAST1:OPENOFFICE [J]
+  OnMeter=Electricity:SpaceType:GENERAL [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:0FGROUNDFLOOREAST1:OPENOFFICE [J]
+  OnMeter=InteriorLights:Electricity:SpaceType:GENERAL [J]
+  OnMeter=ELECTRIC EQUIPMENT#0FGroundFloorEast1:OpenOffice#GeneralLights:InteriorLights:Electricity [J]
+  OnMeter=ELECTRIC EQUIPMENT#0FGroundFloorEast1:OpenOffice#GeneralLights:InteriorLights:Electricity:Zone:0FGROUNDFLOOREAST1:OPENOFFICE [J]
+  OnMeter=ELECTRIC EQUIPMENT#0FGroundFloorEast1:OpenOffice#GeneralLights:InteriorLights:Electricity:SpaceType:GENERAL [J]
+
+ Meters for 765,CORECIRCULATION1:CIRCULATION GENERAL LIGHTING:Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:CORECIRCULATION1:CIRCULATION [J]
+  OnMeter=Electricity:SpaceType:GENERAL [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:CORECIRCULATION1:CIRCULATION [J]
+  OnMeter=InteriorLights:Electricity:SpaceType:GENERAL [J]
+  OnMeter=ELECTRIC EQUIPMENT#CoreCirculation1:Circulation#GeneralLights:InteriorLights:Electricity [J]
+  OnMeter=ELECTRIC EQUIPMENT#CoreCirculation1:Circulation#GeneralLights:InteriorLights:Electricity:Zone:CORECIRCULATION1:CIRCULATION [J]
+  OnMeter=ELECTRIC EQUIPMENT#CoreCirculation1:Circulation#GeneralLights:InteriorLights:Electricity:SpaceType:GENERAL [J]
+
+ Meters for 826,ATRIUMRECEPTION1:RECEPTION GENERAL LIGHTING:Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:ATRIUMRECEPTION1:RECEPTION [J]
+  OnMeter=Electricity:SpaceType:GENERAL [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:ATRIUMRECEPTION1:RECEPTION [J]
+  OnMeter=InteriorLights:Electricity:SpaceType:GENERAL [J]
+  OnMeter=ELECTRIC EQUIPMENT#AtriumReception1:Reception#GeneralLights:InteriorLights:Electricity [J]
+  OnMeter=ELECTRIC EQUIPMENT#AtriumReception1:Reception#GeneralLights:InteriorLights:Electricity:Zone:ATRIUMRECEPTION1:RECEPTION [J]
+  OnMeter=ELECTRIC EQUIPMENT#AtriumReception1:Reception#GeneralLights:InteriorLights:Electricity:SpaceType:GENERAL [J]
+
+ Meters for 887,BLOCK1:ZONE1 GENERAL LIGHTING:Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:BLOCK1:ZONE1 [J]
+  OnMeter=Electricity:SpaceType:GENERAL [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:BLOCK1:ZONE1 [J]
+  OnMeter=InteriorLights:Electricity:SpaceType:GENERAL [J]
+  OnMeter=ELECTRIC EQUIPMENT#Block1:Zone1#GeneralLights:InteriorLights:Electricity [J]
+  OnMeter=ELECTRIC EQUIPMENT#Block1:Zone1#GeneralLights:InteriorLights:Electricity:Zone:BLOCK1:ZONE1 [J]
+  OnMeter=ELECTRIC EQUIPMENT#Block1:Zone1#GeneralLights:InteriorLights:Electricity:SpaceType:GENERAL [J]
+
+ Meters for 952,1FFIRSTFLOOREAST:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:1FFIRSTFLOOREAST:OPENOFFICE [J]
+  OnMeter=Electricity:SpaceType:GENERAL [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:1FFIRSTFLOOREAST:OPENOFFICE [J]
+  OnMeter=InteriorEquipment:Electricity:SpaceType:GENERAL [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+  OnMeter=General:InteriorEquipment:Electricity:Zone:1FFIRSTFLOOREAST:OPENOFFICE [J]
+  OnMeter=General:InteriorEquipment:Electricity:SpaceType:GENERAL [J]
+
+ Meters for 1037,1FFIRSTFLOORWEST:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:1FFIRSTFLOORWEST:OPENOFFICE [J]
+  OnMeter=Electricity:SpaceType:GENERAL [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:1FFIRSTFLOORWEST:OPENOFFICE [J]
+  OnMeter=InteriorEquipment:Electricity:SpaceType:GENERAL [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+  OnMeter=General:InteriorEquipment:Electricity:Zone:1FFIRSTFLOORWEST:OPENOFFICE [J]
+  OnMeter=General:InteriorEquipment:Electricity:SpaceType:GENERAL [J]
+
+ Meters for 1074,0FGROUNDFLOORWEST:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:0FGROUNDFLOORWEST:OPENOFFICE [J]
+  OnMeter=Electricity:SpaceType:GENERAL [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:0FGROUNDFLOORWEST:OPENOFFICE [J]
+  OnMeter=InteriorEquipment:Electricity:SpaceType:GENERAL [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+  OnMeter=General:InteriorEquipment:Electricity:Zone:0FGROUNDFLOORWEST:OPENOFFICE [J]
+  OnMeter=General:InteriorEquipment:Electricity:SpaceType:GENERAL [J]
+
+ Meters for 1111,0FGROUNDFLOOREAST:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:0FGROUNDFLOOREAST:OPENOFFICE [J]
+  OnMeter=Electricity:SpaceType:GENERAL [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:0FGROUNDFLOOREAST:OPENOFFICE [J]
+  OnMeter=InteriorEquipment:Electricity:SpaceType:GENERAL [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+  OnMeter=General:InteriorEquipment:Electricity:Zone:0FGROUNDFLOOREAST:OPENOFFICE [J]
+  OnMeter=General:InteriorEquipment:Electricity:SpaceType:GENERAL [J]
+
+ Meters for 1148,CORECIRCULATION:CIRCULATION EQUIPMENT GAIN:Other Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:CORECIRCULATION:CIRCULATION [J]
+  OnMeter=Electricity:SpaceType:GENERAL [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:CORECIRCULATION:CIRCULATION [J]
+  OnMeter=InteriorEquipment:Electricity:SpaceType:GENERAL [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+  OnMeter=General:InteriorEquipment:Electricity:Zone:CORECIRCULATION:CIRCULATION [J]
+  OnMeter=General:InteriorEquipment:Electricity:SpaceType:GENERAL [J]
+
+ Meters for 1185,ATRIUMRECEPTION:RECEPTION EQUIPMENT GAIN:Other Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:ATRIUMRECEPTION:RECEPTION [J]
+  OnMeter=Electricity:SpaceType:GENERAL [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:ATRIUMRECEPTION:RECEPTION [J]
+  OnMeter=InteriorEquipment:Electricity:SpaceType:GENERAL [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+  OnMeter=General:InteriorEquipment:Electricity:Zone:ATRIUMRECEPTION:RECEPTION [J]
+  OnMeter=General:InteriorEquipment:Electricity:SpaceType:GENERAL [J]
+
+ Meters for 1222,1FFIRSTFLOOREAST1:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:1FFIRSTFLOOREAST1:OPENOFFICE [J]
+  OnMeter=Electricity:SpaceType:GENERAL [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:1FFIRSTFLOOREAST1:OPENOFFICE [J]
+  OnMeter=InteriorEquipment:Electricity:SpaceType:GENERAL [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+  OnMeter=General:InteriorEquipment:Electricity:Zone:1FFIRSTFLOOREAST1:OPENOFFICE [J]
+  OnMeter=General:InteriorEquipment:Electricity:SpaceType:GENERAL [J]
+
+ Meters for 1259,1FFIRSTFLOORWEST1:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:1FFIRSTFLOORWEST1:OPENOFFICE [J]
+  OnMeter=Electricity:SpaceType:GENERAL [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:1FFIRSTFLOORWEST1:OPENOFFICE [J]
+  OnMeter=InteriorEquipment:Electricity:SpaceType:GENERAL [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+  OnMeter=General:InteriorEquipment:Electricity:Zone:1FFIRSTFLOORWEST1:OPENOFFICE [J]
+  OnMeter=General:InteriorEquipment:Electricity:SpaceType:GENERAL [J]
+
+ Meters for 1296,0FGROUNDFLOORWEST1:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:0FGROUNDFLOORWEST1:OPENOFFICE [J]
+  OnMeter=Electricity:SpaceType:GENERAL [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:0FGROUNDFLOORWEST1:OPENOFFICE [J]
+  OnMeter=InteriorEquipment:Electricity:SpaceType:GENERAL [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+  OnMeter=General:InteriorEquipment:Electricity:Zone:0FGROUNDFLOORWEST1:OPENOFFICE [J]
+  OnMeter=General:InteriorEquipment:Electricity:SpaceType:GENERAL [J]
+
+ Meters for 1333,0FGROUNDFLOOREAST1:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:0FGROUNDFLOOREAST1:OPENOFFICE [J]
+  OnMeter=Electricity:SpaceType:GENERAL [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:0FGROUNDFLOOREAST1:OPENOFFICE [J]
+  OnMeter=InteriorEquipment:Electricity:SpaceType:GENERAL [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+  OnMeter=General:InteriorEquipment:Electricity:Zone:0FGROUNDFLOOREAST1:OPENOFFICE [J]
+  OnMeter=General:InteriorEquipment:Electricity:SpaceType:GENERAL [J]
+
+ Meters for 1370,CORECIRCULATION1:CIRCULATION EQUIPMENT GAIN:Other Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:CORECIRCULATION1:CIRCULATION [J]
+  OnMeter=Electricity:SpaceType:GENERAL [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:CORECIRCULATION1:CIRCULATION [J]
+  OnMeter=InteriorEquipment:Electricity:SpaceType:GENERAL [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+  OnMeter=General:InteriorEquipment:Electricity:Zone:CORECIRCULATION1:CIRCULATION [J]
+  OnMeter=General:InteriorEquipment:Electricity:SpaceType:GENERAL [J]
+
+ Meters for 1407,ATRIUMRECEPTION1:RECEPTION EQUIPMENT GAIN:Other Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:ATRIUMRECEPTION1:RECEPTION [J]
+  OnMeter=Electricity:SpaceType:GENERAL [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:ATRIUMRECEPTION1:RECEPTION [J]
+  OnMeter=InteriorEquipment:Electricity:SpaceType:GENERAL [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+  OnMeter=General:InteriorEquipment:Electricity:Zone:ATRIUMRECEPTION1:RECEPTION [J]
+  OnMeter=General:InteriorEquipment:Electricity:SpaceType:GENERAL [J]
+
+ Meters for 1444,BLOCK1:ZONE1 EQUIPMENT GAIN:Other Equipment Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:BLOCK1:ZONE1 [J]
+  OnMeter=Electricity:SpaceType:GENERAL [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:BLOCK1:ZONE1 [J]
+  OnMeter=InteriorEquipment:Electricity:SpaceType:GENERAL [J]
+  OnMeter=General:InteriorEquipment:Electricity [J]
+  OnMeter=General:InteriorEquipment:Electricity:Zone:BLOCK1:ZONE1 [J]
+  OnMeter=General:InteriorEquipment:Electricity:SpaceType:GENERAL [J]
+
+ Meters for 1949,1FFIRSTFLOOREAST:OPENOFFICE:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:1FFIRSTFLOOREAST:OPENOFFICE [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:1FFIRSTFLOOREAST:OPENOFFICE [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+  OnMeter=General:Heating:EnergyTransfer:Zone:1FFIRSTFLOOREAST:OPENOFFICE [J]
+
+ Meters for 2034,1FFIRSTFLOOREAST:OPENOFFICE:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:1FFIRSTFLOOREAST:OPENOFFICE [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:1FFIRSTFLOOREAST:OPENOFFICE [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+  OnMeter=General:Cooling:EnergyTransfer:Zone:1FFIRSTFLOOREAST:OPENOFFICE [J]
+
+ Meters for 2095,1FFIRSTFLOORWEST:OPENOFFICE:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:1FFIRSTFLOORWEST:OPENOFFICE [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:1FFIRSTFLOORWEST:OPENOFFICE [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+  OnMeter=General:Heating:EnergyTransfer:Zone:1FFIRSTFLOORWEST:OPENOFFICE [J]
+
+ Meters for 2132,1FFIRSTFLOORWEST:OPENOFFICE:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:1FFIRSTFLOORWEST:OPENOFFICE [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:1FFIRSTFLOORWEST:OPENOFFICE [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+  OnMeter=General:Cooling:EnergyTransfer:Zone:1FFIRSTFLOORWEST:OPENOFFICE [J]
+
+ Meters for 2169,0FGROUNDFLOORWEST:OPENOFFICE:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:0FGROUNDFLOORWEST:OPENOFFICE [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:0FGROUNDFLOORWEST:OPENOFFICE [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+  OnMeter=General:Heating:EnergyTransfer:Zone:0FGROUNDFLOORWEST:OPENOFFICE [J]
+
+ Meters for 2206,0FGROUNDFLOORWEST:OPENOFFICE:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:0FGROUNDFLOORWEST:OPENOFFICE [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:0FGROUNDFLOORWEST:OPENOFFICE [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+  OnMeter=General:Cooling:EnergyTransfer:Zone:0FGROUNDFLOORWEST:OPENOFFICE [J]
+
+ Meters for 2243,0FGROUNDFLOOREAST:OPENOFFICE:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:0FGROUNDFLOOREAST:OPENOFFICE [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:0FGROUNDFLOOREAST:OPENOFFICE [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+  OnMeter=General:Heating:EnergyTransfer:Zone:0FGROUNDFLOOREAST:OPENOFFICE [J]
+
+ Meters for 2280,0FGROUNDFLOOREAST:OPENOFFICE:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:0FGROUNDFLOOREAST:OPENOFFICE [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:0FGROUNDFLOOREAST:OPENOFFICE [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+  OnMeter=General:Cooling:EnergyTransfer:Zone:0FGROUNDFLOOREAST:OPENOFFICE [J]
+
+ Meters for 2317,CORECIRCULATION:CIRCULATION:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:CORECIRCULATION:CIRCULATION [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:CORECIRCULATION:CIRCULATION [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+  OnMeter=General:Heating:EnergyTransfer:Zone:CORECIRCULATION:CIRCULATION [J]
+
+ Meters for 2354,CORECIRCULATION:CIRCULATION:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:CORECIRCULATION:CIRCULATION [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:CORECIRCULATION:CIRCULATION [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+  OnMeter=General:Cooling:EnergyTransfer:Zone:CORECIRCULATION:CIRCULATION [J]
+
+ Meters for 2391,ATRIUMRECEPTION:RECEPTION:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:ATRIUMRECEPTION:RECEPTION [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:ATRIUMRECEPTION:RECEPTION [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+  OnMeter=General:Heating:EnergyTransfer:Zone:ATRIUMRECEPTION:RECEPTION [J]
+
+ Meters for 2428,ATRIUMRECEPTION:RECEPTION:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:ATRIUMRECEPTION:RECEPTION [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:ATRIUMRECEPTION:RECEPTION [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+  OnMeter=General:Cooling:EnergyTransfer:Zone:ATRIUMRECEPTION:RECEPTION [J]
+
+ Meters for 2465,1FFIRSTFLOOREAST1:OPENOFFICE:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:1FFIRSTFLOOREAST1:OPENOFFICE [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:1FFIRSTFLOOREAST1:OPENOFFICE [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+  OnMeter=General:Heating:EnergyTransfer:Zone:1FFIRSTFLOOREAST1:OPENOFFICE [J]
+
+ Meters for 2502,1FFIRSTFLOOREAST1:OPENOFFICE:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:1FFIRSTFLOOREAST1:OPENOFFICE [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:1FFIRSTFLOOREAST1:OPENOFFICE [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+  OnMeter=General:Cooling:EnergyTransfer:Zone:1FFIRSTFLOOREAST1:OPENOFFICE [J]
+
+ Meters for 2539,1FFIRSTFLOORWEST1:OPENOFFICE:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:1FFIRSTFLOORWEST1:OPENOFFICE [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:1FFIRSTFLOORWEST1:OPENOFFICE [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+  OnMeter=General:Heating:EnergyTransfer:Zone:1FFIRSTFLOORWEST1:OPENOFFICE [J]
+
+ Meters for 2576,1FFIRSTFLOORWEST1:OPENOFFICE:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:1FFIRSTFLOORWEST1:OPENOFFICE [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:1FFIRSTFLOORWEST1:OPENOFFICE [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+  OnMeter=General:Cooling:EnergyTransfer:Zone:1FFIRSTFLOORWEST1:OPENOFFICE [J]
+
+ Meters for 2613,0FGROUNDFLOORWEST1:OPENOFFICE:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:0FGROUNDFLOORWEST1:OPENOFFICE [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:0FGROUNDFLOORWEST1:OPENOFFICE [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+  OnMeter=General:Heating:EnergyTransfer:Zone:0FGROUNDFLOORWEST1:OPENOFFICE [J]
+
+ Meters for 2650,0FGROUNDFLOORWEST1:OPENOFFICE:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:0FGROUNDFLOORWEST1:OPENOFFICE [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:0FGROUNDFLOORWEST1:OPENOFFICE [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+  OnMeter=General:Cooling:EnergyTransfer:Zone:0FGROUNDFLOORWEST1:OPENOFFICE [J]
+
+ Meters for 2687,0FGROUNDFLOOREAST1:OPENOFFICE:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:0FGROUNDFLOOREAST1:OPENOFFICE [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:0FGROUNDFLOOREAST1:OPENOFFICE [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+  OnMeter=General:Heating:EnergyTransfer:Zone:0FGROUNDFLOOREAST1:OPENOFFICE [J]
+
+ Meters for 2724,0FGROUNDFLOOREAST1:OPENOFFICE:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:0FGROUNDFLOOREAST1:OPENOFFICE [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:0FGROUNDFLOOREAST1:OPENOFFICE [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+  OnMeter=General:Cooling:EnergyTransfer:Zone:0FGROUNDFLOOREAST1:OPENOFFICE [J]
+
+ Meters for 2761,CORECIRCULATION1:CIRCULATION:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:CORECIRCULATION1:CIRCULATION [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:CORECIRCULATION1:CIRCULATION [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+  OnMeter=General:Heating:EnergyTransfer:Zone:CORECIRCULATION1:CIRCULATION [J]
+
+ Meters for 2798,CORECIRCULATION1:CIRCULATION:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:CORECIRCULATION1:CIRCULATION [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:CORECIRCULATION1:CIRCULATION [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+  OnMeter=General:Cooling:EnergyTransfer:Zone:CORECIRCULATION1:CIRCULATION [J]
+
+ Meters for 2835,ATRIUMRECEPTION1:RECEPTION:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:ATRIUMRECEPTION1:RECEPTION [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:ATRIUMRECEPTION1:RECEPTION [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+  OnMeter=General:Heating:EnergyTransfer:Zone:ATRIUMRECEPTION1:RECEPTION [J]
+
+ Meters for 2872,ATRIUMRECEPTION1:RECEPTION:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:ATRIUMRECEPTION1:RECEPTION [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:ATRIUMRECEPTION1:RECEPTION [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+  OnMeter=General:Cooling:EnergyTransfer:Zone:ATRIUMRECEPTION1:RECEPTION [J]
+
+ Meters for 2909,BLOCK1:ZONE1:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:BLOCK1:ZONE1 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:BLOCK1:ZONE1 [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+  OnMeter=General:Heating:EnergyTransfer:Zone:BLOCK1:ZONE1 [J]
+
+ Meters for 2946,BLOCK1:ZONE1:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:BLOCK1:ZONE1 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:BLOCK1:ZONE1 [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+  OnMeter=General:Cooling:EnergyTransfer:Zone:BLOCK1:ZONE1 [J]
+
+ Meters for 2979,EXAMPLE INVERTER - SIMPLE:Inverter Conversion Loss Decrement Energy [J]
+  OnMeter=ElectricityProduced:Facility [J]
+  OnMeter=ElectricityProduced:Plant [J]
+  OnMeter=PowerConversion:ElectricityProduced [J]
+
+ Meters for 3016,EXAMPLE INVERTER - SIMPLE:Inverter Ancillary AC Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Plant [J]
+  OnMeter=Cogeneration:Electricity [J]
+  OnMeter=DCtoACInverter Ancillary:Cogeneration:Electricity [J]
+
+ Meters for 3053,Whole Building:Facility Total Purchased Electricity Energy [J]
+  OnMeter=ElectricityPurchased:Facility [J]
+  OnMeter=ElectricityPurchased:Plant [J]
+  OnMeter=Cogeneration:ElectricityPurchased [J]
+  OnMeter=General:Cogeneration:ElectricityPurchased [J]
+
+ Meters for 3102,Whole Building:Facility Total Surplus Electricity Energy [J]
+  OnMeter=ElectricitySurplusSold:Facility [J]
+  OnMeter=ElectricitySurplusSold:Plant [J]
+  OnMeter=Cogeneration:ElectricitySurplusSold [J]
+  OnMeter=General:Cogeneration:ElectricitySurplusSold [J]
+
+ Meters for 3151,Whole Building:Facility Net Purchased Electricity Energy [J]
+  OnMeter=ElectricityNet:Facility [J]
+  OnMeter=ElectricityNet:Plant [J]
+  OnMeter=Cogeneration:ElectricityNet [J]
+  OnMeter=General:Cogeneration:ElectricityNet [J]
+
+ Meters for 3204,SOLAR COLLECTOR 1:Generator Produced DC Electricity Energy [J]
+  OnMeter=ElectricityProduced:Facility [J]
+  OnMeter=ElectricityProduced:Plant [J]
+  OnMeter=Photovoltaic:ElectricityProduced [J]
+
+ Meters for 3217,SOLAR COLLECTOR 2:Generator Produced DC Electricity Energy [J]
+  OnMeter=ElectricityProduced:Facility [J]
+  OnMeter=ElectricityProduced:Plant [J]
+  OnMeter=Photovoltaic:ElectricityProduced [J]
+
+ Meters for 3218,SOLAR COLLECTOR 3:Generator Produced DC Electricity Energy [J]
+  OnMeter=ElectricityProduced:Facility [J]
+  OnMeter=ElectricityProduced:Plant [J]
+  OnMeter=Photovoltaic:ElectricityProduced [J]
+
+ Meters for 3219,SOLAR COLLECTOR 4:Generator Produced DC Electricity Energy [J]
+  OnMeter=ElectricityProduced:Facility [J]
+  OnMeter=ElectricityProduced:Plant [J]
+  OnMeter=Photovoltaic:ElectricityProduced [J]
+
+ Meters for 3428,AIR LOOP AHU HEATING COIL:Heating Coil Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=HeatingCoils:EnergyTransfer [J]
+
+ Meters for 3453,AIR LOOP AHU HEATING COIL:Heating Coil Source Side Heat Transfer Energy [J]
+  OnMeter=PlantLoopHeatingDemand:Facility [J]
+  OnMeter=PlantLoopHeatingDemand:HVAC [J]
+  OnMeter=HeatingCoils:PlantLoopHeatingDemand [J]
+
+ Meters for 3494,AIR LOOP AHU COOLING COIL:Cooling Coil Total Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=CoolingCoils:EnergyTransfer [J]
+
+ Meters for 3507,AIR LOOP AHU COOLING COIL:Cooling Coil Source Side Heat Transfer Energy [J]
+  OnMeter=PlantLoopCoolingDemand:Facility [J]
+  OnMeter=PlantLoopCoolingDemand:HVAC [J]
+  OnMeter=CoolingCoils:PlantLoopCoolingDemand [J]
+
+ Meters for 3556,AIR LOOP AHU EXTRACT FAN:Fan Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Fans:Electricity [J]
+  OnMeter=General:Fans:Electricity [J]
+
+ Meters for 3597,AIR LOOP AHU SUPPLY FAN:Fan Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:HVAC [J]
+  OnMeter=Fans:Electricity [J]
+  OnMeter=General:Fans:Electricity [J]
+
+ Meters for 3598,BOILER:Boiler Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Plant [J]
+  OnMeter=Boilers:EnergyTransfer [J]
+
+ Meters for 3627,BOILER:Boiler NaturalGas Energy [J]
+  OnMeter=NaturalGas:Facility [J]
+  OnMeter=NaturalGas:Plant [J]
+  OnMeter=Heating:NaturalGas [J]
+  OnMeter=Boiler:Heating:NaturalGas [J]
+
+ Meters for 3680,BOILER:Boiler Ancillary Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Plant [J]
+  OnMeter=Heating:Electricity [J]
+  OnMeter=Boiler Parasitic:Heating:Electricity [J]
+
+ Meters for 3705,BOILER:Boiler Ancillary NaturalGas Energy [J]
+  OnMeter=NaturalGas:Facility [J]
+  OnMeter=NaturalGas:Plant [J]
+  OnMeter=Heating:NaturalGas [J]
+  OnMeter=Boiler Parasitic:Heating:NaturalGas [J]
+
+ Meters for 3722,CHILLER:Chiller Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Plant [J]
+  OnMeter=Cooling:Electricity [J]
+  OnMeter=General:Cooling:Electricity [J]
+
+ Meters for 3751,CHILLER:Chiller Evaporator Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Plant [J]
+  OnMeter=Chillers:EnergyTransfer [J]
+
+ Meters for 3768,CHILLER:Chiller Condenser Heat Transfer Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Plant [J]
+  OnMeter=HeatRejection:EnergyTransfer [J]
+  OnMeter=General:HeatRejection:EnergyTransfer [J]
+
+ Meters for 3813,COOLING TOWER:Cooling Tower Fan Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Plant [J]
+  OnMeter=HeatRejection:Electricity [J]
+  OnMeter=General:HeatRejection:Electricity [J]
+
+ Meters for 3853,COOLING TOWER:Cooling Tower Make Up Water Volume [m3]
+  OnMeter=Water:Facility [m3]
+  OnMeter=Water:Plant [m3]
+  OnMeter=HeatRejection:Water [m3]
+  OnMeter=General:HeatRejection:Water [m3]
+
+ Meters for 3902,COOLING TOWER:Cooling Tower Make Up Mains Water Volume [m3]
+  OnMeter=MainsWater:Facility [m3]
+  OnMeter=MainsWater:Plant [m3]
+  OnMeter=HeatRejection:MainsWater [m3]
+  OnMeter=General:HeatRejection:MainsWater [m3]
+
+ Meters for 3951,HW LOOP SUPPLY PUMP:Pump Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Plant [J]
+  OnMeter=Pumps:Electricity [J]
+  OnMeter=General:Pumps:Electricity [J]
+
+ Meters for 3980,CHW LOOP SUPPLY PUMP:Pump Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Plant [J]
+  OnMeter=Pumps:Electricity [J]
+  OnMeter=General:Pumps:Electricity [J]
+
+ Meters for 3985,CONDENSER LOOP SUPPLY PUMP:Pump Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Plant [J]
+  OnMeter=Pumps:Electricity [J]
+  OnMeter=General:Pumps:Electricity [J]
+
+ Meters for 3990,Site:Environmental Impact Total N2O Emissions Carbon Equivalent Mass [kg]
+  OnMeter=Carbon Equivalent:Facility [kg]
+  OnMeter=CarbonEquivalentEmissions:Carbon Equivalent [kg]
+
+ Meters for 4015,Site:Environmental Impact Total CH4 Emissions Carbon Equivalent Mass [kg]
+  OnMeter=Carbon Equivalent:Facility [kg]
+  OnMeter=CarbonEquivalentEmissions:Carbon Equivalent [kg]
+
+ Meters for 4016,Site:Environmental Impact Total CO2 Emissions Carbon Equivalent Mass [kg]
+  OnMeter=Carbon Equivalent:Facility [kg]
+  OnMeter=CarbonEquivalentEmissions:Carbon Equivalent [kg]
+
+ For Meter=Electricity:Facility [J], ResourceType=Electricity, contents are:
+  1FFIRSTFLOOREAST:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy
+  1FFIRSTFLOORWEST:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy
+  0FGROUNDFLOORWEST:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy
+  0FGROUNDFLOOREAST:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy
+  CORECIRCULATION:CIRCULATION GENERAL LIGHTING:Lights Electricity Energy
+  ATRIUMRECEPTION:RECEPTION GENERAL LIGHTING:Lights Electricity Energy
+  1FFIRSTFLOOREAST1:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy
+  1FFIRSTFLOORWEST1:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy
+  0FGROUNDFLOORWEST1:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy
+  0FGROUNDFLOOREAST1:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy
+  CORECIRCULATION1:CIRCULATION GENERAL LIGHTING:Lights Electricity Energy
+  ATRIUMRECEPTION1:RECEPTION GENERAL LIGHTING:Lights Electricity Energy
+  BLOCK1:ZONE1 GENERAL LIGHTING:Lights Electricity Energy
+  1FFIRSTFLOOREAST:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy
+  1FFIRSTFLOORWEST:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy
+  0FGROUNDFLOORWEST:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy
+  0FGROUNDFLOOREAST:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy
+  CORECIRCULATION:CIRCULATION EQUIPMENT GAIN:Other Equipment Electricity Energy
+  ATRIUMRECEPTION:RECEPTION EQUIPMENT GAIN:Other Equipment Electricity Energy
+  1FFIRSTFLOOREAST1:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy
+  1FFIRSTFLOORWEST1:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy
+  0FGROUNDFLOORWEST1:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy
+  0FGROUNDFLOOREAST1:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy
+  CORECIRCULATION1:CIRCULATION EQUIPMENT GAIN:Other Equipment Electricity Energy
+  ATRIUMRECEPTION1:RECEPTION EQUIPMENT GAIN:Other Equipment Electricity Energy
+  BLOCK1:ZONE1 EQUIPMENT GAIN:Other Equipment Electricity Energy
+  EXAMPLE INVERTER - SIMPLE:Inverter Ancillary AC Electricity Energy
+  AIR LOOP AHU EXTRACT FAN:Fan Electricity Energy
+  AIR LOOP AHU SUPPLY FAN:Fan Electricity Energy
+  BOILER:Boiler Ancillary Electricity Energy
+  CHILLER:Chiller Electricity Energy
+  COOLING TOWER:Cooling Tower Fan Electricity Energy
+  HW LOOP SUPPLY PUMP:Pump Electricity Energy
+  CHW LOOP SUPPLY PUMP:Pump Electricity Energy
+  CONDENSER LOOP SUPPLY PUMP:Pump Electricity Energy
+
+ For Meter=Electricity:Building [J], ResourceType=Electricity, Group=Building, contents are:
+  1FFIRSTFLOOREAST:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy
+  1FFIRSTFLOORWEST:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy
+  0FGROUNDFLOORWEST:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy
+  0FGROUNDFLOOREAST:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy
+  CORECIRCULATION:CIRCULATION GENERAL LIGHTING:Lights Electricity Energy
+  ATRIUMRECEPTION:RECEPTION GENERAL LIGHTING:Lights Electricity Energy
+  1FFIRSTFLOOREAST1:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy
+  1FFIRSTFLOORWEST1:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy
+  0FGROUNDFLOORWEST1:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy
+  0FGROUNDFLOOREAST1:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy
+  CORECIRCULATION1:CIRCULATION GENERAL LIGHTING:Lights Electricity Energy
+  ATRIUMRECEPTION1:RECEPTION GENERAL LIGHTING:Lights Electricity Energy
+  BLOCK1:ZONE1 GENERAL LIGHTING:Lights Electricity Energy
+  1FFIRSTFLOOREAST:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy
+  1FFIRSTFLOORWEST:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy
+  0FGROUNDFLOORWEST:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy
+  0FGROUNDFLOOREAST:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy
+  CORECIRCULATION:CIRCULATION EQUIPMENT GAIN:Other Equipment Electricity Energy
+  ATRIUMRECEPTION:RECEPTION EQUIPMENT GAIN:Other Equipment Electricity Energy
+  1FFIRSTFLOOREAST1:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy
+  1FFIRSTFLOORWEST1:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy
+  0FGROUNDFLOORWEST1:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy
+  0FGROUNDFLOOREAST1:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy
+  CORECIRCULATION1:CIRCULATION EQUIPMENT GAIN:Other Equipment Electricity Energy
+  ATRIUMRECEPTION1:RECEPTION EQUIPMENT GAIN:Other Equipment Electricity Energy
+  BLOCK1:ZONE1 EQUIPMENT GAIN:Other Equipment Electricity Energy
+
+ For Meter=Electricity:Zone:1FFIRSTFLOOREAST:OPENOFFICE [J], ResourceType=Electricity, Group=Zone, contents are:
+  1FFIRSTFLOOREAST:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy
+  1FFIRSTFLOOREAST:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy
+
+ For Meter=Electricity:SpaceType:GENERAL [J], ResourceType=Electricity, Group=SpaceType, contents are:
+  1FFIRSTFLOOREAST:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy
+  1FFIRSTFLOORWEST:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy
+  0FGROUNDFLOORWEST:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy
+  0FGROUNDFLOOREAST:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy
+  CORECIRCULATION:CIRCULATION GENERAL LIGHTING:Lights Electricity Energy
+  ATRIUMRECEPTION:RECEPTION GENERAL LIGHTING:Lights Electricity Energy
+  1FFIRSTFLOOREAST1:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy
+  1FFIRSTFLOORWEST1:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy
+  0FGROUNDFLOORWEST1:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy
+  0FGROUNDFLOOREAST1:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy
+  CORECIRCULATION1:CIRCULATION GENERAL LIGHTING:Lights Electricity Energy
+  ATRIUMRECEPTION1:RECEPTION GENERAL LIGHTING:Lights Electricity Energy
+  BLOCK1:ZONE1 GENERAL LIGHTING:Lights Electricity Energy
+  1FFIRSTFLOOREAST:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy
+  1FFIRSTFLOORWEST:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy
+  0FGROUNDFLOORWEST:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy
+  0FGROUNDFLOOREAST:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy
+  CORECIRCULATION:CIRCULATION EQUIPMENT GAIN:Other Equipment Electricity Energy
+  ATRIUMRECEPTION:RECEPTION EQUIPMENT GAIN:Other Equipment Electricity Energy
+  1FFIRSTFLOOREAST1:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy
+  1FFIRSTFLOORWEST1:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy
+  0FGROUNDFLOORWEST1:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy
+  0FGROUNDFLOOREAST1:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy
+  CORECIRCULATION1:CIRCULATION EQUIPMENT GAIN:Other Equipment Electricity Energy
+  ATRIUMRECEPTION1:RECEPTION EQUIPMENT GAIN:Other Equipment Electricity Energy
+  BLOCK1:ZONE1 EQUIPMENT GAIN:Other Equipment Electricity Energy
+
+ For Meter=InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  1FFIRSTFLOOREAST:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy
+  1FFIRSTFLOORWEST:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy
+  0FGROUNDFLOORWEST:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy
+  0FGROUNDFLOOREAST:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy
+  CORECIRCULATION:CIRCULATION GENERAL LIGHTING:Lights Electricity Energy
+  ATRIUMRECEPTION:RECEPTION GENERAL LIGHTING:Lights Electricity Energy
+  1FFIRSTFLOOREAST1:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy
+  1FFIRSTFLOORWEST1:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy
+  0FGROUNDFLOORWEST1:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy
+  0FGROUNDFLOOREAST1:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy
+  CORECIRCULATION1:CIRCULATION GENERAL LIGHTING:Lights Electricity Energy
+  ATRIUMRECEPTION1:RECEPTION GENERAL LIGHTING:Lights Electricity Energy
+  BLOCK1:ZONE1 GENERAL LIGHTING:Lights Electricity Energy
+
+ For Meter=InteriorLights:Electricity:Zone:1FFIRSTFLOOREAST:OPENOFFICE [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  1FFIRSTFLOOREAST:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy
+
+ For Meter=InteriorLights:Electricity:SpaceType:GENERAL [J], ResourceType=Electricity, EndUse=InteriorLights, Group=SpaceType, contents are:
+  1FFIRSTFLOOREAST:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy
+  1FFIRSTFLOORWEST:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy
+  0FGROUNDFLOORWEST:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy
+  0FGROUNDFLOOREAST:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy
+  CORECIRCULATION:CIRCULATION GENERAL LIGHTING:Lights Electricity Energy
+  ATRIUMRECEPTION:RECEPTION GENERAL LIGHTING:Lights Electricity Energy
+  1FFIRSTFLOOREAST1:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy
+  1FFIRSTFLOORWEST1:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy
+  0FGROUNDFLOORWEST1:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy
+  0FGROUNDFLOOREAST1:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy
+  CORECIRCULATION1:CIRCULATION GENERAL LIGHTING:Lights Electricity Energy
+  ATRIUMRECEPTION1:RECEPTION GENERAL LIGHTING:Lights Electricity Energy
+  BLOCK1:ZONE1 GENERAL LIGHTING:Lights Electricity Energy
+
+ For Meter=ELECTRIC EQUIPMENT#1FFirstFloorEast:OpenOffice#GeneralLights:InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  1FFIRSTFLOOREAST:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy
+
+ For Meter=ELECTRIC EQUIPMENT#1FFirstFloorEast:OpenOffice#GeneralLights:InteriorLights:Electricity:Zone:1FFIRSTFLOOREAST:OPENOFFICE [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  1FFIRSTFLOOREAST:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy
+
+ For Meter=ELECTRIC EQUIPMENT#1FFirstFloorEast:OpenOffice#GeneralLights:InteriorLights:Electricity:SpaceType:GENERAL [J], ResourceType=Electricity, EndUse=InteriorLights, Group=SpaceType, contents are:
+  1FFIRSTFLOOREAST:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy
+
+ For Meter=Electricity:Zone:1FFIRSTFLOORWEST:OPENOFFICE [J], ResourceType=Electricity, Group=Zone, contents are:
+  1FFIRSTFLOORWEST:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy
+  1FFIRSTFLOORWEST:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy
+
+ For Meter=InteriorLights:Electricity:Zone:1FFIRSTFLOORWEST:OPENOFFICE [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  1FFIRSTFLOORWEST:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy
+
+ For Meter=ELECTRIC EQUIPMENT#1FFirstFloorWest:OpenOffice#GeneralLights:InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  1FFIRSTFLOORWEST:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy
+
+ For Meter=ELECTRIC EQUIPMENT#1FFirstFloorWest:OpenOffice#GeneralLights:InteriorLights:Electricity:Zone:1FFIRSTFLOORWEST:OPENOFFICE [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  1FFIRSTFLOORWEST:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy
+
+ For Meter=ELECTRIC EQUIPMENT#1FFirstFloorWest:OpenOffice#GeneralLights:InteriorLights:Electricity:SpaceType:GENERAL [J], ResourceType=Electricity, EndUse=InteriorLights, Group=SpaceType, contents are:
+  1FFIRSTFLOORWEST:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy
+
+ For Meter=Electricity:Zone:0FGROUNDFLOORWEST:OPENOFFICE [J], ResourceType=Electricity, Group=Zone, contents are:
+  0FGROUNDFLOORWEST:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy
+  0FGROUNDFLOORWEST:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy
+
+ For Meter=InteriorLights:Electricity:Zone:0FGROUNDFLOORWEST:OPENOFFICE [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  0FGROUNDFLOORWEST:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy
+
+ For Meter=ELECTRIC EQUIPMENT#0FGroundFloorWest:OpenOffice#GeneralLights:InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  0FGROUNDFLOORWEST:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy
+
+ For Meter=ELECTRIC EQUIPMENT#0FGroundFloorWest:OpenOffice#GeneralLights:InteriorLights:Electricity:Zone:0FGROUNDFLOORWEST:OPENOFFICE [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  0FGROUNDFLOORWEST:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy
+
+ For Meter=ELECTRIC EQUIPMENT#0FGroundFloorWest:OpenOffice#GeneralLights:InteriorLights:Electricity:SpaceType:GENERAL [J], ResourceType=Electricity, EndUse=InteriorLights, Group=SpaceType, contents are:
+  0FGROUNDFLOORWEST:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy
+
+ For Meter=Electricity:Zone:0FGROUNDFLOOREAST:OPENOFFICE [J], ResourceType=Electricity, Group=Zone, contents are:
+  0FGROUNDFLOOREAST:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy
+  0FGROUNDFLOOREAST:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy
+
+ For Meter=InteriorLights:Electricity:Zone:0FGROUNDFLOOREAST:OPENOFFICE [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  0FGROUNDFLOOREAST:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy
+
+ For Meter=ELECTRIC EQUIPMENT#0FGroundFloorEast:OpenOffice#GeneralLights:InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  0FGROUNDFLOOREAST:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy
+
+ For Meter=ELECTRIC EQUIPMENT#0FGroundFloorEast:OpenOffice#GeneralLights:InteriorLights:Electricity:Zone:0FGROUNDFLOOREAST:OPENOFFICE [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  0FGROUNDFLOOREAST:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy
+
+ For Meter=ELECTRIC EQUIPMENT#0FGroundFloorEast:OpenOffice#GeneralLights:InteriorLights:Electricity:SpaceType:GENERAL [J], ResourceType=Electricity, EndUse=InteriorLights, Group=SpaceType, contents are:
+  0FGROUNDFLOOREAST:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy
+
+ For Meter=Electricity:Zone:CORECIRCULATION:CIRCULATION [J], ResourceType=Electricity, Group=Zone, contents are:
+  CORECIRCULATION:CIRCULATION GENERAL LIGHTING:Lights Electricity Energy
+  CORECIRCULATION:CIRCULATION EQUIPMENT GAIN:Other Equipment Electricity Energy
+
+ For Meter=InteriorLights:Electricity:Zone:CORECIRCULATION:CIRCULATION [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  CORECIRCULATION:CIRCULATION GENERAL LIGHTING:Lights Electricity Energy
+
+ For Meter=ELECTRIC EQUIPMENT#CoreCirculation:Circulation#GeneralLights:InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  CORECIRCULATION:CIRCULATION GENERAL LIGHTING:Lights Electricity Energy
+
+ For Meter=ELECTRIC EQUIPMENT#CoreCirculation:Circulation#GeneralLights:InteriorLights:Electricity:Zone:CORECIRCULATION:CIRCULATION [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  CORECIRCULATION:CIRCULATION GENERAL LIGHTING:Lights Electricity Energy
+
+ For Meter=ELECTRIC EQUIPMENT#CoreCirculation:Circulation#GeneralLights:InteriorLights:Electricity:SpaceType:GENERAL [J], ResourceType=Electricity, EndUse=InteriorLights, Group=SpaceType, contents are:
+  CORECIRCULATION:CIRCULATION GENERAL LIGHTING:Lights Electricity Energy
+
+ For Meter=Electricity:Zone:ATRIUMRECEPTION:RECEPTION [J], ResourceType=Electricity, Group=Zone, contents are:
+  ATRIUMRECEPTION:RECEPTION GENERAL LIGHTING:Lights Electricity Energy
+  ATRIUMRECEPTION:RECEPTION EQUIPMENT GAIN:Other Equipment Electricity Energy
+
+ For Meter=InteriorLights:Electricity:Zone:ATRIUMRECEPTION:RECEPTION [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  ATRIUMRECEPTION:RECEPTION GENERAL LIGHTING:Lights Electricity Energy
+
+ For Meter=ELECTRIC EQUIPMENT#AtriumReception:Reception#GeneralLights:InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  ATRIUMRECEPTION:RECEPTION GENERAL LIGHTING:Lights Electricity Energy
+
+ For Meter=ELECTRIC EQUIPMENT#AtriumReception:Reception#GeneralLights:InteriorLights:Electricity:Zone:ATRIUMRECEPTION:RECEPTION [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  ATRIUMRECEPTION:RECEPTION GENERAL LIGHTING:Lights Electricity Energy
+
+ For Meter=ELECTRIC EQUIPMENT#AtriumReception:Reception#GeneralLights:InteriorLights:Electricity:SpaceType:GENERAL [J], ResourceType=Electricity, EndUse=InteriorLights, Group=SpaceType, contents are:
+  ATRIUMRECEPTION:RECEPTION GENERAL LIGHTING:Lights Electricity Energy
+
+ For Meter=Electricity:Zone:1FFIRSTFLOOREAST1:OPENOFFICE [J], ResourceType=Electricity, Group=Zone, contents are:
+  1FFIRSTFLOOREAST1:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy
+  1FFIRSTFLOOREAST1:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy
+
+ For Meter=InteriorLights:Electricity:Zone:1FFIRSTFLOOREAST1:OPENOFFICE [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  1FFIRSTFLOOREAST1:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy
+
+ For Meter=ELECTRIC EQUIPMENT#1FFirstFloorEast1:OpenOffice#GeneralLights:InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  1FFIRSTFLOOREAST1:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy
+
+ For Meter=ELECTRIC EQUIPMENT#1FFirstFloorEast1:OpenOffice#GeneralLights:InteriorLights:Electricity:Zone:1FFIRSTFLOOREAST1:OPENOFFICE [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  1FFIRSTFLOOREAST1:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy
+
+ For Meter=ELECTRIC EQUIPMENT#1FFirstFloorEast1:OpenOffice#GeneralLights:InteriorLights:Electricity:SpaceType:GENERAL [J], ResourceType=Electricity, EndUse=InteriorLights, Group=SpaceType, contents are:
+  1FFIRSTFLOOREAST1:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy
+
+ For Meter=Electricity:Zone:1FFIRSTFLOORWEST1:OPENOFFICE [J], ResourceType=Electricity, Group=Zone, contents are:
+  1FFIRSTFLOORWEST1:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy
+  1FFIRSTFLOORWEST1:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy
+
+ For Meter=InteriorLights:Electricity:Zone:1FFIRSTFLOORWEST1:OPENOFFICE [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  1FFIRSTFLOORWEST1:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy
+
+ For Meter=ELECTRIC EQUIPMENT#1FFirstFloorWest1:OpenOffice#GeneralLights:InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  1FFIRSTFLOORWEST1:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy
+
+ For Meter=ELECTRIC EQUIPMENT#1FFirstFloorWest1:OpenOffice#GeneralLights:InteriorLights:Electricity:Zone:1FFIRSTFLOORWEST1:OPENOFFICE [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  1FFIRSTFLOORWEST1:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy
+
+ For Meter=ELECTRIC EQUIPMENT#1FFirstFloorWest1:OpenOffice#GeneralLights:InteriorLights:Electricity:SpaceType:GENERAL [J], ResourceType=Electricity, EndUse=InteriorLights, Group=SpaceType, contents are:
+  1FFIRSTFLOORWEST1:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy
+
+ For Meter=Electricity:Zone:0FGROUNDFLOORWEST1:OPENOFFICE [J], ResourceType=Electricity, Group=Zone, contents are:
+  0FGROUNDFLOORWEST1:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy
+  0FGROUNDFLOORWEST1:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy
+
+ For Meter=InteriorLights:Electricity:Zone:0FGROUNDFLOORWEST1:OPENOFFICE [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  0FGROUNDFLOORWEST1:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy
+
+ For Meter=ELECTRIC EQUIPMENT#0FGroundFloorWest1:OpenOffice#GeneralLights:InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  0FGROUNDFLOORWEST1:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy
+
+ For Meter=ELECTRIC EQUIPMENT#0FGroundFloorWest1:OpenOffice#GeneralLights:InteriorLights:Electricity:Zone:0FGROUNDFLOORWEST1:OPENOFFICE [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  0FGROUNDFLOORWEST1:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy
+
+ For Meter=ELECTRIC EQUIPMENT#0FGroundFloorWest1:OpenOffice#GeneralLights:InteriorLights:Electricity:SpaceType:GENERAL [J], ResourceType=Electricity, EndUse=InteriorLights, Group=SpaceType, contents are:
+  0FGROUNDFLOORWEST1:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy
+
+ For Meter=Electricity:Zone:0FGROUNDFLOOREAST1:OPENOFFICE [J], ResourceType=Electricity, Group=Zone, contents are:
+  0FGROUNDFLOOREAST1:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy
+  0FGROUNDFLOOREAST1:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy
+
+ For Meter=InteriorLights:Electricity:Zone:0FGROUNDFLOOREAST1:OPENOFFICE [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  0FGROUNDFLOOREAST1:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy
+
+ For Meter=ELECTRIC EQUIPMENT#0FGroundFloorEast1:OpenOffice#GeneralLights:InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  0FGROUNDFLOOREAST1:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy
+
+ For Meter=ELECTRIC EQUIPMENT#0FGroundFloorEast1:OpenOffice#GeneralLights:InteriorLights:Electricity:Zone:0FGROUNDFLOOREAST1:OPENOFFICE [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  0FGROUNDFLOOREAST1:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy
+
+ For Meter=ELECTRIC EQUIPMENT#0FGroundFloorEast1:OpenOffice#GeneralLights:InteriorLights:Electricity:SpaceType:GENERAL [J], ResourceType=Electricity, EndUse=InteriorLights, Group=SpaceType, contents are:
+  0FGROUNDFLOOREAST1:OPENOFFICE GENERAL LIGHTING:Lights Electricity Energy
+
+ For Meter=Electricity:Zone:CORECIRCULATION1:CIRCULATION [J], ResourceType=Electricity, Group=Zone, contents are:
+  CORECIRCULATION1:CIRCULATION GENERAL LIGHTING:Lights Electricity Energy
+  CORECIRCULATION1:CIRCULATION EQUIPMENT GAIN:Other Equipment Electricity Energy
+
+ For Meter=InteriorLights:Electricity:Zone:CORECIRCULATION1:CIRCULATION [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  CORECIRCULATION1:CIRCULATION GENERAL LIGHTING:Lights Electricity Energy
+
+ For Meter=ELECTRIC EQUIPMENT#CoreCirculation1:Circulation#GeneralLights:InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  CORECIRCULATION1:CIRCULATION GENERAL LIGHTING:Lights Electricity Energy
+
+ For Meter=ELECTRIC EQUIPMENT#CoreCirculation1:Circulation#GeneralLights:InteriorLights:Electricity:Zone:CORECIRCULATION1:CIRCULATION [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  CORECIRCULATION1:CIRCULATION GENERAL LIGHTING:Lights Electricity Energy
+
+ For Meter=ELECTRIC EQUIPMENT#CoreCirculation1:Circulation#GeneralLights:InteriorLights:Electricity:SpaceType:GENERAL [J], ResourceType=Electricity, EndUse=InteriorLights, Group=SpaceType, contents are:
+  CORECIRCULATION1:CIRCULATION GENERAL LIGHTING:Lights Electricity Energy
+
+ For Meter=Electricity:Zone:ATRIUMRECEPTION1:RECEPTION [J], ResourceType=Electricity, Group=Zone, contents are:
+  ATRIUMRECEPTION1:RECEPTION GENERAL LIGHTING:Lights Electricity Energy
+  ATRIUMRECEPTION1:RECEPTION EQUIPMENT GAIN:Other Equipment Electricity Energy
+
+ For Meter=InteriorLights:Electricity:Zone:ATRIUMRECEPTION1:RECEPTION [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  ATRIUMRECEPTION1:RECEPTION GENERAL LIGHTING:Lights Electricity Energy
+
+ For Meter=ELECTRIC EQUIPMENT#AtriumReception1:Reception#GeneralLights:InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  ATRIUMRECEPTION1:RECEPTION GENERAL LIGHTING:Lights Electricity Energy
+
+ For Meter=ELECTRIC EQUIPMENT#AtriumReception1:Reception#GeneralLights:InteriorLights:Electricity:Zone:ATRIUMRECEPTION1:RECEPTION [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  ATRIUMRECEPTION1:RECEPTION GENERAL LIGHTING:Lights Electricity Energy
+
+ For Meter=ELECTRIC EQUIPMENT#AtriumReception1:Reception#GeneralLights:InteriorLights:Electricity:SpaceType:GENERAL [J], ResourceType=Electricity, EndUse=InteriorLights, Group=SpaceType, contents are:
+  ATRIUMRECEPTION1:RECEPTION GENERAL LIGHTING:Lights Electricity Energy
+
+ For Meter=Electricity:Zone:BLOCK1:ZONE1 [J], ResourceType=Electricity, Group=Zone, contents are:
+  BLOCK1:ZONE1 GENERAL LIGHTING:Lights Electricity Energy
+  BLOCK1:ZONE1 EQUIPMENT GAIN:Other Equipment Electricity Energy
+
+ For Meter=InteriorLights:Electricity:Zone:BLOCK1:ZONE1 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  BLOCK1:ZONE1 GENERAL LIGHTING:Lights Electricity Energy
+
+ For Meter=ELECTRIC EQUIPMENT#Block1:Zone1#GeneralLights:InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  BLOCK1:ZONE1 GENERAL LIGHTING:Lights Electricity Energy
+
+ For Meter=ELECTRIC EQUIPMENT#Block1:Zone1#GeneralLights:InteriorLights:Electricity:Zone:BLOCK1:ZONE1 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  BLOCK1:ZONE1 GENERAL LIGHTING:Lights Electricity Energy
+
+ For Meter=ELECTRIC EQUIPMENT#Block1:Zone1#GeneralLights:InteriorLights:Electricity:SpaceType:GENERAL [J], ResourceType=Electricity, EndUse=InteriorLights, Group=SpaceType, contents are:
+  BLOCK1:ZONE1 GENERAL LIGHTING:Lights Electricity Energy
+
+ For Meter=InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  1FFIRSTFLOOREAST:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy
+  1FFIRSTFLOORWEST:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy
+  0FGROUNDFLOORWEST:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy
+  0FGROUNDFLOOREAST:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy
+  CORECIRCULATION:CIRCULATION EQUIPMENT GAIN:Other Equipment Electricity Energy
+  ATRIUMRECEPTION:RECEPTION EQUIPMENT GAIN:Other Equipment Electricity Energy
+  1FFIRSTFLOOREAST1:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy
+  1FFIRSTFLOORWEST1:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy
+  0FGROUNDFLOORWEST1:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy
+  0FGROUNDFLOOREAST1:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy
+  CORECIRCULATION1:CIRCULATION EQUIPMENT GAIN:Other Equipment Electricity Energy
+  ATRIUMRECEPTION1:RECEPTION EQUIPMENT GAIN:Other Equipment Electricity Energy
+  BLOCK1:ZONE1 EQUIPMENT GAIN:Other Equipment Electricity Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:1FFIRSTFLOOREAST:OPENOFFICE [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  1FFIRSTFLOOREAST:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy
+
+ For Meter=InteriorEquipment:Electricity:SpaceType:GENERAL [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=SpaceType, contents are:
+  1FFIRSTFLOOREAST:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy
+  1FFIRSTFLOORWEST:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy
+  0FGROUNDFLOORWEST:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy
+  0FGROUNDFLOOREAST:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy
+  CORECIRCULATION:CIRCULATION EQUIPMENT GAIN:Other Equipment Electricity Energy
+  ATRIUMRECEPTION:RECEPTION EQUIPMENT GAIN:Other Equipment Electricity Energy
+  1FFIRSTFLOOREAST1:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy
+  1FFIRSTFLOORWEST1:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy
+  0FGROUNDFLOORWEST1:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy
+  0FGROUNDFLOOREAST1:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy
+  CORECIRCULATION1:CIRCULATION EQUIPMENT GAIN:Other Equipment Electricity Energy
+  ATRIUMRECEPTION1:RECEPTION EQUIPMENT GAIN:Other Equipment Electricity Energy
+  BLOCK1:ZONE1 EQUIPMENT GAIN:Other Equipment Electricity Energy
+
+ For Meter=General:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  1FFIRSTFLOOREAST:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy
+  1FFIRSTFLOORWEST:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy
+  0FGROUNDFLOORWEST:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy
+  0FGROUNDFLOOREAST:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy
+  CORECIRCULATION:CIRCULATION EQUIPMENT GAIN:Other Equipment Electricity Energy
+  ATRIUMRECEPTION:RECEPTION EQUIPMENT GAIN:Other Equipment Electricity Energy
+  1FFIRSTFLOOREAST1:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy
+  1FFIRSTFLOORWEST1:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy
+  0FGROUNDFLOORWEST1:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy
+  0FGROUNDFLOOREAST1:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy
+  CORECIRCULATION1:CIRCULATION EQUIPMENT GAIN:Other Equipment Electricity Energy
+  ATRIUMRECEPTION1:RECEPTION EQUIPMENT GAIN:Other Equipment Electricity Energy
+  BLOCK1:ZONE1 EQUIPMENT GAIN:Other Equipment Electricity Energy
+
+ For Meter=General:InteriorEquipment:Electricity:Zone:1FFIRSTFLOOREAST:OPENOFFICE [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  1FFIRSTFLOOREAST:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy
+
+ For Meter=General:InteriorEquipment:Electricity:SpaceType:GENERAL [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=SpaceType, contents are:
+  1FFIRSTFLOOREAST:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy
+  1FFIRSTFLOORWEST:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy
+  0FGROUNDFLOORWEST:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy
+  0FGROUNDFLOOREAST:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy
+  CORECIRCULATION:CIRCULATION EQUIPMENT GAIN:Other Equipment Electricity Energy
+  ATRIUMRECEPTION:RECEPTION EQUIPMENT GAIN:Other Equipment Electricity Energy
+  1FFIRSTFLOOREAST1:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy
+  1FFIRSTFLOORWEST1:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy
+  0FGROUNDFLOORWEST1:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy
+  0FGROUNDFLOOREAST1:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy
+  CORECIRCULATION1:CIRCULATION EQUIPMENT GAIN:Other Equipment Electricity Energy
+  ATRIUMRECEPTION1:RECEPTION EQUIPMENT GAIN:Other Equipment Electricity Energy
+  BLOCK1:ZONE1 EQUIPMENT GAIN:Other Equipment Electricity Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:1FFIRSTFLOORWEST:OPENOFFICE [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  1FFIRSTFLOORWEST:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy
+
+ For Meter=General:InteriorEquipment:Electricity:Zone:1FFIRSTFLOORWEST:OPENOFFICE [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  1FFIRSTFLOORWEST:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:0FGROUNDFLOORWEST:OPENOFFICE [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  0FGROUNDFLOORWEST:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy
+
+ For Meter=General:InteriorEquipment:Electricity:Zone:0FGROUNDFLOORWEST:OPENOFFICE [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  0FGROUNDFLOORWEST:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:0FGROUNDFLOOREAST:OPENOFFICE [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  0FGROUNDFLOOREAST:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy
+
+ For Meter=General:InteriorEquipment:Electricity:Zone:0FGROUNDFLOOREAST:OPENOFFICE [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  0FGROUNDFLOOREAST:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:CORECIRCULATION:CIRCULATION [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  CORECIRCULATION:CIRCULATION EQUIPMENT GAIN:Other Equipment Electricity Energy
+
+ For Meter=General:InteriorEquipment:Electricity:Zone:CORECIRCULATION:CIRCULATION [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  CORECIRCULATION:CIRCULATION EQUIPMENT GAIN:Other Equipment Electricity Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:ATRIUMRECEPTION:RECEPTION [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  ATRIUMRECEPTION:RECEPTION EQUIPMENT GAIN:Other Equipment Electricity Energy
+
+ For Meter=General:InteriorEquipment:Electricity:Zone:ATRIUMRECEPTION:RECEPTION [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  ATRIUMRECEPTION:RECEPTION EQUIPMENT GAIN:Other Equipment Electricity Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:1FFIRSTFLOOREAST1:OPENOFFICE [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  1FFIRSTFLOOREAST1:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy
+
+ For Meter=General:InteriorEquipment:Electricity:Zone:1FFIRSTFLOOREAST1:OPENOFFICE [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  1FFIRSTFLOOREAST1:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:1FFIRSTFLOORWEST1:OPENOFFICE [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  1FFIRSTFLOORWEST1:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy
+
+ For Meter=General:InteriorEquipment:Electricity:Zone:1FFIRSTFLOORWEST1:OPENOFFICE [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  1FFIRSTFLOORWEST1:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:0FGROUNDFLOORWEST1:OPENOFFICE [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  0FGROUNDFLOORWEST1:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy
+
+ For Meter=General:InteriorEquipment:Electricity:Zone:0FGROUNDFLOORWEST1:OPENOFFICE [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  0FGROUNDFLOORWEST1:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:0FGROUNDFLOOREAST1:OPENOFFICE [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  0FGROUNDFLOOREAST1:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy
+
+ For Meter=General:InteriorEquipment:Electricity:Zone:0FGROUNDFLOOREAST1:OPENOFFICE [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  0FGROUNDFLOOREAST1:OPENOFFICE EQUIPMENT GAIN:Other Equipment Electricity Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:CORECIRCULATION1:CIRCULATION [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  CORECIRCULATION1:CIRCULATION EQUIPMENT GAIN:Other Equipment Electricity Energy
+
+ For Meter=General:InteriorEquipment:Electricity:Zone:CORECIRCULATION1:CIRCULATION [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  CORECIRCULATION1:CIRCULATION EQUIPMENT GAIN:Other Equipment Electricity Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:ATRIUMRECEPTION1:RECEPTION [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  ATRIUMRECEPTION1:RECEPTION EQUIPMENT GAIN:Other Equipment Electricity Energy
+
+ For Meter=General:InteriorEquipment:Electricity:Zone:ATRIUMRECEPTION1:RECEPTION [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  ATRIUMRECEPTION1:RECEPTION EQUIPMENT GAIN:Other Equipment Electricity Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:BLOCK1:ZONE1 [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  BLOCK1:ZONE1 EQUIPMENT GAIN:Other Equipment Electricity Energy
+
+ For Meter=General:InteriorEquipment:Electricity:Zone:BLOCK1:ZONE1 [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  BLOCK1:ZONE1 EQUIPMENT GAIN:Other Equipment Electricity Energy
+
+ For Meter=EnergyTransfer:Facility [J], ResourceType=EnergyTransfer, contents are:
+  1FFIRSTFLOOREAST:OPENOFFICE:Zone Air System Sensible Heating Energy
+  1FFIRSTFLOOREAST:OPENOFFICE:Zone Air System Sensible Cooling Energy
+  1FFIRSTFLOORWEST:OPENOFFICE:Zone Air System Sensible Heating Energy
+  1FFIRSTFLOORWEST:OPENOFFICE:Zone Air System Sensible Cooling Energy
+  0FGROUNDFLOORWEST:OPENOFFICE:Zone Air System Sensible Heating Energy
+  0FGROUNDFLOORWEST:OPENOFFICE:Zone Air System Sensible Cooling Energy
+  0FGROUNDFLOOREAST:OPENOFFICE:Zone Air System Sensible Heating Energy
+  0FGROUNDFLOOREAST:OPENOFFICE:Zone Air System Sensible Cooling Energy
+  CORECIRCULATION:CIRCULATION:Zone Air System Sensible Heating Energy
+  CORECIRCULATION:CIRCULATION:Zone Air System Sensible Cooling Energy
+  ATRIUMRECEPTION:RECEPTION:Zone Air System Sensible Heating Energy
+  ATRIUMRECEPTION:RECEPTION:Zone Air System Sensible Cooling Energy
+  1FFIRSTFLOOREAST1:OPENOFFICE:Zone Air System Sensible Heating Energy
+  1FFIRSTFLOOREAST1:OPENOFFICE:Zone Air System Sensible Cooling Energy
+  1FFIRSTFLOORWEST1:OPENOFFICE:Zone Air System Sensible Heating Energy
+  1FFIRSTFLOORWEST1:OPENOFFICE:Zone Air System Sensible Cooling Energy
+  0FGROUNDFLOORWEST1:OPENOFFICE:Zone Air System Sensible Heating Energy
+  0FGROUNDFLOORWEST1:OPENOFFICE:Zone Air System Sensible Cooling Energy
+  0FGROUNDFLOOREAST1:OPENOFFICE:Zone Air System Sensible Heating Energy
+  0FGROUNDFLOOREAST1:OPENOFFICE:Zone Air System Sensible Cooling Energy
+  CORECIRCULATION1:CIRCULATION:Zone Air System Sensible Heating Energy
+  CORECIRCULATION1:CIRCULATION:Zone Air System Sensible Cooling Energy
+  ATRIUMRECEPTION1:RECEPTION:Zone Air System Sensible Heating Energy
+  ATRIUMRECEPTION1:RECEPTION:Zone Air System Sensible Cooling Energy
+  BLOCK1:ZONE1:Zone Air System Sensible Heating Energy
+  BLOCK1:ZONE1:Zone Air System Sensible Cooling Energy
+  AIR LOOP AHU HEATING COIL:Heating Coil Heating Energy
+  AIR LOOP AHU COOLING COIL:Cooling Coil Total Cooling Energy
+  BOILER:Boiler Heating Energy
+  CHILLER:Chiller Evaporator Cooling Energy
+  CHILLER:Chiller Condenser Heat Transfer Energy
+
+ For Meter=EnergyTransfer:Building [J], ResourceType=EnergyTransfer, Group=Building, contents are:
+  1FFIRSTFLOOREAST:OPENOFFICE:Zone Air System Sensible Heating Energy
+  1FFIRSTFLOOREAST:OPENOFFICE:Zone Air System Sensible Cooling Energy
+  1FFIRSTFLOORWEST:OPENOFFICE:Zone Air System Sensible Heating Energy
+  1FFIRSTFLOORWEST:OPENOFFICE:Zone Air System Sensible Cooling Energy
+  0FGROUNDFLOORWEST:OPENOFFICE:Zone Air System Sensible Heating Energy
+  0FGROUNDFLOORWEST:OPENOFFICE:Zone Air System Sensible Cooling Energy
+  0FGROUNDFLOOREAST:OPENOFFICE:Zone Air System Sensible Heating Energy
+  0FGROUNDFLOOREAST:OPENOFFICE:Zone Air System Sensible Cooling Energy
+  CORECIRCULATION:CIRCULATION:Zone Air System Sensible Heating Energy
+  CORECIRCULATION:CIRCULATION:Zone Air System Sensible Cooling Energy
+  ATRIUMRECEPTION:RECEPTION:Zone Air System Sensible Heating Energy
+  ATRIUMRECEPTION:RECEPTION:Zone Air System Sensible Cooling Energy
+  1FFIRSTFLOOREAST1:OPENOFFICE:Zone Air System Sensible Heating Energy
+  1FFIRSTFLOOREAST1:OPENOFFICE:Zone Air System Sensible Cooling Energy
+  1FFIRSTFLOORWEST1:OPENOFFICE:Zone Air System Sensible Heating Energy
+  1FFIRSTFLOORWEST1:OPENOFFICE:Zone Air System Sensible Cooling Energy
+  0FGROUNDFLOORWEST1:OPENOFFICE:Zone Air System Sensible Heating Energy
+  0FGROUNDFLOORWEST1:OPENOFFICE:Zone Air System Sensible Cooling Energy
+  0FGROUNDFLOOREAST1:OPENOFFICE:Zone Air System Sensible Heating Energy
+  0FGROUNDFLOOREAST1:OPENOFFICE:Zone Air System Sensible Cooling Energy
+  CORECIRCULATION1:CIRCULATION:Zone Air System Sensible Heating Energy
+  CORECIRCULATION1:CIRCULATION:Zone Air System Sensible Cooling Energy
+  ATRIUMRECEPTION1:RECEPTION:Zone Air System Sensible Heating Energy
+  ATRIUMRECEPTION1:RECEPTION:Zone Air System Sensible Cooling Energy
+  BLOCK1:ZONE1:Zone Air System Sensible Heating Energy
+  BLOCK1:ZONE1:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:1FFIRSTFLOOREAST:OPENOFFICE [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  1FFIRSTFLOOREAST:OPENOFFICE:Zone Air System Sensible Heating Energy
+  1FFIRSTFLOOREAST:OPENOFFICE:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=Heating, contents are:
+  1FFIRSTFLOOREAST:OPENOFFICE:Zone Air System Sensible Heating Energy
+  1FFIRSTFLOORWEST:OPENOFFICE:Zone Air System Sensible Heating Energy
+  0FGROUNDFLOORWEST:OPENOFFICE:Zone Air System Sensible Heating Energy
+  0FGROUNDFLOOREAST:OPENOFFICE:Zone Air System Sensible Heating Energy
+  CORECIRCULATION:CIRCULATION:Zone Air System Sensible Heating Energy
+  ATRIUMRECEPTION:RECEPTION:Zone Air System Sensible Heating Energy
+  1FFIRSTFLOOREAST1:OPENOFFICE:Zone Air System Sensible Heating Energy
+  1FFIRSTFLOORWEST1:OPENOFFICE:Zone Air System Sensible Heating Energy
+  0FGROUNDFLOORWEST1:OPENOFFICE:Zone Air System Sensible Heating Energy
+  0FGROUNDFLOOREAST1:OPENOFFICE:Zone Air System Sensible Heating Energy
+  CORECIRCULATION1:CIRCULATION:Zone Air System Sensible Heating Energy
+  ATRIUMRECEPTION1:RECEPTION:Zone Air System Sensible Heating Energy
+  BLOCK1:ZONE1:Zone Air System Sensible Heating Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:1FFIRSTFLOOREAST:OPENOFFICE [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  1FFIRSTFLOOREAST:OPENOFFICE:Zone Air System Sensible Heating Energy
+
+ For Meter=General:Heating:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=Heating, contents are:
+  1FFIRSTFLOOREAST:OPENOFFICE:Zone Air System Sensible Heating Energy
+  1FFIRSTFLOORWEST:OPENOFFICE:Zone Air System Sensible Heating Energy
+  0FGROUNDFLOORWEST:OPENOFFICE:Zone Air System Sensible Heating Energy
+  0FGROUNDFLOOREAST:OPENOFFICE:Zone Air System Sensible Heating Energy
+  CORECIRCULATION:CIRCULATION:Zone Air System Sensible Heating Energy
+  ATRIUMRECEPTION:RECEPTION:Zone Air System Sensible Heating Energy
+  1FFIRSTFLOOREAST1:OPENOFFICE:Zone Air System Sensible Heating Energy
+  1FFIRSTFLOORWEST1:OPENOFFICE:Zone Air System Sensible Heating Energy
+  0FGROUNDFLOORWEST1:OPENOFFICE:Zone Air System Sensible Heating Energy
+  0FGROUNDFLOOREAST1:OPENOFFICE:Zone Air System Sensible Heating Energy
+  CORECIRCULATION1:CIRCULATION:Zone Air System Sensible Heating Energy
+  ATRIUMRECEPTION1:RECEPTION:Zone Air System Sensible Heating Energy
+  BLOCK1:ZONE1:Zone Air System Sensible Heating Energy
+
+ For Meter=General:Heating:EnergyTransfer:Zone:1FFIRSTFLOOREAST:OPENOFFICE [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  1FFIRSTFLOOREAST:OPENOFFICE:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=Cooling, contents are:
+  1FFIRSTFLOOREAST:OPENOFFICE:Zone Air System Sensible Cooling Energy
+  1FFIRSTFLOORWEST:OPENOFFICE:Zone Air System Sensible Cooling Energy
+  0FGROUNDFLOORWEST:OPENOFFICE:Zone Air System Sensible Cooling Energy
+  0FGROUNDFLOOREAST:OPENOFFICE:Zone Air System Sensible Cooling Energy
+  CORECIRCULATION:CIRCULATION:Zone Air System Sensible Cooling Energy
+  ATRIUMRECEPTION:RECEPTION:Zone Air System Sensible Cooling Energy
+  1FFIRSTFLOOREAST1:OPENOFFICE:Zone Air System Sensible Cooling Energy
+  1FFIRSTFLOORWEST1:OPENOFFICE:Zone Air System Sensible Cooling Energy
+  0FGROUNDFLOORWEST1:OPENOFFICE:Zone Air System Sensible Cooling Energy
+  0FGROUNDFLOOREAST1:OPENOFFICE:Zone Air System Sensible Cooling Energy
+  CORECIRCULATION1:CIRCULATION:Zone Air System Sensible Cooling Energy
+  ATRIUMRECEPTION1:RECEPTION:Zone Air System Sensible Cooling Energy
+  BLOCK1:ZONE1:Zone Air System Sensible Cooling Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:1FFIRSTFLOOREAST:OPENOFFICE [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  1FFIRSTFLOOREAST:OPENOFFICE:Zone Air System Sensible Cooling Energy
+
+ For Meter=General:Cooling:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=Cooling, contents are:
+  1FFIRSTFLOOREAST:OPENOFFICE:Zone Air System Sensible Cooling Energy
+  1FFIRSTFLOORWEST:OPENOFFICE:Zone Air System Sensible Cooling Energy
+  0FGROUNDFLOORWEST:OPENOFFICE:Zone Air System Sensible Cooling Energy
+  0FGROUNDFLOOREAST:OPENOFFICE:Zone Air System Sensible Cooling Energy
+  CORECIRCULATION:CIRCULATION:Zone Air System Sensible Cooling Energy
+  ATRIUMRECEPTION:RECEPTION:Zone Air System Sensible Cooling Energy
+  1FFIRSTFLOOREAST1:OPENOFFICE:Zone Air System Sensible Cooling Energy
+  1FFIRSTFLOORWEST1:OPENOFFICE:Zone Air System Sensible Cooling Energy
+  0FGROUNDFLOORWEST1:OPENOFFICE:Zone Air System Sensible Cooling Energy
+  0FGROUNDFLOOREAST1:OPENOFFICE:Zone Air System Sensible Cooling Energy
+  CORECIRCULATION1:CIRCULATION:Zone Air System Sensible Cooling Energy
+  ATRIUMRECEPTION1:RECEPTION:Zone Air System Sensible Cooling Energy
+  BLOCK1:ZONE1:Zone Air System Sensible Cooling Energy
+
+ For Meter=General:Cooling:EnergyTransfer:Zone:1FFIRSTFLOOREAST:OPENOFFICE [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  1FFIRSTFLOOREAST:OPENOFFICE:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:1FFIRSTFLOORWEST:OPENOFFICE [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  1FFIRSTFLOORWEST:OPENOFFICE:Zone Air System Sensible Heating Energy
+  1FFIRSTFLOORWEST:OPENOFFICE:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:1FFIRSTFLOORWEST:OPENOFFICE [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  1FFIRSTFLOORWEST:OPENOFFICE:Zone Air System Sensible Heating Energy
+
+ For Meter=General:Heating:EnergyTransfer:Zone:1FFIRSTFLOORWEST:OPENOFFICE [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  1FFIRSTFLOORWEST:OPENOFFICE:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:1FFIRSTFLOORWEST:OPENOFFICE [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  1FFIRSTFLOORWEST:OPENOFFICE:Zone Air System Sensible Cooling Energy
+
+ For Meter=General:Cooling:EnergyTransfer:Zone:1FFIRSTFLOORWEST:OPENOFFICE [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  1FFIRSTFLOORWEST:OPENOFFICE:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:0FGROUNDFLOORWEST:OPENOFFICE [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  0FGROUNDFLOORWEST:OPENOFFICE:Zone Air System Sensible Heating Energy
+  0FGROUNDFLOORWEST:OPENOFFICE:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:0FGROUNDFLOORWEST:OPENOFFICE [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  0FGROUNDFLOORWEST:OPENOFFICE:Zone Air System Sensible Heating Energy
+
+ For Meter=General:Heating:EnergyTransfer:Zone:0FGROUNDFLOORWEST:OPENOFFICE [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  0FGROUNDFLOORWEST:OPENOFFICE:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:0FGROUNDFLOORWEST:OPENOFFICE [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  0FGROUNDFLOORWEST:OPENOFFICE:Zone Air System Sensible Cooling Energy
+
+ For Meter=General:Cooling:EnergyTransfer:Zone:0FGROUNDFLOORWEST:OPENOFFICE [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  0FGROUNDFLOORWEST:OPENOFFICE:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:0FGROUNDFLOOREAST:OPENOFFICE [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  0FGROUNDFLOOREAST:OPENOFFICE:Zone Air System Sensible Heating Energy
+  0FGROUNDFLOOREAST:OPENOFFICE:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:0FGROUNDFLOOREAST:OPENOFFICE [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  0FGROUNDFLOOREAST:OPENOFFICE:Zone Air System Sensible Heating Energy
+
+ For Meter=General:Heating:EnergyTransfer:Zone:0FGROUNDFLOOREAST:OPENOFFICE [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  0FGROUNDFLOOREAST:OPENOFFICE:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:0FGROUNDFLOOREAST:OPENOFFICE [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  0FGROUNDFLOOREAST:OPENOFFICE:Zone Air System Sensible Cooling Energy
+
+ For Meter=General:Cooling:EnergyTransfer:Zone:0FGROUNDFLOOREAST:OPENOFFICE [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  0FGROUNDFLOOREAST:OPENOFFICE:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:CORECIRCULATION:CIRCULATION [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  CORECIRCULATION:CIRCULATION:Zone Air System Sensible Heating Energy
+  CORECIRCULATION:CIRCULATION:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:CORECIRCULATION:CIRCULATION [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  CORECIRCULATION:CIRCULATION:Zone Air System Sensible Heating Energy
+
+ For Meter=General:Heating:EnergyTransfer:Zone:CORECIRCULATION:CIRCULATION [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  CORECIRCULATION:CIRCULATION:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:CORECIRCULATION:CIRCULATION [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  CORECIRCULATION:CIRCULATION:Zone Air System Sensible Cooling Energy
+
+ For Meter=General:Cooling:EnergyTransfer:Zone:CORECIRCULATION:CIRCULATION [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  CORECIRCULATION:CIRCULATION:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:ATRIUMRECEPTION:RECEPTION [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  ATRIUMRECEPTION:RECEPTION:Zone Air System Sensible Heating Energy
+  ATRIUMRECEPTION:RECEPTION:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:ATRIUMRECEPTION:RECEPTION [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  ATRIUMRECEPTION:RECEPTION:Zone Air System Sensible Heating Energy
+
+ For Meter=General:Heating:EnergyTransfer:Zone:ATRIUMRECEPTION:RECEPTION [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  ATRIUMRECEPTION:RECEPTION:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:ATRIUMRECEPTION:RECEPTION [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  ATRIUMRECEPTION:RECEPTION:Zone Air System Sensible Cooling Energy
+
+ For Meter=General:Cooling:EnergyTransfer:Zone:ATRIUMRECEPTION:RECEPTION [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  ATRIUMRECEPTION:RECEPTION:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:1FFIRSTFLOOREAST1:OPENOFFICE [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  1FFIRSTFLOOREAST1:OPENOFFICE:Zone Air System Sensible Heating Energy
+  1FFIRSTFLOOREAST1:OPENOFFICE:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:1FFIRSTFLOOREAST1:OPENOFFICE [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  1FFIRSTFLOOREAST1:OPENOFFICE:Zone Air System Sensible Heating Energy
+
+ For Meter=General:Heating:EnergyTransfer:Zone:1FFIRSTFLOOREAST1:OPENOFFICE [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  1FFIRSTFLOOREAST1:OPENOFFICE:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:1FFIRSTFLOOREAST1:OPENOFFICE [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  1FFIRSTFLOOREAST1:OPENOFFICE:Zone Air System Sensible Cooling Energy
+
+ For Meter=General:Cooling:EnergyTransfer:Zone:1FFIRSTFLOOREAST1:OPENOFFICE [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  1FFIRSTFLOOREAST1:OPENOFFICE:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:1FFIRSTFLOORWEST1:OPENOFFICE [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  1FFIRSTFLOORWEST1:OPENOFFICE:Zone Air System Sensible Heating Energy
+  1FFIRSTFLOORWEST1:OPENOFFICE:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:1FFIRSTFLOORWEST1:OPENOFFICE [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  1FFIRSTFLOORWEST1:OPENOFFICE:Zone Air System Sensible Heating Energy
+
+ For Meter=General:Heating:EnergyTransfer:Zone:1FFIRSTFLOORWEST1:OPENOFFICE [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  1FFIRSTFLOORWEST1:OPENOFFICE:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:1FFIRSTFLOORWEST1:OPENOFFICE [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  1FFIRSTFLOORWEST1:OPENOFFICE:Zone Air System Sensible Cooling Energy
+
+ For Meter=General:Cooling:EnergyTransfer:Zone:1FFIRSTFLOORWEST1:OPENOFFICE [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  1FFIRSTFLOORWEST1:OPENOFFICE:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:0FGROUNDFLOORWEST1:OPENOFFICE [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  0FGROUNDFLOORWEST1:OPENOFFICE:Zone Air System Sensible Heating Energy
+  0FGROUNDFLOORWEST1:OPENOFFICE:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:0FGROUNDFLOORWEST1:OPENOFFICE [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  0FGROUNDFLOORWEST1:OPENOFFICE:Zone Air System Sensible Heating Energy
+
+ For Meter=General:Heating:EnergyTransfer:Zone:0FGROUNDFLOORWEST1:OPENOFFICE [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  0FGROUNDFLOORWEST1:OPENOFFICE:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:0FGROUNDFLOORWEST1:OPENOFFICE [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  0FGROUNDFLOORWEST1:OPENOFFICE:Zone Air System Sensible Cooling Energy
+
+ For Meter=General:Cooling:EnergyTransfer:Zone:0FGROUNDFLOORWEST1:OPENOFFICE [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  0FGROUNDFLOORWEST1:OPENOFFICE:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:0FGROUNDFLOOREAST1:OPENOFFICE [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  0FGROUNDFLOOREAST1:OPENOFFICE:Zone Air System Sensible Heating Energy
+  0FGROUNDFLOOREAST1:OPENOFFICE:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:0FGROUNDFLOOREAST1:OPENOFFICE [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  0FGROUNDFLOOREAST1:OPENOFFICE:Zone Air System Sensible Heating Energy
+
+ For Meter=General:Heating:EnergyTransfer:Zone:0FGROUNDFLOOREAST1:OPENOFFICE [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  0FGROUNDFLOOREAST1:OPENOFFICE:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:0FGROUNDFLOOREAST1:OPENOFFICE [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  0FGROUNDFLOOREAST1:OPENOFFICE:Zone Air System Sensible Cooling Energy
+
+ For Meter=General:Cooling:EnergyTransfer:Zone:0FGROUNDFLOOREAST1:OPENOFFICE [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  0FGROUNDFLOOREAST1:OPENOFFICE:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:CORECIRCULATION1:CIRCULATION [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  CORECIRCULATION1:CIRCULATION:Zone Air System Sensible Heating Energy
+  CORECIRCULATION1:CIRCULATION:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:CORECIRCULATION1:CIRCULATION [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  CORECIRCULATION1:CIRCULATION:Zone Air System Sensible Heating Energy
+
+ For Meter=General:Heating:EnergyTransfer:Zone:CORECIRCULATION1:CIRCULATION [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  CORECIRCULATION1:CIRCULATION:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:CORECIRCULATION1:CIRCULATION [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  CORECIRCULATION1:CIRCULATION:Zone Air System Sensible Cooling Energy
+
+ For Meter=General:Cooling:EnergyTransfer:Zone:CORECIRCULATION1:CIRCULATION [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  CORECIRCULATION1:CIRCULATION:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:ATRIUMRECEPTION1:RECEPTION [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  ATRIUMRECEPTION1:RECEPTION:Zone Air System Sensible Heating Energy
+  ATRIUMRECEPTION1:RECEPTION:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:ATRIUMRECEPTION1:RECEPTION [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  ATRIUMRECEPTION1:RECEPTION:Zone Air System Sensible Heating Energy
+
+ For Meter=General:Heating:EnergyTransfer:Zone:ATRIUMRECEPTION1:RECEPTION [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  ATRIUMRECEPTION1:RECEPTION:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:ATRIUMRECEPTION1:RECEPTION [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  ATRIUMRECEPTION1:RECEPTION:Zone Air System Sensible Cooling Energy
+
+ For Meter=General:Cooling:EnergyTransfer:Zone:ATRIUMRECEPTION1:RECEPTION [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  ATRIUMRECEPTION1:RECEPTION:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:BLOCK1:ZONE1 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  BLOCK1:ZONE1:Zone Air System Sensible Heating Energy
+  BLOCK1:ZONE1:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:BLOCK1:ZONE1 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  BLOCK1:ZONE1:Zone Air System Sensible Heating Energy
+
+ For Meter=General:Heating:EnergyTransfer:Zone:BLOCK1:ZONE1 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  BLOCK1:ZONE1:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:BLOCK1:ZONE1 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  BLOCK1:ZONE1:Zone Air System Sensible Cooling Energy
+
+ For Meter=General:Cooling:EnergyTransfer:Zone:BLOCK1:ZONE1 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  BLOCK1:ZONE1:Zone Air System Sensible Cooling Energy
+
+ For Meter=ElectricityProduced:Facility [J], ResourceType=ElectricityProduced, contents are:
+  EXAMPLE INVERTER - SIMPLE:Inverter Conversion Loss Decrement Energy
+  SOLAR COLLECTOR 1:Generator Produced DC Electricity Energy
+  SOLAR COLLECTOR 2:Generator Produced DC Electricity Energy
+  SOLAR COLLECTOR 3:Generator Produced DC Electricity Energy
+  SOLAR COLLECTOR 4:Generator Produced DC Electricity Energy
+
+ For Meter=ElectricityProduced:Plant [J], ResourceType=ElectricityProduced, Group=Plant, contents are:
+  EXAMPLE INVERTER - SIMPLE:Inverter Conversion Loss Decrement Energy
+  SOLAR COLLECTOR 1:Generator Produced DC Electricity Energy
+  SOLAR COLLECTOR 2:Generator Produced DC Electricity Energy
+  SOLAR COLLECTOR 3:Generator Produced DC Electricity Energy
+  SOLAR COLLECTOR 4:Generator Produced DC Electricity Energy
+
+ For Meter=PowerConversion:ElectricityProduced [J], ResourceType=ElectricityProduced, EndUse=PowerConversion, contents are:
+  EXAMPLE INVERTER - SIMPLE:Inverter Conversion Loss Decrement Energy
+
+ For Meter=Electricity:Plant [J], ResourceType=Electricity, Group=Plant, contents are:
+  EXAMPLE INVERTER - SIMPLE:Inverter Ancillary AC Electricity Energy
+  BOILER:Boiler Ancillary Electricity Energy
+  CHILLER:Chiller Electricity Energy
+  COOLING TOWER:Cooling Tower Fan Electricity Energy
+  HW LOOP SUPPLY PUMP:Pump Electricity Energy
+  CHW LOOP SUPPLY PUMP:Pump Electricity Energy
+  CONDENSER LOOP SUPPLY PUMP:Pump Electricity Energy
+
+ For Meter=Cogeneration:Electricity [J], ResourceType=Electricity, EndUse=Cogeneration, contents are:
+  EXAMPLE INVERTER - SIMPLE:Inverter Ancillary AC Electricity Energy
+
+ For Meter=DCtoACInverter Ancillary:Cogeneration:Electricity [J], ResourceType=Electricity, EndUse=Cogeneration, contents are:
+  EXAMPLE INVERTER - SIMPLE:Inverter Ancillary AC Electricity Energy
+
+ For Meter=ElectricityPurchased:Facility [J], ResourceType=ElectricityPurchased, contents are:
+  Whole Building:Facility Total Purchased Electricity Energy
+
+ For Meter=ElectricityPurchased:Plant [J], ResourceType=ElectricityPurchased, Group=Plant, contents are:
+  Whole Building:Facility Total Purchased Electricity Energy
+
+ For Meter=Cogeneration:ElectricityPurchased [J], ResourceType=ElectricityPurchased, EndUse=Cogeneration, contents are:
+  Whole Building:Facility Total Purchased Electricity Energy
+
+ For Meter=General:Cogeneration:ElectricityPurchased [J], ResourceType=ElectricityPurchased, EndUse=Cogeneration, contents are:
+  Whole Building:Facility Total Purchased Electricity Energy
+
+ For Meter=ElectricitySurplusSold:Facility [J], ResourceType=ElectricitySurplusSold, contents are:
+  Whole Building:Facility Total Surplus Electricity Energy
+
+ For Meter=ElectricitySurplusSold:Plant [J], ResourceType=ElectricitySurplusSold, Group=Plant, contents are:
+  Whole Building:Facility Total Surplus Electricity Energy
+
+ For Meter=Cogeneration:ElectricitySurplusSold [J], ResourceType=ElectricitySurplusSold, EndUse=Cogeneration, contents are:
+  Whole Building:Facility Total Surplus Electricity Energy
+
+ For Meter=General:Cogeneration:ElectricitySurplusSold [J], ResourceType=ElectricitySurplusSold, EndUse=Cogeneration, contents are:
+  Whole Building:Facility Total Surplus Electricity Energy
+
+ For Meter=ElectricityNet:Facility [J], ResourceType=ElectricityNet, contents are:
+  Whole Building:Facility Net Purchased Electricity Energy
+
+ For Meter=ElectricityNet:Plant [J], ResourceType=ElectricityNet, Group=Plant, contents are:
+  Whole Building:Facility Net Purchased Electricity Energy
+
+ For Meter=Cogeneration:ElectricityNet [J], ResourceType=ElectricityNet, EndUse=Cogeneration, contents are:
+  Whole Building:Facility Net Purchased Electricity Energy
+
+ For Meter=General:Cogeneration:ElectricityNet [J], ResourceType=ElectricityNet, EndUse=Cogeneration, contents are:
+  Whole Building:Facility Net Purchased Electricity Energy
+
+ For Meter=Photovoltaic:ElectricityProduced [J], ResourceType=ElectricityProduced, EndUse=Photovoltaic, contents are:
+  SOLAR COLLECTOR 1:Generator Produced DC Electricity Energy
+  SOLAR COLLECTOR 2:Generator Produced DC Electricity Energy
+  SOLAR COLLECTOR 3:Generator Produced DC Electricity Energy
+  SOLAR COLLECTOR 4:Generator Produced DC Electricity Energy
+
+ For Meter=EnergyTransfer:HVAC [J], ResourceType=EnergyTransfer, Group=HVAC, contents are:
+  AIR LOOP AHU HEATING COIL:Heating Coil Heating Energy
+  AIR LOOP AHU COOLING COIL:Cooling Coil Total Cooling Energy
+
+ For Meter=HeatingCoils:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=HeatingCoils, contents are:
+  AIR LOOP AHU HEATING COIL:Heating Coil Heating Energy
+
+ For Meter=PlantLoopHeatingDemand:Facility [J], ResourceType=PlantLoopHeatingDemand, contents are:
+  AIR LOOP AHU HEATING COIL:Heating Coil Source Side Heat Transfer Energy
+
+ For Meter=PlantLoopHeatingDemand:HVAC [J], ResourceType=PlantLoopHeatingDemand, Group=HVAC, contents are:
+  AIR LOOP AHU HEATING COIL:Heating Coil Source Side Heat Transfer Energy
+
+ For Meter=HeatingCoils:PlantLoopHeatingDemand [J], ResourceType=PlantLoopHeatingDemand, EndUse=HeatingCoils, contents are:
+  AIR LOOP AHU HEATING COIL:Heating Coil Source Side Heat Transfer Energy
+
+ For Meter=CoolingCoils:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=CoolingCoils, contents are:
+  AIR LOOP AHU COOLING COIL:Cooling Coil Total Cooling Energy
+
+ For Meter=PlantLoopCoolingDemand:Facility [J], ResourceType=PlantLoopCoolingDemand, contents are:
+  AIR LOOP AHU COOLING COIL:Cooling Coil Source Side Heat Transfer Energy
+
+ For Meter=PlantLoopCoolingDemand:HVAC [J], ResourceType=PlantLoopCoolingDemand, Group=HVAC, contents are:
+  AIR LOOP AHU COOLING COIL:Cooling Coil Source Side Heat Transfer Energy
+
+ For Meter=CoolingCoils:PlantLoopCoolingDemand [J], ResourceType=PlantLoopCoolingDemand, EndUse=CoolingCoils, contents are:
+  AIR LOOP AHU COOLING COIL:Cooling Coil Source Side Heat Transfer Energy
+
+ For Meter=Electricity:HVAC [J], ResourceType=Electricity, Group=HVAC, contents are:
+  AIR LOOP AHU EXTRACT FAN:Fan Electricity Energy
+  AIR LOOP AHU SUPPLY FAN:Fan Electricity Energy
+
+ For Meter=Fans:Electricity [J], ResourceType=Electricity, EndUse=Fans, contents are:
+  AIR LOOP AHU EXTRACT FAN:Fan Electricity Energy
+  AIR LOOP AHU SUPPLY FAN:Fan Electricity Energy
+
+ For Meter=General:Fans:Electricity [J], ResourceType=Electricity, EndUse=Fans, contents are:
+  AIR LOOP AHU EXTRACT FAN:Fan Electricity Energy
+  AIR LOOP AHU SUPPLY FAN:Fan Electricity Energy
+
+ For Meter=EnergyTransfer:Plant [J], ResourceType=EnergyTransfer, Group=Plant, contents are:
+  BOILER:Boiler Heating Energy
+  CHILLER:Chiller Evaporator Cooling Energy
+  CHILLER:Chiller Condenser Heat Transfer Energy
+
+ For Meter=Boilers:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=Boilers, contents are:
+  BOILER:Boiler Heating Energy
+
+ For Meter=NaturalGas:Facility [J], ResourceType=NaturalGas, contents are:
+  BOILER:Boiler NaturalGas Energy
+  BOILER:Boiler Ancillary NaturalGas Energy
+
+ For Meter=NaturalGas:Plant [J], ResourceType=NaturalGas, Group=Plant, contents are:
+  BOILER:Boiler NaturalGas Energy
+  BOILER:Boiler Ancillary NaturalGas Energy
+
+ For Meter=Heating:NaturalGas [J], ResourceType=NaturalGas, EndUse=Heating, contents are:
+  BOILER:Boiler NaturalGas Energy
+  BOILER:Boiler Ancillary NaturalGas Energy
+
+ For Meter=Boiler:Heating:NaturalGas [J], ResourceType=NaturalGas, EndUse=Heating, contents are:
+  BOILER:Boiler NaturalGas Energy
+
+ For Meter=Heating:Electricity [J], ResourceType=Electricity, EndUse=Heating, contents are:
+  BOILER:Boiler Ancillary Electricity Energy
+
+ For Meter=Boiler Parasitic:Heating:Electricity [J], ResourceType=Electricity, EndUse=Heating, contents are:
+  BOILER:Boiler Ancillary Electricity Energy
+
+ For Meter=Boiler Parasitic:Heating:NaturalGas [J], ResourceType=NaturalGas, EndUse=Heating, contents are:
+  BOILER:Boiler Ancillary NaturalGas Energy
+
+ For Meter=Cooling:Electricity [J], ResourceType=Electricity, EndUse=Cooling, contents are:
+  CHILLER:Chiller Electricity Energy
+
+ For Meter=General:Cooling:Electricity [J], ResourceType=Electricity, EndUse=Cooling, contents are:
+  CHILLER:Chiller Electricity Energy
+
+ For Meter=Chillers:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=Chillers, contents are:
+  CHILLER:Chiller Evaporator Cooling Energy
+
+ For Meter=HeatRejection:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=HeatRejection, contents are:
+  CHILLER:Chiller Condenser Heat Transfer Energy
+
+ For Meter=General:HeatRejection:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=HeatRejection, contents are:
+  CHILLER:Chiller Condenser Heat Transfer Energy
+
+ For Meter=HeatRejection:Electricity [J], ResourceType=Electricity, EndUse=HeatRejection, contents are:
+  COOLING TOWER:Cooling Tower Fan Electricity Energy
+
+ For Meter=General:HeatRejection:Electricity [J], ResourceType=Electricity, EndUse=HeatRejection, contents are:
+  COOLING TOWER:Cooling Tower Fan Electricity Energy
+
+ For Meter=Water:Facility [m3], ResourceType=Water, contents are:
+  COOLING TOWER:Cooling Tower Make Up Water Volume
+
+ For Meter=Water:Plant [m3], ResourceType=Water, Group=Plant, contents are:
+  COOLING TOWER:Cooling Tower Make Up Water Volume
+
+ For Meter=HeatRejection:Water [m3], ResourceType=Water, EndUse=HeatRejection, contents are:
+  COOLING TOWER:Cooling Tower Make Up Water Volume
+
+ For Meter=General:HeatRejection:Water [m3], ResourceType=Water, EndUse=HeatRejection, contents are:
+  COOLING TOWER:Cooling Tower Make Up Water Volume
+
+ For Meter=MainsWater:Facility [m3], ResourceType=MainsWater, contents are:
+  COOLING TOWER:Cooling Tower Make Up Mains Water Volume
+
+ For Meter=MainsWater:Plant [m3], ResourceType=MainsWater, Group=Plant, contents are:
+  COOLING TOWER:Cooling Tower Make Up Mains Water Volume
+
+ For Meter=HeatRejection:MainsWater [m3], ResourceType=MainsWater, EndUse=HeatRejection, contents are:
+  COOLING TOWER:Cooling Tower Make Up Mains Water Volume
+
+ For Meter=General:HeatRejection:MainsWater [m3], ResourceType=MainsWater, EndUse=HeatRejection, contents are:
+  COOLING TOWER:Cooling Tower Make Up Mains Water Volume
+
+ For Meter=Pumps:Electricity [J], ResourceType=Electricity, EndUse=Pumps, contents are:
+  HW LOOP SUPPLY PUMP:Pump Electricity Energy
+  CHW LOOP SUPPLY PUMP:Pump Electricity Energy
+  CONDENSER LOOP SUPPLY PUMP:Pump Electricity Energy
+
+ For Meter=General:Pumps:Electricity [J], ResourceType=Electricity, EndUse=Pumps, contents are:
+  HW LOOP SUPPLY PUMP:Pump Electricity Energy
+  CHW LOOP SUPPLY PUMP:Pump Electricity Energy
+  CONDENSER LOOP SUPPLY PUMP:Pump Electricity Energy
+
+ For Meter=Carbon Equivalent:Facility [kg], ResourceType=Carbon Equivalent, contents are:
+  Site:Environmental Impact Total N2O Emissions Carbon Equivalent Mass
+  Site:Environmental Impact Total CH4 Emissions Carbon Equivalent Mass
+  Site:Environmental Impact Total CO2 Emissions Carbon Equivalent Mass
+
+ For Meter=CarbonEquivalentEmissions:Carbon Equivalent [kg], ResourceType=Carbon Equivalent, EndUse=CarbonEquivalentEmissions, contents are:
+  Site:Environmental Impact Total N2O Emissions Carbon Equivalent Mass
+  Site:Environmental Impact Total CH4 Emissions Carbon Equivalent Mass
+  Site:Environmental Impact Total CO2 Emissions Carbon Equivalent Mass

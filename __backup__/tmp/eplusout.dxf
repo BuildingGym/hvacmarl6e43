@@ -1,0 +1,13564 @@
+  0
+SECTION
+  2
+ENTITIES
+999
+DXF created from EnergyPlus
+999
+Program Version,EnergyPlus, Version 23.2.0-7636e6b3e9, YMD=2025.08.08 02:55
+999
+Polygon Action,TRIANGULATE3DFACE
+999
+Color Scheme,Default
+999
+Text - True North
+  0
+TEXT
+  8
+1
+  6
+Continuous
+ 62
+  3
+ 10
+       -9.58774
+ 20
+        6.10290
+ 30
+        0.10000
+ 40
+ .25
+  1
+True North
+ 41
+ 0.0
+  7
+MONOTXT
+210
+0.0
+220
+0.0
+230
+1.0
+999
+Text - Building Title
+  0
+TEXT
+  8
+1
+  6
+Continuous
+ 62
+  3
+ 10
+      -12.58774
+ 20
+        2.10290
+ 30
+        0.10000
+ 40
+ .4
+  1
+Building - Building
+ 41
+ 0.0
+  7
+MONOTXT
+210
+0.0
+220
+0.0
+230
+1.0
+999
+North Arrow Stem
+  0
+3DFACE
+  8
+1
+ 62
+  3
+ 10
+       -8.58774
+ 20
+        6.10290
+ 30
+        0.10000
+ 11
+       -8.58774
+ 21
+        6.10290
+ 31
+        0.00000
+ 12
+       -8.58774
+ 22
+        3.10290
+ 32
+        0.00000
+ 13
+       -8.58774
+ 23
+        3.10290
+ 33
+        0.10000
+999
+North Arrow Head 1
+  0
+3DFACE
+  8
+1
+ 62
+  3
+ 10
+       -8.58774
+ 20
+        6.10290
+ 30
+        0.10000
+ 11
+       -8.58774
+ 21
+        6.10290
+ 31
+        0.00000
+ 12
+       -9.08774
+ 22
+        5.23687
+ 32
+        0.00000
+ 13
+       -9.08774
+ 23
+        5.23687
+ 33
+        0.10000
+999
+North Arrow Head 2
+  0
+3DFACE
+  8
+1
+ 62
+  3
+ 10
+       -8.58774
+ 20
+        6.10290
+ 30
+        0.10000
+ 11
+       -8.58774
+ 21
+        6.10290
+ 31
+        0.00000
+ 12
+       -8.08774
+ 22
+        5.23687
+ 32
+        0.00000
+ 13
+       -8.08774
+ 23
+        5.23687
+ 33
+        0.10000
+999
+North Arrow Side 1
+  0
+3DFACE
+  8
+1
+ 62
+  3
+ 10
+       -9.08774
+ 20
+        7.60290
+ 30
+        0.10000
+ 11
+       -9.08774
+ 21
+        7.60290
+ 31
+        0.00000
+ 12
+       -9.08774
+ 22
+        6.60290
+ 32
+        0.00000
+ 13
+       -9.08774
+ 23
+        6.60290
+ 33
+        0.10000
+999
+North Arrow Side 2
+  0
+3DFACE
+  8
+1
+ 62
+  3
+ 10
+       -9.08774
+ 20
+        7.60290
+ 30
+        0.10000
+ 11
+       -9.08774
+ 21
+        7.60290
+ 31
+        0.00000
+ 12
+       -8.08774
+ 22
+        6.60290
+ 32
+        0.00000
+ 13
+       -8.08774
+ 23
+        6.60290
+ 33
+        0.10000
+999
+North Arrow Side 3
+  0
+3DFACE
+  8
+1
+ 62
+  3
+ 10
+       -8.08774
+ 20
+        7.60290
+ 30
+        0.10000
+ 11
+       -8.08774
+ 21
+        7.60290
+ 31
+        0.00000
+ 12
+       -8.08774
+ 22
+        6.60290
+ 32
+        0.00000
+ 13
+       -8.08774
+ 23
+        6.60290
+ 33
+        0.10000
+999
+Zone Names
+999
+Zone=1:1FFIRSTFLOOREAST_OPENOFFICE
+999
+Zone=2:1FFIRSTFLOORWEST_OPENOFFICE
+999
+Zone=3:0FGROUNDFLOORWEST_OPENOFFICE
+999
+Zone=4:0FGROUNDFLOOREAST_OPENOFFICE
+999
+Zone=5:CORECIRCULATION_CIRCULATION
+999
+Zone=6:ATRIUMRECEPTION_RECEPTION
+999
+Zone=7:1FFIRSTFLOOREAST1_OPENOFFICE
+999
+Zone=8:1FFIRSTFLOORWEST1_OPENOFFICE
+999
+Zone=9:0FGROUNDFLOORWEST1_OPENOFFICE
+999
+Zone=10:0FGROUNDFLOOREAST1_OPENOFFICE
+999
+Zone=11:CORECIRCULATION1_CIRCULATION
+999
+Zone=12:ATRIUMRECEPTION1_RECEPTION
+999
+Zone=13:BLOCK1_ZONE1
+999
+Building Shading:BUILDING LEVEL - COMPONENT BLOCK 1 - SURFACE 1 (1)
+  0
+3DFACE
+  8
+Building Shading
+ 62
+195
+ 10
+       31.37144
+ 20
+       33.93264
+ 30
+        6.00000
+ 11
+       34.33062
+ 21
+       33.93264
+ 31
+        5.50680
+ 12
+       34.33062
+ 22
+       53.93264
+ 32
+        5.50680
+ 13
+       31.37144
+ 23
+       53.93264
+ 33
+        6.00000
+999
+Building Shading:Mir-BUILDING LEVEL - COMPONENT BLOCK 1 - SURFACE 1 (1)
+  0
+3DFACE
+  8
+Building Shading
+ 62
+195
+ 10
+       31.37144
+ 20
+       53.93264
+ 30
+        6.00000
+ 11
+       34.33062
+ 21
+       53.93264
+ 31
+        5.50680
+ 12
+       34.33062
+ 22
+       33.93264
+ 32
+        5.50680
+ 13
+       31.37144
+ 23
+       33.93264
+ 33
+        6.00000
+999
+Building Shading:BUILDING LEVEL - COMPONENT BLOCK 3 - SURFACE 1 (2)
+  0
+3DFACE
+  8
+Building Shading
+ 62
+195
+ 10
+       34.33062
+ 20
+       33.93264
+ 30
+        5.50680
+ 11
+       19.37144
+ 21
+       33.93264
+ 31
+        8.00000
+ 12
+       19.37144
+ 22
+       30.93264
+ 32
+        8.00000
+ 13
+       34.33062
+ 23
+       30.93264
+ 33
+        5.50680
+999
+Building Shading:Mir-BUILDING LEVEL - COMPONENT BLOCK 3 - SURFACE 1 (2)
+  0
+3DFACE
+  8
+Building Shading
+ 62
+195
+ 10
+       34.33062
+ 20
+       30.93264
+ 30
+        5.50680
+ 11
+       19.37144
+ 21
+       30.93264
+ 31
+        8.00000
+ 12
+       19.37144
+ 22
+       33.93264
+ 32
+        8.00000
+ 13
+       34.33062
+ 23
+       33.93264
+ 33
+        5.50680
+999
+Building Shading:BUILDING LEVEL - COMPONENT BLOCK 6 - SURFACE 1 (3)
+  0
+3DFACE
+  8
+Building Shading
+ 62
+195
+ 10
+       19.37144
+ 20
+       30.93264
+ 30
+        8.00000
+ 11
+       19.37144
+ 21
+       33.93264
+ 31
+        8.00000
+ 12
+       16.37144
+ 22
+       33.93264
+ 32
+        8.00000
+ 13
+       16.37144
+ 23
+       30.93264
+ 33
+        8.00000
+999
+Building Shading:Mir-BUILDING LEVEL - COMPONENT BLOCK 6 - SURFACE 1 (3)
+  0
+3DFACE
+  8
+Building Shading
+ 62
+195
+ 10
+       16.37144
+ 20
+       30.93264
+ 30
+        8.00000
+ 11
+       16.37144
+ 21
+       33.93264
+ 31
+        8.00000
+ 12
+       19.37144
+ 22
+       33.93264
+ 32
+        8.00000
+ 13
+       19.37144
+ 23
+       30.93264
+ 33
+        8.00000
+999
+Building Shading:BUILDING LEVEL - COMPONENT BLOCK 4 - SURFACE 1 (4)
+  0
+3DFACE
+  8
+Building Shading
+ 62
+195
+ 10
+        4.37144
+ 20
+       53.93264
+ 30
+        6.00000
+ 11
+        1.41226
+ 21
+       53.93264
+ 31
+        5.50680
+ 12
+        1.41226
+ 22
+       33.93264
+ 32
+        5.50680
+ 13
+        4.37144
+ 23
+       33.93264
+ 33
+        6.00000
+999
+Building Shading:Mir-BUILDING LEVEL - COMPONENT BLOCK 4 - SURFACE 1 (4)
+  0
+3DFACE
+  8
+Building Shading
+ 62
+195
+ 10
+        4.37144
+ 20
+       33.93264
+ 30
+        6.00000
+ 11
+        1.41226
+ 21
+       33.93264
+ 31
+        5.50680
+ 12
+        1.41226
+ 22
+       53.93264
+ 32
+        5.50680
+ 13
+        4.37144
+ 23
+       53.93264
+ 33
+        6.00000
+999
+Building Shading:BUILDING LEVEL - COMPONENT BLOCK 2 - SURFACE 1 (5)
+  0
+3DFACE
+  8
+Building Shading
+ 62
+195
+ 10
+       16.37144
+ 20
+       33.93264
+ 30
+        8.00000
+ 11
+        1.41226
+ 21
+       33.93264
+ 31
+        5.50680
+ 12
+        1.41226
+ 22
+       30.93264
+ 32
+        5.50680
+ 13
+       16.37143
+ 23
+       30.93264
+ 33
+        8.00000
+999
+Building Shading:Mir-BUILDING LEVEL - COMPONENT BLOCK 2 - SURFACE 1 (5)
+  0
+3DFACE
+  8
+Building Shading
+ 62
+195
+ 10
+       16.37143
+ 20
+       30.93264
+ 30
+        8.00000
+ 11
+        1.41226
+ 21
+       30.93264
+ 31
+        5.50680
+ 12
+        1.41226
+ 22
+       33.93264
+ 32
+        5.50680
+ 13
+       16.37144
+ 23
+       33.93264
+ 33
+        8.00000
+999
+Building Shading:BUILDING LEVEL - COMPONENT BLOCK 5 - SURFACE 1 (6)
+  0
+3DFACE
+  8
+Building Shading
+ 62
+195
+ 10
+        4.37144
+ 20
+       26.09290
+ 30
+        6.00000
+ 11
+        1.41226
+ 21
+       26.09290
+ 31
+        5.50680
+ 12
+        1.41226
+ 22
+        6.09290
+ 32
+        5.50680
+ 13
+        4.37144
+ 23
+        6.09290
+ 33
+        6.00000
+999
+Building Shading:Mir-BUILDING LEVEL - COMPONENT BLOCK 5 - SURFACE 1 (6)
+  0
+3DFACE
+  8
+Building Shading
+ 62
+195
+ 10
+        4.37144
+ 20
+        6.09290
+ 30
+        6.00000
+ 11
+        1.41226
+ 21
+        6.09290
+ 31
+        5.50680
+ 12
+        1.41226
+ 22
+       26.09290
+ 32
+        5.50680
+ 13
+        4.37144
+ 23
+       26.09290
+ 33
+        6.00000
+999
+Building Shading:BUILDING LEVEL - COMPONENT BLOCK 7 - SURFACE 1 (7)
+  0
+3DFACE
+  8
+Building Shading
+ 62
+195
+ 10
+        1.41226
+ 20
+       26.09290
+ 30
+        5.50680
+ 11
+       16.37144
+ 21
+       26.09290
+ 31
+        8.00000
+ 12
+       16.37144
+ 22
+       29.09290
+ 32
+        8.00000
+ 13
+        1.41226
+ 23
+       29.09290
+ 33
+        5.50680
+999
+Building Shading:Mir-BUILDING LEVEL - COMPONENT BLOCK 7 - SURFACE 1 (7)
+  0
+3DFACE
+  8
+Building Shading
+ 62
+195
+ 10
+        1.41226
+ 20
+       29.09290
+ 30
+        5.50680
+ 11
+       16.37144
+ 21
+       29.09290
+ 31
+        8.00000
+ 12
+       16.37144
+ 22
+       26.09290
+ 32
+        8.00000
+ 13
+        1.41226
+ 23
+       26.09290
+ 33
+        5.50680
+999
+Building Shading:BUILDING LEVEL - COMPONENT BLOCK 8 - SURFACE 1 (8)
+  0
+3DFACE
+  8
+Building Shading
+ 62
+195
+ 10
+       19.37144
+ 20
+       26.09290
+ 30
+        8.00000
+ 11
+       19.37144
+ 21
+       29.09290
+ 31
+        8.00000
+ 12
+       16.37144
+ 22
+       29.09290
+ 32
+        8.00000
+ 13
+       16.37144
+ 23
+       26.09290
+ 33
+        8.00000
+999
+Building Shading:Mir-BUILDING LEVEL - COMPONENT BLOCK 8 - SURFACE 1 (8)
+  0
+3DFACE
+  8
+Building Shading
+ 62
+195
+ 10
+       16.37144
+ 20
+       26.09290
+ 30
+        8.00000
+ 11
+       16.37144
+ 21
+       29.09290
+ 31
+        8.00000
+ 12
+       19.37144
+ 22
+       29.09290
+ 32
+        8.00000
+ 13
+       19.37144
+ 23
+       26.09290
+ 33
+        8.00000
+999
+Building Shading:BUILDING LEVEL - COMPONENT BLOCK 9 - SURFACE 1 (9)
+  0
+3DFACE
+  8
+Building Shading
+ 62
+195
+ 10
+       31.37144
+ 20
+        6.09290
+ 30
+        6.00000
+ 11
+       34.33062
+ 21
+        6.09290
+ 31
+        5.50680
+ 12
+       34.33062
+ 22
+       26.09289
+ 32
+        5.50680
+ 13
+       31.37144
+ 23
+       26.09289
+ 33
+        6.00000
+999
+Building Shading:Mir-BUILDING LEVEL - COMPONENT BLOCK 9 - SURFACE 1 (9)
+  0
+3DFACE
+  8
+Building Shading
+ 62
+195
+ 10
+       31.37144
+ 20
+       26.09289
+ 30
+        6.00000
+ 11
+       34.33062
+ 21
+       26.09289
+ 31
+        5.50680
+ 12
+       34.33062
+ 22
+        6.09290
+ 32
+        5.50680
+ 13
+       31.37144
+ 23
+        6.09290
+ 33
+        6.00000
+999
+Building Shading:BUILDING LEVEL - COMPONENT BLOCK 10 - SURFACE 1 (10)
+  0
+3DFACE
+  8
+Building Shading
+ 62
+195
+ 10
+       19.37144
+ 20
+       26.09290
+ 30
+        8.00000
+ 11
+       34.33062
+ 21
+       26.09290
+ 31
+        5.50680
+ 12
+       34.33062
+ 22
+       29.09289
+ 32
+        5.50680
+ 13
+       19.37144
+ 23
+       29.09290
+ 33
+        8.00000
+999
+Building Shading:Mir-BUILDING LEVEL - COMPONENT BLOCK 10 - SURFACE 1 (10)
+  0
+3DFACE
+  8
+Building Shading
+ 62
+195
+ 10
+       19.37144
+ 20
+       29.09290
+ 30
+        8.00000
+ 11
+       34.33062
+ 21
+       29.09289
+ 31
+        5.50680
+ 12
+       34.33062
+ 22
+       26.09290
+ 32
+        5.50680
+ 13
+       19.37144
+ 23
+       26.09290
+ 33
+        8.00000
+999
+Building Shading:SOLAR COLLECTOR 1
+  0
+3DFACE
+  8
+Building Shading
+ 62
+174
+ 10
+       31.37144
+ 20
+       26.09290
+ 30
+        6.00000
+ 11
+       19.37144
+ 21
+       26.09290
+ 31
+        8.00000
+ 12
+       19.37144
+ 22
+        6.09290
+ 32
+        8.00000
+ 13
+       31.37144
+ 23
+        6.09289
+ 33
+        6.00000
+999
+Building Shading:Mir-SOLAR COLLECTOR 1
+  0
+3DFACE
+  8
+Building Shading
+ 62
+195
+ 10
+       31.37144
+ 20
+        6.09289
+ 30
+        6.00000
+ 11
+       19.37144
+ 21
+        6.09290
+ 31
+        8.00000
+ 12
+       19.37144
+ 22
+       26.09290
+ 32
+        8.00000
+ 13
+       31.37144
+ 23
+       26.09290
+ 33
+        6.00000
+999
+Building Shading:SOLAR COLLECTOR 2
+  0
+3DFACE
+  8
+Building Shading
+ 62
+174
+ 10
+       31.37144
+ 20
+       53.93264
+ 30
+        6.00000
+ 11
+       19.37144
+ 21
+       53.93264
+ 31
+        8.00000
+ 12
+       19.37144
+ 22
+       33.93264
+ 32
+        8.00000
+ 13
+       31.37144
+ 23
+       33.93264
+ 33
+        6.00000
+999
+Building Shading:Mir-SOLAR COLLECTOR 2
+  0
+3DFACE
+  8
+Building Shading
+ 62
+195
+ 10
+       31.37144
+ 20
+       33.93264
+ 30
+        6.00000
+ 11
+       19.37144
+ 21
+       33.93264
+ 31
+        8.00000
+ 12
+       19.37144
+ 22
+       53.93264
+ 32
+        8.00000
+ 13
+       31.37144
+ 23
+       53.93264
+ 33
+        6.00000
+999
+Building Shading:SOLAR COLLECTOR 3
+  0
+3DFACE
+  8
+Building Shading
+ 62
+174
+ 10
+       16.37144
+ 20
+       26.09290
+ 30
+        8.00000
+ 11
+        4.37144
+ 21
+       26.09290
+ 31
+        6.00000
+ 12
+        4.37144
+ 22
+        6.09290
+ 32
+        6.00000
+ 13
+       16.37144
+ 23
+        6.09290
+ 33
+        8.00000
+999
+Building Shading:Mir-SOLAR COLLECTOR 3
+  0
+3DFACE
+  8
+Building Shading
+ 62
+195
+ 10
+       16.37144
+ 20
+        6.09290
+ 30
+        8.00000
+ 11
+        4.37144
+ 21
+        6.09290
+ 31
+        6.00000
+ 12
+        4.37144
+ 22
+       26.09290
+ 32
+        6.00000
+ 13
+       16.37144
+ 23
+       26.09290
+ 33
+        8.00000
+999
+Building Shading:SOLAR COLLECTOR 4
+  0
+3DFACE
+  8
+Building Shading
+ 62
+174
+ 10
+       16.37144
+ 20
+       53.93264
+ 30
+        8.00000
+ 11
+        4.37144
+ 21
+       53.93264
+ 31
+        6.00000
+ 12
+        4.37144
+ 22
+       33.93264
+ 32
+        6.00000
+ 13
+       16.37144
+ 23
+       33.93264
+ 33
+        8.00000
+999
+Building Shading:Mir-SOLAR COLLECTOR 4
+  0
+3DFACE
+  8
+Building Shading
+ 62
+195
+ 10
+       16.37144
+ 20
+       33.93264
+ 30
+        8.00000
+ 11
+        4.37144
+ 21
+       33.93264
+ 31
+        6.00000
+ 12
+        4.37144
+ 22
+       53.93264
+ 32
+        6.00000
+ 13
+       16.37144
+ 23
+       53.93264
+ 33
+        8.00000
+999
+1FFIRSTFLOOREAST:OPENOFFICE:1FFIRSTFLOOREAST:OPENOFFICE_PARTITION_1_0_0
+  0
+3DFACE
+  8
+1FFIRSTFLOOREAST_OPENOFFICE
+ 62
+ 43
+ 10
+       20.87144
+ 20
+       53.92416
+ 30
+        7.75000
+ 11
+       20.87144
+ 21
+       53.92416
+ 31
+        3.00000
+ 12
+       19.37144
+ 22
+       53.92416
+ 32
+        3.00000
+ 13
+       19.37144
+ 23
+       53.92416
+ 33
+        8.00000
+999
+1FFIRSTFLOOREAST:OPENOFFICE:1FFIRSTFLOOREAST:OPENOFFICE_WALL_1_1_0
+  0
+3DFACE
+  8
+1FFIRSTFLOOREAST_OPENOFFICE
+ 62
+ 43
+ 10
+       31.36144
+ 20
+       53.92416
+ 30
+        6.00167
+ 11
+       31.36144
+ 21
+       53.92416
+ 31
+        3.00000
+ 12
+       20.87144
+ 22
+       53.92416
+ 32
+        3.00000
+ 13
+       20.87144
+ 23
+       53.92416
+ 33
+        7.75000
+999
+1FFIRSTFLOOREAST:OPENOFFICE:1FFIRSTFLOOREAST:OPENOFFICE_WALL_1_1_0_0_0_1_WIN
+  0
+3DFACE
+  8
+1FFIRSTFLOOREAST_OPENOFFICE
+ 62
+143
+ 10
+       25.48931
+ 20
+       53.92416
+ 30
+        5.26000
+ 11
+       25.48931
+ 21
+       53.92416
+ 31
+        3.84000
+ 12
+       21.50357
+ 22
+       53.92416
+ 32
+        3.84000
+ 13
+       21.50357
+ 23
+       53.92416
+ 33
+        5.26000
+999
+1FFIRSTFLOOREAST:OPENOFFICE:1FFIRSTFLOOREAST:OPENOFFICE_WALL_2_0_0
+  0
+3DFACE
+  8
+1FFIRSTFLOOREAST_OPENOFFICE
+ 62
+ 43
+ 10
+       31.36144
+ 20
+       33.94264
+ 30
+        6.00000
+ 11
+       31.36144
+ 21
+       33.94264
+ 31
+        3.00000
+ 12
+       31.36144
+ 22
+       53.92416
+ 32
+        3.00000
+ 13
+       31.36144
+ 23
+       53.92416
+ 33
+        6.00000
+999
+1FFIRSTFLOOREAST:OPENOFFICE:1FFIRSTFLOOREAST:OPENOFFICE_WALL_2_0_0_0_0_2_WIN
+  0
+3DFACE
+  8
+1FFIRSTFLOOREAST_OPENOFFICE
+ 62
+143
+ 10
+       31.36144
+ 20
+       48.63242
+ 30
+        5.26000
+ 11
+       31.36144
+ 21
+       48.63242
+ 31
+        3.84000
+ 12
+       31.36144
+ 22
+       52.54873
+ 32
+        3.84000
+ 13
+       31.36144
+ 23
+       52.54873
+ 33
+        5.26000
+999
+1FFIRSTFLOOREAST:OPENOFFICE:1FFIRSTFLOOREAST:OPENOFFICE_PARTITION_3_0_0
+  0
+3DFACE
+  8
+1FFIRSTFLOOREAST_OPENOFFICE
+ 62
+ 43
+ 10
+       19.37144
+ 20
+       53.92416
+ 30
+        8.00000
+ 11
+       19.37144
+ 21
+       53.92416
+ 31
+        3.00000
+ 12
+       19.37144
+ 22
+       50.93264
+ 32
+        3.00000
+ 13
+       19.37144
+ 23
+       50.93264
+ 33
+        8.00000
+999
+1FFIRSTFLOOREAST:OPENOFFICE:1FFIRSTFLOOREAST:OPENOFFICE_PARTITION_3_1_0
+  0
+3DFACE
+  8
+1FFIRSTFLOOREAST_OPENOFFICE
+ 62
+ 43
+ 10
+       19.37144
+ 20
+       50.93264
+ 30
+        8.00000
+ 11
+       19.37144
+ 21
+       50.93264
+ 31
+        3.00000
+ 12
+       19.37144
+ 22
+       33.94264
+ 32
+        3.00000
+ 13
+       19.37144
+ 23
+       33.94264
+ 33
+        8.00000
+999
+1FFIRSTFLOOREAST:OPENOFFICE:1FFIRSTFLOOREAST:OPENOFFICE_PARTITION_3_1_0_0_0_0_WIN
+  0
+3DFACE
+  8
+1FFIRSTFLOOREAST_OPENOFFICE
+ 62
+143
+ 10
+       19.37144
+ 20
+       50.40275
+ 30
+        7.46011
+ 11
+       19.37144
+ 21
+       50.40275
+ 31
+        3.54011
+ 12
+       19.37144
+ 22
+       34.48275
+ 32
+        3.54011
+ 13
+       19.37144
+ 23
+       34.48275
+ 33
+        7.46011
+999
+1FFIRSTFLOOREAST:OPENOFFICE:1FFIRSTFLOOREAST:OPENOFFICE_WALL_4_0_0
+  0
+3DFACE
+  8
+1FFIRSTFLOOREAST_OPENOFFICE
+ 62
+ 43
+ 10
+       19.37144
+ 20
+       33.94264
+ 30
+        8.00000
+ 11
+       19.37144
+ 21
+       33.94264
+ 31
+        3.00000
+ 12
+       31.36144
+ 22
+       33.94264
+ 32
+        3.00000
+ 13
+       31.36144
+ 23
+       33.94264
+ 33
+        6.00167
+999
+1FFIRSTFLOOREAST:OPENOFFICE:1FFIRSTFLOOREAST:OPENOFFICE_WALL_4_0_0_0_0_1_WIN
+  0
+3DFACE
+  8
+1FFIRSTFLOOREAST_OPENOFFICE
+ 62
+143
+ 10
+       26.00294
+ 20
+       33.94264
+ 30
+        5.26000
+ 11
+       26.00294
+ 21
+       33.94264
+ 31
+        3.84000
+ 12
+       30.71994
+ 22
+       33.94264
+ 32
+        3.84000
+ 13
+       30.71994
+ 23
+       33.94264
+ 33
+        5.26000
+999
+1FFIRSTFLOOREAST:OPENOFFICE:1FFIRSTFLOOREAST:OPENOFFICE_FLOOR_0_0_0
+  0
+3DFACE
+  8
+1FFIRSTFLOOREAST_OPENOFFICE
+ 62
+  8
+ 10
+       19.37144
+ 20
+       33.94264
+ 30
+        3.00000
+ 11
+       19.37144
+ 21
+       53.92416
+ 31
+        3.00000
+ 12
+       31.36144
+ 22
+       53.92416
+ 32
+        3.00000
+ 13
+       31.36144
+ 23
+       33.94264
+ 33
+        3.00000
+999
+1FFIRSTFLOOREAST:OPENOFFICE:1FFIRSTFLOOREAST:OPENOFFICE_ROOF_5_0_0
+  0
+3DFACE
+  8
+1FFIRSTFLOOREAST_OPENOFFICE
+ 62
+ 15
+ 10
+       19.37144
+ 20
+       33.94264
+ 30
+        8.00000
+ 11
+       31.36144
+ 21
+       33.94264
+ 31
+        6.00167
+ 12
+       31.36144
+ 22
+       53.92416
+ 32
+        6.00167
+ 13
+       19.37144
+ 23
+       53.92416
+ 33
+        8.00000
+999
+1FFIRSTFLOORWEST:OPENOFFICE:1FFIRSTFLOORWEST:OPENOFFICE_PARTITION_1_0_0
+  0
+3DFACE
+  8
+1FFIRSTFLOORWEST_OPENOFFICE
+ 62
+ 43
+ 10
+       16.37144
+ 20
+       53.92416
+ 30
+        8.00000
+ 11
+       16.37144
+ 21
+       53.92416
+ 31
+        3.00000
+ 12
+       14.87144
+ 22
+       53.92416
+ 32
+        3.00000
+ 13
+       14.87144
+ 23
+       53.92416
+ 33
+        7.75000
+999
+1FFIRSTFLOORWEST:OPENOFFICE:1FFIRSTFLOORWEST:OPENOFFICE_WALL_1_1_0
+  0
+3DFACE
+  8
+1FFIRSTFLOORWEST_OPENOFFICE
+ 62
+ 43
+ 10
+       14.87144
+ 20
+       53.92416
+ 30
+        7.75000
+ 11
+       14.87144
+ 21
+       53.92416
+ 31
+        3.00000
+ 12
+        4.38144
+ 22
+       53.92416
+ 32
+        3.00000
+ 13
+        4.38144
+ 23
+       53.92416
+ 33
+        6.00167
+999
+1FFIRSTFLOORWEST:OPENOFFICE:1FFIRSTFLOORWEST:OPENOFFICE_WALL_1_1_0_0_0_1_WIN
+  0
+3DFACE
+  8
+1FFIRSTFLOORWEST_OPENOFFICE
+ 62
+143
+ 10
+        8.99931
+ 20
+       53.92416
+ 30
+        5.26000
+ 11
+        8.99931
+ 21
+       53.92416
+ 31
+        3.84000
+ 12
+        5.01357
+ 22
+       53.92416
+ 32
+        3.84000
+ 13
+        5.01357
+ 23
+       53.92416
+ 33
+        5.26000
+999
+1FFIRSTFLOORWEST:OPENOFFICE:1FFIRSTFLOORWEST:OPENOFFICE_PARTITION_2_0_0
+  0
+3DFACE
+  8
+1FFIRSTFLOORWEST_OPENOFFICE
+ 62
+ 43
+ 10
+       16.37144
+ 20
+       50.93264
+ 30
+        8.00000
+ 11
+       16.37144
+ 21
+       50.93264
+ 31
+        3.00000
+ 12
+       16.37144
+ 22
+       53.92416
+ 32
+        3.00000
+ 13
+       16.37144
+ 23
+       53.92416
+ 33
+        8.00000
+999
+1FFIRSTFLOORWEST:OPENOFFICE:1FFIRSTFLOORWEST:OPENOFFICE_PARTITION_2_1_0
+  0
+3DFACE
+  8
+1FFIRSTFLOORWEST_OPENOFFICE
+ 62
+ 43
+ 10
+       16.37144
+ 20
+       33.94264
+ 30
+        8.00000
+ 11
+       16.37144
+ 21
+       33.94264
+ 31
+        3.00000
+ 12
+       16.37144
+ 22
+       50.93264
+ 32
+        3.00000
+ 13
+       16.37144
+ 23
+       50.93264
+ 33
+        8.00000
+999
+1FFIRSTFLOORWEST:OPENOFFICE:1FFIRSTFLOORWEST:OPENOFFICE_PARTITION_2_1_0_0_0_0_WIN
+  0
+3DFACE
+  8
+1FFIRSTFLOORWEST_OPENOFFICE
+ 62
+143
+ 10
+       16.37144
+ 20
+       34.48275
+ 30
+        7.46011
+ 11
+       16.37144
+ 21
+       34.48275
+ 31
+        3.54011
+ 12
+       16.37144
+ 22
+       50.40275
+ 32
+        3.54011
+ 13
+       16.37144
+ 23
+       50.40275
+ 33
+        7.46011
+999
+1FFIRSTFLOORWEST:OPENOFFICE:1FFIRSTFLOORWEST:OPENOFFICE_WALL_3_0_0
+  0
+3DFACE
+  8
+1FFIRSTFLOORWEST_OPENOFFICE
+ 62
+ 43
+ 10
+        4.38144
+ 20
+       53.92416
+ 30
+        6.00000
+ 11
+        4.38144
+ 21
+       53.92416
+ 31
+        3.00000
+ 12
+        4.38144
+ 22
+       33.94264
+ 32
+        3.00000
+ 13
+        4.38144
+ 23
+       33.94264
+ 33
+        6.00000
+999
+1FFIRSTFLOORWEST:OPENOFFICE:1FFIRSTFLOORWEST:OPENOFFICE_WALL_3_0_0_0_0_2_WIN
+  0
+3DFACE
+  8
+1FFIRSTFLOORWEST_OPENOFFICE
+ 62
+143
+ 10
+        4.38144
+ 20
+       39.23438
+ 30
+        5.26000
+ 11
+        4.38144
+ 21
+       39.23438
+ 31
+        3.84000
+ 12
+        4.38144
+ 22
+       35.31807
+ 32
+        3.84000
+ 13
+        4.38144
+ 23
+       35.31807
+ 33
+        5.26000
+999
+1FFIRSTFLOORWEST:OPENOFFICE:1FFIRSTFLOORWEST:OPENOFFICE_WALL_4_0_0
+  0
+3DFACE
+  8
+1FFIRSTFLOORWEST_OPENOFFICE
+ 62
+ 43
+ 10
+        4.38144
+ 20
+       33.94264
+ 30
+        6.00167
+ 11
+        4.38144
+ 21
+       33.94264
+ 31
+        3.00000
+ 12
+       16.37144
+ 22
+       33.94264
+ 32
+        3.00000
+ 13
+       16.37144
+ 23
+       33.94264
+ 33
+        8.00000
+999
+1FFIRSTFLOORWEST:OPENOFFICE:1FFIRSTFLOORWEST:OPENOFFICE_WALL_4_0_0_0_0_1_WIN
+  0
+3DFACE
+  8
+1FFIRSTFLOORWEST_OPENOFFICE
+ 62
+143
+ 10
+       11.01294
+ 20
+       33.94264
+ 30
+        5.26000
+ 11
+       11.01294
+ 21
+       33.94264
+ 31
+        3.84000
+ 12
+       15.72994
+ 22
+       33.94264
+ 32
+        3.84000
+ 13
+       15.72994
+ 23
+       33.94264
+ 33
+        5.26000
+999
+1FFIRSTFLOORWEST:OPENOFFICE:1FFIRSTFLOORWEST:OPENOFFICE_FLOOR_0_0_0
+  0
+3DFACE
+  8
+1FFIRSTFLOORWEST_OPENOFFICE
+ 62
+  8
+ 10
+        4.38144
+ 20
+       33.94264
+ 30
+        3.00000
+ 11
+        4.38144
+ 21
+       53.92416
+ 31
+        3.00000
+ 12
+       16.37144
+ 22
+       53.92416
+ 32
+        3.00000
+ 13
+       16.37144
+ 23
+       33.94264
+ 33
+        3.00000
+999
+1FFIRSTFLOORWEST:OPENOFFICE:1FFIRSTFLOORWEST:OPENOFFICE_ROOF_5_0_0
+  0
+3DFACE
+  8
+1FFIRSTFLOORWEST_OPENOFFICE
+ 62
+ 15
+ 10
+       16.37144
+ 20
+       53.92416
+ 30
+        8.00000
+ 11
+        4.38144
+ 21
+       53.92416
+ 31
+        6.00167
+ 12
+        4.38144
+ 22
+       33.94264
+ 32
+        6.00167
+ 13
+       16.37144
+ 23
+       33.94264
+ 33
+        8.00000
+999
+0FGROUNDFLOORWEST:OPENOFFICE:0FGROUNDFLOORWEST:OPENOFFICE_WALL_2_0_0
+  0
+3DFACE
+  8
+0FGROUNDFLOORWEST_OPENOFFICE
+ 62
+ 43
+ 10
+        4.38144
+ 20
+       53.92389
+ 30
+        3.00000
+ 11
+        4.38144
+ 21
+       53.92389
+ 31
+        0.00000
+ 12
+        4.38144
+ 22
+       33.93264
+ 32
+        0.00000
+ 13
+        4.38144
+ 23
+       33.93264
+ 33
+        3.00000
+999
+0FGROUNDFLOORWEST:OPENOFFICE:0FGROUNDFLOORWEST:OPENOFFICE_WALL_2_0_0_0_0_2_WIN
+  0
+3DFACE
+  8
+0FGROUNDFLOORWEST_OPENOFFICE
+ 62
+143
+ 10
+        4.38144
+ 20
+       39.22697
+ 30
+        2.26000
+ 11
+        4.38144
+ 21
+       39.22697
+ 31
+        0.84000
+ 12
+        4.38144
+ 22
+       35.30872
+ 32
+        0.84000
+ 13
+        4.38144
+ 23
+       35.30872
+ 33
+        2.26000
+999
+0FGROUNDFLOORWEST:OPENOFFICE:0FGROUNDFLOORWEST:OPENOFFICE_PARTITION_3_0_0
+  0
+3DFACE
+  8
+0FGROUNDFLOORWEST_OPENOFFICE
+ 62
+ 43
+ 10
+        4.38144
+ 20
+       33.93264
+ 30
+        3.00000
+ 11
+        4.38144
+ 21
+       33.93264
+ 31
+        0.00000
+ 12
+       16.37144
+ 22
+       33.93264
+ 32
+        0.00000
+ 13
+       16.37144
+ 23
+       33.93264
+ 33
+        3.00000
+999
+0FGROUNDFLOORWEST:OPENOFFICE:0FGROUNDFLOORWEST:OPENOFFICE_PARTITION_4_0_0
+  0
+3DFACE
+  8
+0FGROUNDFLOORWEST_OPENOFFICE
+ 62
+ 43
+ 10
+       16.37144
+ 20
+       50.93264
+ 30
+        3.00000
+ 11
+       16.37144
+ 21
+       50.93264
+ 31
+        0.00000
+ 12
+       16.37144
+ 22
+       53.92389
+ 32
+        0.00000
+ 13
+       16.37144
+ 23
+       53.92389
+ 33
+        3.00000
+999
+0FGROUNDFLOORWEST:OPENOFFICE:0FGROUNDFLOORWEST:OPENOFFICE_PARTITION_4_1_0
+  0
+3DFACE
+  8
+0FGROUNDFLOORWEST_OPENOFFICE
+ 62
+ 43
+ 10
+       16.37144
+ 20
+       33.93264
+ 30
+        3.00000
+ 11
+       16.37144
+ 21
+       33.93264
+ 31
+        0.00000
+ 12
+       16.37144
+ 22
+       50.93264
+ 32
+        0.00000
+ 13
+       16.37144
+ 23
+       50.93264
+ 33
+        3.00000
+999
+0FGROUNDFLOORWEST:OPENOFFICE:0FGROUNDFLOORWEST:OPENOFFICE_PARTITION_4_1_0_2_0_0_DOOR
+  0
+3DFACE
+  8
+0FGROUNDFLOORWEST_OPENOFFICE
+ 62
+ 45
+ 10
+       16.37144
+ 20
+       41.93264
+ 30
+        2.05111
+ 11
+       16.37144
+ 21
+       41.93264
+ 31
+        0.05111
+ 12
+       16.37144
+ 22
+       42.93264
+ 32
+        0.05111
+ 13
+       16.37144
+ 23
+       42.93264
+ 33
+        2.05111
+999
+0FGROUNDFLOORWEST:OPENOFFICE:0FGROUNDFLOORWEST:OPENOFFICE_PARTITION_4_1_0_0_0_2_WIN
+  0
+3DFACE
+  8
+0FGROUNDFLOORWEST_OPENOFFICE
+ 62
+143
+ 10
+       16.37144
+ 20
+       43.47264
+ 30
+        2.46011
+ 11
+       16.37144
+ 21
+       43.47264
+ 31
+        0.54011
+ 12
+       16.37144
+ 22
+       50.39264
+ 32
+        0.54011
+ 13
+       16.37144
+ 23
+       50.39264
+ 33
+        2.46011
+999
+0FGROUNDFLOORWEST:OPENOFFICE:0FGROUNDFLOORWEST:OPENOFFICE_PARTITION_5_0_0
+  0
+3DFACE
+  8
+0FGROUNDFLOORWEST_OPENOFFICE
+ 62
+ 43
+ 10
+       16.37144
+ 20
+       53.92389
+ 30
+        3.00000
+ 11
+       16.37144
+ 21
+       53.92389
+ 31
+        0.00000
+ 12
+       14.87144
+ 22
+       53.92389
+ 32
+        0.00000
+ 13
+       14.87144
+ 23
+       53.92389
+ 33
+        3.00000
+999
+0FGROUNDFLOORWEST:OPENOFFICE:0FGROUNDFLOORWEST:OPENOFFICE_WALL_5_1_0
+  0
+3DFACE
+  8
+0FGROUNDFLOORWEST_OPENOFFICE
+ 62
+ 43
+ 10
+       14.87144
+ 20
+       53.92389
+ 30
+        3.00000
+ 11
+       14.87144
+ 21
+       53.92389
+ 31
+        0.00000
+ 12
+        4.38144
+ 22
+       53.92389
+ 32
+        0.00000
+ 13
+        4.38144
+ 23
+       53.92389
+ 33
+        3.00000
+999
+0FGROUNDFLOORWEST:OPENOFFICE:0FGROUNDFLOORWEST:OPENOFFICE_WALL_5_1_0_0_0_1_WIN
+  0
+3DFACE
+  8
+0FGROUNDFLOORWEST_OPENOFFICE
+ 62
+143
+ 10
+        8.53994
+ 20
+       53.92389
+ 30
+        2.26000
+ 11
+        8.53994
+ 21
+       53.92389
+ 31
+        0.84000
+ 12
+        5.47294
+ 22
+       53.92389
+ 32
+        0.84000
+ 13
+        5.47294
+ 23
+       53.92389
+ 33
+        2.26000
+999
+0FGROUNDFLOORWEST:OPENOFFICE:0FGROUNDFLOORWEST:OPENOFFICE_GROUNDFLOOR_0_0_0
+  0
+3DFACE
+  8
+0FGROUNDFLOORWEST_OPENOFFICE
+ 62
+  8
+ 10
+        4.38144
+ 20
+       33.93264
+ 30
+        0.00000
+ 11
+        4.38144
+ 21
+       53.92389
+ 31
+        0.00000
+ 12
+       16.37144
+ 22
+       53.92389
+ 32
+        0.00000
+ 13
+       16.37144
+ 23
+       33.93264
+ 33
+        0.00000
+999
+0FGROUNDFLOORWEST:OPENOFFICE:0FGROUNDFLOORWEST:OPENOFFICE_CEILING_1_0_10005
+  0
+3DFACE
+  8
+0FGROUNDFLOORWEST_OPENOFFICE
+ 62
+ 15
+ 10
+        4.38144
+ 20
+       53.92416
+ 30
+        3.00000
+ 11
+        4.38144
+ 21
+       33.94264
+ 31
+        3.00000
+ 12
+       16.37144
+ 22
+       33.94264
+ 32
+        3.00000
+ 13
+       16.37144
+ 23
+       53.92416
+ 33
+        3.00000
+999
+0FGROUNDFLOOREAST:OPENOFFICE:0FGROUNDFLOOREAST:OPENOFFICE_PARTITION_2_0_0
+  0
+3DFACE
+  8
+0FGROUNDFLOOREAST_OPENOFFICE
+ 62
+ 43
+ 10
+       19.37144
+ 20
+       53.92389
+ 30
+        3.00000
+ 11
+       19.37144
+ 21
+       53.92389
+ 31
+        0.00000
+ 12
+       19.37144
+ 22
+       50.93264
+ 32
+        0.00000
+ 13
+       19.37144
+ 23
+       50.93264
+ 33
+        3.00000
+999
+0FGROUNDFLOOREAST:OPENOFFICE:0FGROUNDFLOOREAST:OPENOFFICE_PARTITION_2_1_0
+  0
+3DFACE
+  8
+0FGROUNDFLOOREAST_OPENOFFICE
+ 62
+ 43
+ 10
+       19.37144
+ 20
+       50.93264
+ 30
+        3.00000
+ 11
+       19.37144
+ 21
+       50.93264
+ 31
+        0.00000
+ 12
+       19.37144
+ 22
+       33.93264
+ 32
+        0.00000
+ 13
+       19.37144
+ 23
+       33.93264
+ 33
+        3.00000
+999
+0FGROUNDFLOOREAST:OPENOFFICE:0FGROUNDFLOOREAST:OPENOFFICE_PARTITION_2_1_0_2_0_0_DOOR
+  0
+3DFACE
+  8
+0FGROUNDFLOOREAST_OPENOFFICE
+ 62
+ 45
+ 10
+       19.37144
+ 20
+       42.93064
+ 30
+        1.99811
+ 11
+       19.37144
+ 21
+       42.93064
+ 31
+        0.00211
+ 12
+       19.37144
+ 22
+       41.93464
+ 32
+        0.00211
+ 13
+       19.37144
+ 23
+       41.93464
+ 33
+        1.99811
+999
+0FGROUNDFLOOREAST:OPENOFFICE:0FGROUNDFLOOREAST:OPENOFFICE_PARTITION_2_1_0_0_0_2_WIN
+  0
+3DFACE
+  8
+0FGROUNDFLOOREAST_OPENOFFICE
+ 62
+143
+ 10
+       19.37144
+ 20
+       50.39264
+ 30
+        2.46011
+ 11
+       19.37144
+ 21
+       50.39264
+ 31
+        0.54011
+ 12
+       19.37144
+ 22
+       43.47264
+ 32
+        0.54011
+ 13
+       19.37144
+ 23
+       43.47264
+ 33
+        2.46011
+999
+0FGROUNDFLOOREAST:OPENOFFICE:0FGROUNDFLOOREAST:OPENOFFICE_PARTITION_3_0_0
+  0
+3DFACE
+  8
+0FGROUNDFLOOREAST_OPENOFFICE
+ 62
+ 43
+ 10
+       19.37144
+ 20
+       33.93264
+ 30
+        3.00000
+ 11
+       19.37144
+ 21
+       33.93264
+ 31
+        0.00000
+ 12
+       31.36144
+ 22
+       33.93264
+ 32
+        0.00000
+ 13
+       31.36144
+ 23
+       33.93264
+ 33
+        3.00000
+999
+0FGROUNDFLOOREAST:OPENOFFICE:0FGROUNDFLOOREAST:OPENOFFICE_WALL_4_0_0
+  0
+3DFACE
+  8
+0FGROUNDFLOOREAST_OPENOFFICE
+ 62
+ 43
+ 10
+       31.36144
+ 20
+       33.93264
+ 30
+        3.00000
+ 11
+       31.36144
+ 21
+       33.93264
+ 31
+        0.00000
+ 12
+       31.36144
+ 22
+       53.92389
+ 32
+        0.00000
+ 13
+       31.36144
+ 23
+       53.92389
+ 33
+        3.00000
+999
+0FGROUNDFLOOREAST:OPENOFFICE:0FGROUNDFLOOREAST:OPENOFFICE_WALL_4_0_0_0_0_2_WIN
+  0
+3DFACE
+  8
+0FGROUNDFLOOREAST_OPENOFFICE
+ 62
+143
+ 10
+       31.36144
+ 20
+       48.62956
+ 30
+        2.26000
+ 11
+       31.36144
+ 21
+       48.62956
+ 31
+        0.84000
+ 12
+       31.36144
+ 22
+       52.54781
+ 32
+        0.84000
+ 13
+       31.36144
+ 23
+       52.54781
+ 33
+        2.26000
+999
+0FGROUNDFLOOREAST:OPENOFFICE:0FGROUNDFLOOREAST:OPENOFFICE_PARTITION_5_0_0
+  0
+3DFACE
+  8
+0FGROUNDFLOOREAST_OPENOFFICE
+ 62
+ 43
+ 10
+       20.87144
+ 20
+       53.92389
+ 30
+        3.00000
+ 11
+       20.87144
+ 21
+       53.92389
+ 31
+        0.00000
+ 12
+       19.37144
+ 22
+       53.92389
+ 32
+        0.00000
+ 13
+       19.37144
+ 23
+       53.92389
+ 33
+        3.00000
+999
+0FGROUNDFLOOREAST:OPENOFFICE:0FGROUNDFLOOREAST:OPENOFFICE_WALL_5_1_0
+  0
+3DFACE
+  8
+0FGROUNDFLOOREAST_OPENOFFICE
+ 62
+ 43
+ 10
+       31.36144
+ 20
+       53.92389
+ 30
+        3.00000
+ 11
+       31.36144
+ 21
+       53.92389
+ 31
+        0.00000
+ 12
+       20.87144
+ 22
+       53.92389
+ 32
+        0.00000
+ 13
+       20.87144
+ 23
+       53.92389
+ 33
+        3.00000
+999
+0FGROUNDFLOOREAST:OPENOFFICE:0FGROUNDFLOOREAST:OPENOFFICE_WALL_5_1_0_0_0_1_WIN
+  0
+3DFACE
+  8
+0FGROUNDFLOOREAST_OPENOFFICE
+ 62
+143
+ 10
+       25.02994
+ 20
+       53.92389
+ 30
+        2.26000
+ 11
+       25.02994
+ 21
+       53.92389
+ 31
+        0.84000
+ 12
+       21.96294
+ 22
+       53.92389
+ 32
+        0.84000
+ 13
+       21.96294
+ 23
+       53.92389
+ 33
+        2.26000
+999
+0FGROUNDFLOOREAST:OPENOFFICE:0FGROUNDFLOOREAST:OPENOFFICE_GROUNDFLOOR_0_0_0
+  0
+3DFACE
+  8
+0FGROUNDFLOOREAST_OPENOFFICE
+ 62
+  8
+ 10
+       19.37144
+ 20
+       33.93264
+ 30
+        0.00000
+ 11
+       19.37144
+ 21
+       53.92389
+ 31
+        0.00000
+ 12
+       31.36144
+ 22
+       53.92389
+ 32
+        0.00000
+ 13
+       31.36144
+ 23
+       33.93264
+ 33
+        0.00000
+999
+0FGROUNDFLOOREAST:OPENOFFICE:0FGROUNDFLOOREAST:OPENOFFICE_CEILING_1_0_10000
+  0
+3DFACE
+  8
+0FGROUNDFLOOREAST_OPENOFFICE
+ 62
+ 15
+ 10
+       19.37144
+ 20
+       53.92416
+ 30
+        3.00000
+ 11
+       19.37144
+ 21
+       33.94264
+ 31
+        3.00000
+ 12
+       31.36144
+ 22
+       33.94264
+ 32
+        3.00000
+ 13
+       31.36144
+ 23
+       53.92416
+ 33
+        3.00000
+999
+CORECIRCULATION:CIRCULATION:CORECIRCULATION:CIRCULATION_PARTITION_4_0_10003
+  0
+3DFACE
+  8
+CORECIRCULATION_CIRCULATION
+ 62
+ 43
+ 10
+       19.37144
+ 20
+       33.94264
+ 30
+        8.00000
+ 11
+       19.37144
+ 21
+       33.94264
+ 31
+        3.00000
+ 12
+       19.37144
+ 22
+       50.93264
+ 32
+        3.00000
+ 13
+       19.37144
+ 23
+       50.93264
+ 33
+        8.00000
+999
+CORECIRCULATION:CIRCULATION:CORECIRCULATION:CIRCULATION_PARTITION_4_0_0_0_0_0_WIN_10005
+  0
+3DFACE
+  8
+CORECIRCULATION_CIRCULATION
+ 62
+143
+ 10
+       19.37144
+ 20
+       34.48275
+ 30
+        7.46011
+ 11
+       19.37144
+ 21
+       34.48275
+ 31
+        3.54011
+ 12
+       19.37144
+ 22
+       50.40275
+ 32
+        3.54011
+ 13
+       19.37144
+ 23
+       50.40275
+ 33
+        7.46011
+999
+CORECIRCULATION:CIRCULATION:CORECIRCULATION:CIRCULATION_PARTITION_2_0_10008
+  0
+3DFACE
+  8
+CORECIRCULATION_CIRCULATION
+ 62
+ 43
+ 10
+       16.37144
+ 20
+       50.93264
+ 30
+        8.00000
+ 11
+       16.37144
+ 21
+       50.93264
+ 31
+        3.00000
+ 12
+       16.37144
+ 22
+       33.94264
+ 32
+        3.00000
+ 13
+       16.37144
+ 23
+       33.94264
+ 33
+        8.00000
+999
+CORECIRCULATION:CIRCULATION:CORECIRCULATION:CIRCULATION_PARTITION_2_0_0_0_0_0_WIN_10010
+  0
+3DFACE
+  8
+CORECIRCULATION_CIRCULATION
+ 62
+143
+ 10
+       16.37144
+ 20
+       50.40275
+ 30
+        7.46011
+ 11
+       16.37144
+ 21
+       50.40275
+ 31
+        3.54011
+ 12
+       16.37144
+ 22
+       34.48275
+ 32
+        3.54011
+ 13
+       16.37144
+ 23
+       34.48275
+ 33
+        7.46011
+999
+CORECIRCULATION:CIRCULATION:CORECIRCULATION:CIRCULATION_PARTITION_2_0_10012
+  0
+3DFACE
+  8
+CORECIRCULATION_CIRCULATION
+ 62
+ 43
+ 10
+       16.37144
+ 20
+       50.93264
+ 30
+        3.00000
+ 11
+       16.37144
+ 21
+       50.93264
+ 31
+        0.00000
+ 12
+       16.37144
+ 22
+       33.93264
+ 32
+        0.00000
+ 13
+       16.37144
+ 23
+       33.93264
+ 33
+        3.00000
+999
+CORECIRCULATION:CIRCULATION:CORECIRCULATION:CIRCULATION_PARTITION_2_0_0_1_0_1_DOOR_10014
+  0
+3DFACE
+  8
+CORECIRCULATION_CIRCULATION
+ 62
+ 45
+ 10
+       16.37144
+ 20
+       42.93264
+ 30
+        2.05111
+ 11
+       16.37144
+ 21
+       42.93264
+ 31
+        0.05111
+ 12
+       16.37144
+ 22
+       41.93264
+ 32
+        0.05111
+ 13
+       16.37144
+ 23
+       41.93264
+ 33
+        2.05111
+999
+CORECIRCULATION:CIRCULATION:CORECIRCULATION:CIRCULATION_PARTITION_2_0_0_3_0_3_WIN_10015
+  0
+3DFACE
+  8
+CORECIRCULATION_CIRCULATION
+ 62
+143
+ 10
+       16.37144
+ 20
+       50.39264
+ 30
+        2.46011
+ 11
+       16.37144
+ 21
+       50.39264
+ 31
+        0.54011
+ 12
+       16.37144
+ 22
+       43.47264
+ 32
+        0.54011
+ 13
+       16.37144
+ 23
+       43.47264
+ 33
+        2.46011
+999
+CORECIRCULATION:CIRCULATION:CORECIRCULATION:CIRCULATION_PARTITION_4_0_10017
+  0
+3DFACE
+  8
+CORECIRCULATION_CIRCULATION
+ 62
+ 43
+ 10
+       19.37144
+ 20
+       33.93264
+ 30
+        3.00000
+ 11
+       19.37144
+ 21
+       33.93264
+ 31
+        0.00000
+ 12
+       19.37144
+ 22
+       50.93264
+ 32
+        0.00000
+ 13
+       19.37144
+ 23
+       50.93264
+ 33
+        3.00000
+999
+CORECIRCULATION:CIRCULATION:CORECIRCULATION:CIRCULATION_PARTITION_4_0_0_1_0_1_DOOR_10019
+  0
+3DFACE
+  8
+CORECIRCULATION_CIRCULATION
+ 62
+ 45
+ 10
+       19.37144
+ 20
+       41.93464
+ 30
+        1.99811
+ 11
+       19.37144
+ 21
+       41.93464
+ 31
+        0.00211
+ 12
+       19.37144
+ 22
+       42.93064
+ 32
+        0.00211
+ 13
+       19.37144
+ 23
+       42.93064
+ 33
+        1.99811
+999
+CORECIRCULATION:CIRCULATION:CORECIRCULATION:CIRCULATION_PARTITION_4_0_0_3_0_3_WIN_10020
+  0
+3DFACE
+  8
+CORECIRCULATION_CIRCULATION
+ 62
+143
+ 10
+       19.37144
+ 20
+       43.47264
+ 30
+        2.46011
+ 11
+       19.37144
+ 21
+       43.47264
+ 31
+        0.54011
+ 12
+       19.37144
+ 22
+       50.39264
+ 32
+        0.54011
+ 13
+       19.37144
+ 23
+       50.39264
+ 33
+        2.46011
+999
+CORECIRCULATION:CIRCULATION:CORECIRCULATION:CIRCULATION_PARTITION_3_0_0
+  0
+3DFACE
+  8
+CORECIRCULATION_CIRCULATION
+ 62
+ 43
+ 10
+       16.37144
+ 20
+       33.93889
+ 30
+        3.00000
+ 11
+       16.37144
+ 21
+       33.93889
+ 31
+        0.00000
+ 12
+       19.37144
+ 22
+       33.93889
+ 32
+        0.00000
+ 13
+       19.37144
+ 23
+       33.93889
+ 33
+        3.00000
+999
+CORECIRCULATION:CIRCULATION:CORECIRCULATION:CIRCULATION_PARTITION_3_0_0_0_0_0_DOOR
+  0
+3DFACE
+  8
+CORECIRCULATION_CIRCULATION
+ 62
+ 45
+ 10
+       16.47844
+ 20
+       33.93889
+ 30
+        1.99800
+ 11
+       16.47844
+ 21
+       33.93889
+ 31
+        0.00200
+ 12
+       17.57444
+ 22
+       33.93889
+ 32
+        0.00200
+ 13
+       17.57444
+ 23
+       33.93889
+ 33
+        1.99800
+999
+CORECIRCULATION:CIRCULATION:CORECIRCULATION:CIRCULATION_WALL_3_1_0
+  0
+3DFACE
+  8
+CORECIRCULATION_CIRCULATION
+ 62
+ 43
+ 10
+       16.37144
+ 20
+       33.93889
+ 30
+        8.00000
+ 11
+       16.37144
+ 21
+       33.93889
+ 31
+        3.00000
+ 12
+       19.37144
+ 22
+       33.93889
+ 32
+        3.00000
+ 13
+       19.37144
+ 23
+       33.93889
+ 33
+        8.00000
+999
+CORECIRCULATION:CIRCULATION:CORECIRCULATION:CIRCULATION_WALL_3_1_0_0_0_1_WIN
+  0
+3DFACE
+  8
+CORECIRCULATION_CIRCULATION
+ 62
+143
+ 10
+       16.37444
+ 20
+       33.93889
+ 30
+        7.99700
+ 11
+       16.37444
+ 21
+       33.93889
+ 31
+        3.00300
+ 12
+       19.36844
+ 22
+       33.93889
+ 32
+        3.00300
+ 13
+       19.36844
+ 23
+       33.93889
+ 33
+        7.99700
+999
+CORECIRCULATION:CIRCULATION:CORECIRCULATION:CIRCULATION_PARTITION_5_0_0
+  0
+3DFACE
+  8
+CORECIRCULATION_CIRCULATION
+ 62
+ 43
+ 10
+       19.37144
+ 20
+       50.93264
+ 30
+        8.00000
+ 11
+       19.37144
+ 21
+       50.93264
+ 31
+        0.00000
+ 12
+       16.37144
+ 22
+       50.93264
+ 32
+        0.00000
+ 13
+       16.37144
+ 23
+       50.93264
+ 33
+        8.00000
+999
+CORECIRCULATION:CIRCULATION:CORECIRCULATION:CIRCULATION_PARTITION_5_0_0_0_0_0_DOOR
+  0
+3DFACE
+  8
+CORECIRCULATION_CIRCULATION
+ 62
+ 45
+ 10
+       19.26444
+ 20
+       50.93264
+ 30
+        1.99800
+ 11
+       19.26444
+ 21
+       50.93264
+ 31
+        0.00200
+ 12
+       18.16844
+ 22
+       50.93264
+ 32
+        0.00200
+ 13
+       18.16844
+ 23
+       50.93264
+ 33
+        1.99800
+999
+CORECIRCULATION:CIRCULATION:ROOFLIGHT:COREROOFLIGHT_WALL_0_0_0
+  0
+3DFACE
+  8
+CORECIRCULATION_CIRCULATION
+ 62
+ 43
+ 10
+       16.45955
+ 20
+       33.94264
+ 30
+        8.49236
+ 11
+       16.38157
+ 21
+       33.94264
+ 31
+        8.00000
+ 12
+       19.36131
+ 22
+       33.94264
+ 32
+        8.00000
+ 13
+       19.36131
+ 23
+       33.94264
+ 33
+        8.00000
+  0
+3DFACE
+  8
+CORECIRCULATION_CIRCULATION
+ 62
+ 43
+ 10
+       19.36131
+ 20
+       33.94264
+ 30
+        8.00000
+ 11
+       19.28333
+ 21
+       33.94264
+ 31
+        8.49236
+ 12
+       19.08496
+ 22
+       33.94264
+ 32
+        8.88167
+ 13
+       19.08496
+ 23
+       33.94264
+ 33
+        8.88167
+  0
+3DFACE
+  8
+CORECIRCULATION_CIRCULATION
+ 62
+ 43
+ 10
+       19.36131
+ 20
+       33.94264
+ 30
+        8.00000
+ 11
+       19.08496
+ 21
+       33.94264
+ 31
+        8.88167
+ 12
+       18.75311
+ 22
+       33.94264
+ 32
+        9.21352
+ 13
+       18.75311
+ 23
+       33.94264
+ 33
+        9.21352
+  0
+3DFACE
+  8
+CORECIRCULATION_CIRCULATION
+ 62
+ 43
+ 10
+       19.36131
+ 20
+       33.94264
+ 30
+        8.00000
+ 11
+       18.75311
+ 21
+       33.94264
+ 31
+        9.21352
+ 12
+       18.33496
+ 22
+       33.94264
+ 32
+        9.42658
+ 13
+       18.33496
+ 23
+       33.94264
+ 33
+        9.42658
+  0
+3DFACE
+  8
+CORECIRCULATION_CIRCULATION
+ 62
+ 43
+ 10
+       19.36131
+ 20
+       33.94264
+ 30
+        8.00000
+ 11
+       18.33496
+ 21
+       33.94264
+ 31
+        9.42658
+ 12
+       17.87144
+ 22
+       33.94264
+ 32
+        9.49999
+ 13
+       17.87144
+ 23
+       33.94264
+ 33
+        9.49999
+  0
+3DFACE
+  8
+CORECIRCULATION_CIRCULATION
+ 62
+ 43
+ 10
+       19.36131
+ 20
+       33.94264
+ 30
+        8.00000
+ 11
+       17.87144
+ 21
+       33.94264
+ 31
+        9.49999
+ 12
+       17.40792
+ 22
+       33.94264
+ 32
+        9.42658
+ 13
+       17.40792
+ 23
+       33.94264
+ 33
+        9.42658
+  0
+3DFACE
+  8
+CORECIRCULATION_CIRCULATION
+ 62
+ 43
+ 10
+       19.36131
+ 20
+       33.94264
+ 30
+        8.00000
+ 11
+       17.40792
+ 21
+       33.94264
+ 31
+        9.42658
+ 12
+       16.98976
+ 22
+       33.94264
+ 32
+        9.21352
+ 13
+       16.98976
+ 23
+       33.94264
+ 33
+        9.21352
+  0
+3DFACE
+  8
+CORECIRCULATION_CIRCULATION
+ 62
+ 43
+ 10
+       19.36131
+ 20
+       33.94264
+ 30
+        8.00000
+ 11
+       16.98976
+ 21
+       33.94264
+ 31
+        9.21352
+ 12
+       16.65792
+ 22
+       33.94264
+ 32
+        8.88167
+ 13
+       16.65792
+ 23
+       33.94264
+ 33
+        8.88167
+  0
+3DFACE
+  8
+CORECIRCULATION_CIRCULATION
+ 62
+ 43
+ 10
+       16.45955
+ 20
+       33.94264
+ 30
+        8.49236
+ 11
+       19.36131
+ 21
+       33.94264
+ 31
+        8.00000
+ 12
+       16.65792
+ 22
+       33.94264
+ 32
+        8.88167
+ 13
+       16.65792
+ 23
+       33.94264
+ 33
+        8.88167
+999
+CORECIRCULATION:CIRCULATION:ROOFLIGHT:COREROOFLIGHT_WALL_0_0_0_0_0_0_WIN
+  0
+3DFACE
+  8
+CORECIRCULATION_CIRCULATION
+ 62
+143
+ 10
+       17.87431
+ 20
+       33.94264
+ 30
+        9.49650
+ 11
+       19.35079
+ 21
+       33.94264
+ 31
+        8.01164
+ 12
+       18.33377
+ 22
+       33.94264
+ 32
+        9.42373
+ 13
+       18.33377
+ 23
+       33.94264
+ 33
+        9.42373
+999
+CORECIRCULATION:CIRCULATION:ROOFLIGHT:COREROOFLIGHT_WALL_0_0_0_1_0_0_WIN
+  0
+3DFACE
+  8
+CORECIRCULATION_CIRCULATION
+ 62
+143
+ 10
+       18.33756
+ 20
+       33.94264
+ 30
+        9.42189
+ 11
+       19.35245
+ 21
+       33.94264
+ 31
+        8.01276
+ 12
+       18.75118
+ 22
+       33.94264
+ 32
+        9.21114
+ 13
+       18.75118
+ 23
+       33.94264
+ 33
+        9.21114
+999
+CORECIRCULATION:CIRCULATION:ROOFLIGHT:COREROOFLIGHT_WALL_0_0_0_2_0_0_WIN
+  0
+3DFACE
+  8
+CORECIRCULATION_CIRCULATION
+ 62
+143
+ 10
+       18.75811
+ 20
+       33.94264
+ 30
+        9.20177
+ 11
+       19.35697
+ 21
+       33.94264
+ 31
+        8.00821
+ 12
+       19.28045
+ 22
+       33.94264
+ 32
+        8.49133
+ 13
+       19.28045
+ 23
+       33.94264
+ 33
+        8.49133
+999
+CORECIRCULATION:CIRCULATION:ROOFLIGHT:COREROOFLIGHT_WALL_0_0_0_6_0_0_WIN
+  0
+3DFACE
+  8
+CORECIRCULATION_CIRCULATION
+ 62
+143
+ 10
+       17.87144
+ 20
+       33.94264
+ 30
+        9.49655
+ 11
+       16.38632
+ 21
+       33.94264
+ 31
+        8.00300
+ 12
+       19.35656
+ 22
+       33.94264
+ 32
+        8.00300
+ 13
+       19.35656
+ 23
+       33.94264
+ 33
+        8.00300
+999
+CORECIRCULATION:CIRCULATION:ROOFLIGHT:COREROOFLIGHT_WALL_5_0_0
+  0
+3DFACE
+  8
+CORECIRCULATION_CIRCULATION
+ 62
+ 43
+ 10
+       19.28814
+ 20
+       33.94264
+ 30
+        8.46196
+ 11
+       19.36131
+ 21
+       33.94264
+ 31
+        8.00000
+ 12
+       19.36131
+ 22
+       50.92264
+ 32
+        8.00000
+ 13
+       19.28814
+ 23
+       50.92264
+ 33
+        8.46196
+999
+CORECIRCULATION:CIRCULATION:ROOFLIGHT:COREROOFLIGHT_WALL_5_0_0_0_0_0_WIN
+  0
+3DFACE
+  8
+CORECIRCULATION_CIRCULATION
+ 62
+143
+ 10
+       19.28861
+ 20
+       33.94564
+ 30
+        8.45900
+ 11
+       19.36084
+ 21
+       33.94564
+ 31
+        8.00296
+ 12
+       19.36084
+ 22
+       50.91964
+ 32
+        8.00296
+ 13
+       19.28861
+ 23
+       50.91964
+ 33
+        8.45900
+999
+CORECIRCULATION:CIRCULATION:ROOFLIGHT:COREROOFLIGHT_WALL_5_0_1
+  0
+3DFACE
+  8
+CORECIRCULATION_CIRCULATION
+ 62
+ 43
+ 10
+       19.28333
+ 20
+       33.94264
+ 30
+        8.49236
+ 11
+       19.28814
+ 21
+       33.94264
+ 31
+        8.46196
+ 12
+       19.28814
+ 22
+       50.92264
+ 32
+        8.46196
+ 13
+       19.28333
+ 23
+       50.92264
+ 33
+        8.49236
+999
+CORECIRCULATION:CIRCULATION:ROOFLIGHT:COREROOFLIGHT_WALL_7_0_0
+  0
+3DFACE
+  8
+CORECIRCULATION_CIRCULATION
+ 62
+ 43
+ 10
+       16.45474
+ 20
+       50.92264
+ 30
+        8.46196
+ 11
+       16.38157
+ 21
+       50.92264
+ 31
+        8.00000
+ 12
+       16.38157
+ 22
+       33.94264
+ 32
+        8.00000
+ 13
+       16.45474
+ 23
+       33.94264
+ 33
+        8.46196
+999
+CORECIRCULATION:CIRCULATION:ROOFLIGHT:COREROOFLIGHT_WALL_7_0_0_0_0_0_WIN
+  0
+3DFACE
+  8
+CORECIRCULATION_CIRCULATION
+ 62
+143
+ 10
+       16.45427
+ 20
+       50.91964
+ 30
+        8.45900
+ 11
+       16.38204
+ 21
+       50.91964
+ 31
+        8.00296
+ 12
+       16.38204
+ 22
+       33.94564
+ 32
+        8.00296
+ 13
+       16.45427
+ 23
+       33.94564
+ 33
+        8.45900
+999
+CORECIRCULATION:CIRCULATION:ROOFLIGHT:COREROOFLIGHT_WALL_7_0_1
+  0
+3DFACE
+  8
+CORECIRCULATION_CIRCULATION
+ 62
+ 43
+ 10
+       16.45955
+ 20
+       50.92264
+ 30
+        8.49236
+ 11
+       16.45474
+ 21
+       50.92264
+ 31
+        8.46196
+ 12
+       16.45474
+ 22
+       33.94264
+ 32
+        8.46196
+ 13
+       16.45955
+ 23
+       33.94264
+ 33
+        8.49236
+999
+CORECIRCULATION:CIRCULATION:ROOFLIGHT:COREROOFLIGHT_PARTITION_12_0_0
+  0
+3DFACE
+  8
+CORECIRCULATION_CIRCULATION
+ 62
+ 43
+ 10
+       19.28333
+ 20
+       50.92264
+ 30
+        8.49236
+ 11
+       19.36131
+ 21
+       50.92264
+ 31
+        8.00000
+ 12
+       16.38157
+ 22
+       50.92264
+ 32
+        8.00000
+ 13
+       16.38157
+ 23
+       50.92264
+ 33
+        8.00000
+  0
+3DFACE
+  8
+CORECIRCULATION_CIRCULATION
+ 62
+ 43
+ 10
+       16.38157
+ 20
+       50.92264
+ 30
+        8.00000
+ 11
+       16.45955
+ 21
+       50.92264
+ 31
+        8.49236
+ 12
+       16.65792
+ 22
+       50.92264
+ 32
+        8.88167
+ 13
+       16.65792
+ 23
+       50.92264
+ 33
+        8.88167
+  0
+3DFACE
+  8
+CORECIRCULATION_CIRCULATION
+ 62
+ 43
+ 10
+       16.38157
+ 20
+       50.92264
+ 30
+        8.00000
+ 11
+       16.65792
+ 21
+       50.92264
+ 31
+        8.88167
+ 12
+       16.98976
+ 22
+       50.92264
+ 32
+        9.21352
+ 13
+       16.98976
+ 23
+       50.92264
+ 33
+        9.21352
+  0
+3DFACE
+  8
+CORECIRCULATION_CIRCULATION
+ 62
+ 43
+ 10
+       16.38157
+ 20
+       50.92264
+ 30
+        8.00000
+ 11
+       16.98976
+ 21
+       50.92264
+ 31
+        9.21352
+ 12
+       17.40792
+ 22
+       50.92264
+ 32
+        9.42658
+ 13
+       17.40792
+ 23
+       50.92264
+ 33
+        9.42658
+  0
+3DFACE
+  8
+CORECIRCULATION_CIRCULATION
+ 62
+ 43
+ 10
+       16.38157
+ 20
+       50.92264
+ 30
+        8.00000
+ 11
+       17.40792
+ 21
+       50.92264
+ 31
+        9.42658
+ 12
+       17.87144
+ 22
+       50.92264
+ 32
+        9.49999
+ 13
+       17.87144
+ 23
+       50.92264
+ 33
+        9.49999
+  0
+3DFACE
+  8
+CORECIRCULATION_CIRCULATION
+ 62
+ 43
+ 10
+       16.38157
+ 20
+       50.92264
+ 30
+        8.00000
+ 11
+       17.87144
+ 21
+       50.92264
+ 31
+        9.49999
+ 12
+       18.33496
+ 22
+       50.92264
+ 32
+        9.42658
+ 13
+       18.33496
+ 23
+       50.92264
+ 33
+        9.42658
+  0
+3DFACE
+  8
+CORECIRCULATION_CIRCULATION
+ 62
+ 43
+ 10
+       16.38157
+ 20
+       50.92264
+ 30
+        8.00000
+ 11
+       18.33496
+ 21
+       50.92264
+ 31
+        9.42658
+ 12
+       18.75311
+ 22
+       50.92264
+ 32
+        9.21352
+ 13
+       18.75311
+ 23
+       50.92264
+ 33
+        9.21352
+  0
+3DFACE
+  8
+CORECIRCULATION_CIRCULATION
+ 62
+ 43
+ 10
+       16.38157
+ 20
+       50.92264
+ 30
+        8.00000
+ 11
+       18.75311
+ 21
+       50.92264
+ 31
+        9.21352
+ 12
+       19.08496
+ 22
+       50.92264
+ 32
+        8.88167
+ 13
+       19.08496
+ 23
+       50.92264
+ 33
+        8.88167
+  0
+3DFACE
+  8
+CORECIRCULATION_CIRCULATION
+ 62
+ 43
+ 10
+       19.28333
+ 20
+       50.92264
+ 30
+        8.49236
+ 11
+       16.38157
+ 21
+       50.92264
+ 31
+        8.00000
+ 12
+       19.08496
+ 22
+       50.92264
+ 32
+        8.88167
+ 13
+       19.08496
+ 23
+       50.92264
+ 33
+        8.88167
+999
+CORECIRCULATION:CIRCULATION:ROOFLIGHT:COREROOFLIGHT_PARTITION_12_0_0_0_0_0_WIN
+  0
+3DFACE
+  8
+CORECIRCULATION_CIRCULATION
+ 62
+143
+ 10
+       17.86857
+ 20
+       50.92264
+ 30
+        9.49650
+ 11
+       16.39209
+ 21
+       50.92264
+ 31
+        8.01164
+ 12
+       17.40911
+ 22
+       50.92264
+ 32
+        9.42373
+ 13
+       17.40911
+ 23
+       50.92264
+ 33
+        9.42373
+999
+CORECIRCULATION:CIRCULATION:ROOFLIGHT:COREROOFLIGHT_PARTITION_12_0_0_1_0_0_WIN
+  0
+3DFACE
+  8
+CORECIRCULATION_CIRCULATION
+ 62
+143
+ 10
+       17.40532
+ 20
+       50.92264
+ 30
+        9.42189
+ 11
+       16.39043
+ 21
+       50.92264
+ 31
+        8.01276
+ 12
+       16.99170
+ 22
+       50.92264
+ 32
+        9.21114
+ 13
+       16.99170
+ 23
+       50.92264
+ 33
+        9.21114
+999
+CORECIRCULATION:CIRCULATION:ROOFLIGHT:COREROOFLIGHT_PARTITION_12_0_0_2_0_0_WIN
+  0
+3DFACE
+  8
+CORECIRCULATION_CIRCULATION
+ 62
+143
+ 10
+       16.98477
+ 20
+       50.92264
+ 30
+        9.20177
+ 11
+       16.38591
+ 21
+       50.92264
+ 31
+        8.00821
+ 12
+       16.46243
+ 22
+       50.92264
+ 32
+        8.49133
+ 13
+       16.46243
+ 23
+       50.92264
+ 33
+        8.49133
+999
+CORECIRCULATION:CIRCULATION:ROOFLIGHT:COREROOFLIGHT_PARTITION_12_0_0_6_0_0_WIN
+  0
+3DFACE
+  8
+CORECIRCULATION_CIRCULATION
+ 62
+143
+ 10
+       17.87144
+ 20
+       50.92264
+ 30
+        9.49655
+ 11
+       19.35656
+ 21
+       50.92264
+ 31
+        8.00300
+ 12
+       16.38632
+ 22
+       50.92264
+ 32
+        8.00300
+ 13
+       16.38632
+ 23
+       50.92264
+ 33
+        8.00300
+999
+CORECIRCULATION:CIRCULATION:CORECIRCULATION:CIRCULATION_GROUNDFLOOR_0_0_0
+  0
+3DFACE
+  8
+CORECIRCULATION_CIRCULATION
+ 62
+  8
+ 10
+       16.37144
+ 20
+       33.93889
+ 30
+        0.00000
+ 11
+       16.37144
+ 21
+       50.93264
+ 31
+        0.00000
+ 12
+       19.37144
+ 22
+       50.93264
+ 32
+        0.00000
+ 13
+       19.37144
+ 23
+       33.93889
+ 33
+        0.00000
+999
+CORECIRCULATION:CIRCULATION:ROOFLIGHT:COREROOFLIGHT_ROOF_1_0_0
+  0
+3DFACE
+  8
+CORECIRCULATION_CIRCULATION
+ 62
+ 15
+ 10
+       18.33496
+ 20
+       33.94264
+ 30
+        9.42658
+ 11
+       18.75311
+ 21
+       33.94264
+ 31
+        9.21352
+ 12
+       18.75311
+ 22
+       50.92264
+ 32
+        9.21352
+ 13
+       18.33496
+ 23
+       50.92264
+ 33
+        9.42658
+999
+CORECIRCULATION:CIRCULATION:ROOFLIGHT:COREROOFLIGHT_ROOF_1_0_0_0_0_0_WIN
+  0
+3DFACE
+  8
+CORECIRCULATION_CIRCULATION
+ 62
+143
+ 10
+       18.33764
+ 20
+       33.94564
+ 30
+        9.42522
+ 11
+       18.75044
+ 21
+       33.94564
+ 31
+        9.21488
+ 12
+       18.75044
+ 22
+       50.91964
+ 32
+        9.21488
+ 13
+       18.33764
+ 23
+       50.91964
+ 33
+        9.42522
+999
+CORECIRCULATION:CIRCULATION:ROOFLIGHT:COREROOFLIGHT_ROOF_2_0_0
+  0
+3DFACE
+  8
+CORECIRCULATION_CIRCULATION
+ 62
+ 15
+ 10
+       17.87144
+ 20
+       33.94264
+ 30
+        9.49999
+ 11
+       18.33496
+ 21
+       33.94264
+ 31
+        9.42658
+ 12
+       18.33496
+ 22
+       50.92264
+ 32
+        9.42658
+ 13
+       17.87144
+ 23
+       50.92264
+ 33
+        9.49999
+999
+CORECIRCULATION:CIRCULATION:ROOFLIGHT:COREROOFLIGHT_ROOF_2_0_0_0_0_0_WIN
+  0
+3DFACE
+  8
+CORECIRCULATION_CIRCULATION
+ 62
+143
+ 10
+       17.87440
+ 20
+       33.94564
+ 30
+        9.49952
+ 11
+       18.33200
+ 21
+       33.94564
+ 31
+        9.42705
+ 12
+       18.33200
+ 22
+       50.91964
+ 32
+        9.42705
+ 13
+       17.87440
+ 23
+       50.91964
+ 33
+        9.49952
+999
+CORECIRCULATION:CIRCULATION:ROOFLIGHT:COREROOFLIGHT_ROOF_3_0_0
+  0
+3DFACE
+  8
+CORECIRCULATION_CIRCULATION
+ 62
+ 15
+ 10
+       18.75311
+ 20
+       33.94264
+ 30
+        9.21352
+ 11
+       19.08496
+ 21
+       33.94264
+ 31
+        8.88167
+ 12
+       19.08496
+ 22
+       50.92264
+ 32
+        8.88167
+ 13
+       18.75311
+ 23
+       50.92264
+ 33
+        9.21352
+999
+CORECIRCULATION:CIRCULATION:ROOFLIGHT:COREROOFLIGHT_ROOF_3_0_0_0_0_0_WIN
+  0
+3DFACE
+  8
+CORECIRCULATION_CIRCULATION
+ 62
+143
+ 10
+       18.75523
+ 20
+       33.94564
+ 30
+        9.21140
+ 11
+       19.08284
+ 21
+       33.94564
+ 31
+        8.88379
+ 12
+       19.08284
+ 22
+       50.91964
+ 32
+        8.88379
+ 13
+       18.75523
+ 23
+       50.91964
+ 33
+        9.21140
+999
+CORECIRCULATION:CIRCULATION:ROOFLIGHT:COREROOFLIGHT_ROOF_4_0_0
+  0
+3DFACE
+  8
+CORECIRCULATION_CIRCULATION
+ 62
+ 15
+ 10
+       19.08496
+ 20
+       33.94264
+ 30
+        8.88167
+ 11
+       19.28333
+ 21
+       33.94264
+ 31
+        8.49236
+ 12
+       19.28333
+ 22
+       50.92264
+ 32
+        8.49236
+ 13
+       19.08496
+ 23
+       50.92264
+ 33
+        8.88167
+999
+CORECIRCULATION:CIRCULATION:ROOFLIGHT:COREROOFLIGHT_ROOF_4_0_0_0_0_0_WIN
+  0
+3DFACE
+  8
+CORECIRCULATION_CIRCULATION
+ 62
+143
+ 10
+       19.08632
+ 20
+       33.94564
+ 30
+        8.87900
+ 11
+       19.28196
+ 21
+       33.94564
+ 31
+        8.49503
+ 12
+       19.28196
+ 22
+       50.91964
+ 32
+        8.49503
+ 13
+       19.08632
+ 23
+       50.91964
+ 33
+        8.87900
+999
+CORECIRCULATION:CIRCULATION:ROOFLIGHT:COREROOFLIGHT_ROOF_8_0_0
+  0
+3DFACE
+  8
+CORECIRCULATION_CIRCULATION
+ 62
+ 15
+ 10
+       16.65792
+ 20
+       50.92264
+ 30
+        8.88167
+ 11
+       16.45955
+ 21
+       50.92264
+ 31
+        8.49236
+ 12
+       16.45955
+ 22
+       33.94264
+ 32
+        8.49236
+ 13
+       16.65792
+ 23
+       33.94264
+ 33
+        8.88167
+999
+CORECIRCULATION:CIRCULATION:ROOFLIGHT:COREROOFLIGHT_ROOF_8_0_0_0_0_0_WIN
+  0
+3DFACE
+  8
+CORECIRCULATION_CIRCULATION
+ 62
+143
+ 10
+       16.65656
+ 20
+       50.91964
+ 30
+        8.87900
+ 11
+       16.46091
+ 21
+       50.91964
+ 31
+        8.49503
+ 12
+       16.46091
+ 22
+       33.94564
+ 32
+        8.49503
+ 13
+       16.65656
+ 23
+       33.94564
+ 33
+        8.87900
+999
+CORECIRCULATION:CIRCULATION:ROOFLIGHT:COREROOFLIGHT_ROOF_9_0_0
+  0
+3DFACE
+  8
+CORECIRCULATION_CIRCULATION
+ 62
+ 15
+ 10
+       16.98976
+ 20
+       50.92264
+ 30
+        9.21352
+ 11
+       16.65792
+ 21
+       50.92264
+ 31
+        8.88167
+ 12
+       16.65792
+ 22
+       33.94264
+ 32
+        8.88167
+ 13
+       16.98976
+ 23
+       33.94264
+ 33
+        9.21352
+999
+CORECIRCULATION:CIRCULATION:ROOFLIGHT:COREROOFLIGHT_ROOF_9_0_0_0_0_0_WIN
+  0
+3DFACE
+  8
+CORECIRCULATION_CIRCULATION
+ 62
+143
+ 10
+       16.98764
+ 20
+       50.91964
+ 30
+        9.21140
+ 11
+       16.66004
+ 21
+       50.91964
+ 31
+        8.88379
+ 12
+       16.66004
+ 22
+       33.94564
+ 32
+        8.88379
+ 13
+       16.98764
+ 23
+       33.94564
+ 33
+        9.21140
+999
+CORECIRCULATION:CIRCULATION:ROOFLIGHT:COREROOFLIGHT_ROOF_10_0_0
+  0
+3DFACE
+  8
+CORECIRCULATION_CIRCULATION
+ 62
+ 15
+ 10
+       17.40792
+ 20
+       50.92264
+ 30
+        9.42658
+ 11
+       16.98976
+ 21
+       50.92264
+ 31
+        9.21352
+ 12
+       16.98976
+ 22
+       33.94264
+ 32
+        9.21352
+ 13
+       17.40792
+ 23
+       33.94264
+ 33
+        9.42658
+999
+CORECIRCULATION:CIRCULATION:ROOFLIGHT:COREROOFLIGHT_ROOF_10_0_0_0_0_0_WIN
+  0
+3DFACE
+  8
+CORECIRCULATION_CIRCULATION
+ 62
+143
+ 10
+       17.40524
+ 20
+       50.91964
+ 30
+        9.42522
+ 11
+       16.99244
+ 21
+       50.91964
+ 31
+        9.21488
+ 12
+       16.99244
+ 22
+       33.94564
+ 32
+        9.21488
+ 13
+       17.40524
+ 23
+       33.94564
+ 33
+        9.42522
+999
+CORECIRCULATION:CIRCULATION:ROOFLIGHT:COREROOFLIGHT_ROOF_11_0_0
+  0
+3DFACE
+  8
+CORECIRCULATION_CIRCULATION
+ 62
+ 15
+ 10
+       17.87144
+ 20
+       50.92264
+ 30
+        9.49999
+ 11
+       17.40792
+ 21
+       50.92264
+ 31
+        9.42658
+ 12
+       17.40792
+ 22
+       33.94264
+ 32
+        9.42658
+ 13
+       17.87144
+ 23
+       33.94264
+ 33
+        9.49999
+999
+CORECIRCULATION:CIRCULATION:ROOFLIGHT:COREROOFLIGHT_ROOF_11_0_0_0_0_0_WIN
+  0
+3DFACE
+  8
+CORECIRCULATION_CIRCULATION
+ 62
+143
+ 10
+       17.86848
+ 20
+       50.91964
+ 30
+        9.49952
+ 11
+       17.41088
+ 21
+       50.91964
+ 31
+        9.42705
+ 12
+       17.41088
+ 22
+       33.94564
+ 32
+        9.42705
+ 13
+       17.86848
+ 23
+       33.94564
+ 33
+        9.49952
+999
+ATRIUMRECEPTION:RECEPTION:ATRIUMRECEPTION:RECEPTION_PARTITION_1_0_10001
+  0
+3DFACE
+  8
+ATRIUMRECEPTION_RECEPTION
+ 62
+ 43
+ 10
+       19.37144
+ 20
+       53.92416
+ 30
+        8.00000
+ 11
+       19.37144
+ 21
+       53.92416
+ 31
+        3.00000
+ 12
+       20.87144
+ 22
+       53.92416
+ 32
+        3.00000
+ 13
+       20.87144
+ 23
+       53.92416
+ 33
+        7.75000
+999
+ATRIUMRECEPTION:RECEPTION:ATRIUMRECEPTION:RECEPTION_PARTITION_2_0_10002
+  0
+3DFACE
+  8
+ATRIUMRECEPTION_RECEPTION
+ 62
+ 43
+ 10
+       19.37144
+ 20
+       50.93264
+ 30
+        8.00000
+ 11
+       19.37144
+ 21
+       50.93264
+ 31
+        3.00000
+ 12
+       19.37144
+ 22
+       53.92416
+ 32
+        3.00000
+ 13
+       19.37144
+ 23
+       53.92416
+ 33
+        8.00000
+999
+ATRIUMRECEPTION:RECEPTION:ATRIUMRECEPTION:RECEPTION_PARTITION_6_0_10006
+  0
+3DFACE
+  8
+ATRIUMRECEPTION_RECEPTION
+ 62
+ 43
+ 10
+       14.87144
+ 20
+       53.92416
+ 30
+        7.75000
+ 11
+       14.87144
+ 21
+       53.92416
+ 31
+        3.00000
+ 12
+       16.37144
+ 22
+       53.92416
+ 32
+        3.00000
+ 13
+       16.37144
+ 23
+       53.92416
+ 33
+        8.00000
+999
+ATRIUMRECEPTION:RECEPTION:ATRIUMRECEPTION:RECEPTION_PARTITION_7_0_10007
+  0
+3DFACE
+  8
+ATRIUMRECEPTION_RECEPTION
+ 62
+ 43
+ 10
+       16.37144
+ 20
+       53.92416
+ 30
+        8.00000
+ 11
+       16.37144
+ 21
+       53.92416
+ 31
+        3.00000
+ 12
+       16.37144
+ 22
+       50.93264
+ 32
+        3.00000
+ 13
+       16.37144
+ 23
+       50.93264
+ 33
+        8.00000
+999
+ATRIUMRECEPTION:RECEPTION:ATRIUMRECEPTION:RECEPTION_PARTITION_7_0_10011
+  0
+3DFACE
+  8
+ATRIUMRECEPTION_RECEPTION
+ 62
+ 43
+ 10
+       16.37144
+ 20
+       53.92389
+ 30
+        3.00000
+ 11
+       16.37144
+ 21
+       53.92389
+ 31
+        0.00000
+ 12
+       16.37144
+ 22
+       50.93264
+ 32
+        0.00000
+ 13
+       16.37144
+ 23
+       50.93264
+ 33
+        3.00000
+999
+ATRIUMRECEPTION:RECEPTION:ATRIUMRECEPTION:RECEPTION_PARTITION_6_0_10015
+  0
+3DFACE
+  8
+ATRIUMRECEPTION_RECEPTION
+ 62
+ 43
+ 10
+       14.87144
+ 20
+       53.92389
+ 30
+        3.00000
+ 11
+       14.87144
+ 21
+       53.92389
+ 31
+        0.00000
+ 12
+       16.37144
+ 22
+       53.92389
+ 32
+        0.00000
+ 13
+       16.37144
+ 23
+       53.92389
+ 33
+        3.00000
+999
+ATRIUMRECEPTION:RECEPTION:ATRIUMRECEPTION:RECEPTION_PARTITION_2_0_10016
+  0
+3DFACE
+  8
+ATRIUMRECEPTION_RECEPTION
+ 62
+ 43
+ 10
+       19.37144
+ 20
+       50.93264
+ 30
+        3.00000
+ 11
+       19.37144
+ 21
+       50.93264
+ 31
+        0.00000
+ 12
+       19.37144
+ 22
+       53.92389
+ 32
+        0.00000
+ 13
+       19.37144
+ 23
+       53.92389
+ 33
+        3.00000
+999
+ATRIUMRECEPTION:RECEPTION:ATRIUMRECEPTION:RECEPTION_PARTITION_1_0_10021
+  0
+3DFACE
+  8
+ATRIUMRECEPTION_RECEPTION
+ 62
+ 43
+ 10
+       19.37144
+ 20
+       53.92389
+ 30
+        3.00000
+ 11
+       19.37144
+ 21
+       53.92389
+ 31
+        0.00000
+ 12
+       20.87144
+ 22
+       53.92389
+ 32
+        0.00000
+ 13
+       20.87144
+ 23
+       53.92389
+ 33
+        3.00000
+999
+ATRIUMRECEPTION:RECEPTION:ATRIUMRECEPTION:RECEPTION_PARTITION_8_0_10024
+  0
+3DFACE
+  8
+ATRIUMRECEPTION_RECEPTION
+ 62
+ 43
+ 10
+       16.37144
+ 20
+       50.93264
+ 30
+        8.00000
+ 11
+       16.37144
+ 21
+       50.93264
+ 31
+        0.00000
+ 12
+       19.37144
+ 22
+       50.93264
+ 32
+        0.00000
+ 13
+       19.37144
+ 23
+       50.93264
+ 33
+        8.00000
+999
+ATRIUMRECEPTION:RECEPTION:ATRIUMRECEPTION:RECEPTION_PARTITION_8_0_0_0_0_0_DOOR_10026
+  0
+3DFACE
+  8
+ATRIUMRECEPTION_RECEPTION
+ 62
+ 45
+ 10
+       18.16844
+ 20
+       50.93264
+ 30
+        1.99800
+ 11
+       18.16844
+ 21
+       50.93264
+ 31
+        0.00200
+ 12
+       19.26444
+ 22
+       50.93264
+ 32
+        0.00200
+ 13
+       19.26444
+ 23
+       50.93264
+ 33
+        1.99800
+999
+ATRIUMRECEPTION:RECEPTION:ATRIUMRECEPTION:RECEPTION_PARTITION_12_0_10026
+  0
+3DFACE
+  8
+ATRIUMRECEPTION_RECEPTION
+ 62
+ 43
+ 10
+       16.45955
+ 20
+       50.92264
+ 30
+        8.49236
+ 11
+       16.38157
+ 21
+       50.92264
+ 31
+        8.00000
+ 12
+       19.36131
+ 22
+       50.92264
+ 32
+        8.00000
+ 13
+       19.36131
+ 23
+       50.92264
+ 33
+        8.00000
+  0
+3DFACE
+  8
+ATRIUMRECEPTION_RECEPTION
+ 62
+ 43
+ 10
+       19.36131
+ 20
+       50.92264
+ 30
+        8.00000
+ 11
+       19.28333
+ 21
+       50.92264
+ 31
+        8.49236
+ 12
+       19.08496
+ 22
+       50.92264
+ 32
+        8.88167
+ 13
+       19.08496
+ 23
+       50.92264
+ 33
+        8.88167
+  0
+3DFACE
+  8
+ATRIUMRECEPTION_RECEPTION
+ 62
+ 43
+ 10
+       19.36131
+ 20
+       50.92264
+ 30
+        8.00000
+ 11
+       19.08496
+ 21
+       50.92264
+ 31
+        8.88167
+ 12
+       18.75311
+ 22
+       50.92264
+ 32
+        9.21352
+ 13
+       18.75311
+ 23
+       50.92264
+ 33
+        9.21352
+  0
+3DFACE
+  8
+ATRIUMRECEPTION_RECEPTION
+ 62
+ 43
+ 10
+       19.36131
+ 20
+       50.92264
+ 30
+        8.00000
+ 11
+       18.75311
+ 21
+       50.92264
+ 31
+        9.21352
+ 12
+       18.33496
+ 22
+       50.92264
+ 32
+        9.42658
+ 13
+       18.33496
+ 23
+       50.92264
+ 33
+        9.42658
+  0
+3DFACE
+  8
+ATRIUMRECEPTION_RECEPTION
+ 62
+ 43
+ 10
+       19.36131
+ 20
+       50.92264
+ 30
+        8.00000
+ 11
+       18.33496
+ 21
+       50.92264
+ 31
+        9.42658
+ 12
+       17.87144
+ 22
+       50.92264
+ 32
+        9.49999
+ 13
+       17.87144
+ 23
+       50.92264
+ 33
+        9.49999
+  0
+3DFACE
+  8
+ATRIUMRECEPTION_RECEPTION
+ 62
+ 43
+ 10
+       19.36131
+ 20
+       50.92264
+ 30
+        8.00000
+ 11
+       17.87144
+ 21
+       50.92264
+ 31
+        9.49999
+ 12
+       17.40792
+ 22
+       50.92264
+ 32
+        9.42658
+ 13
+       17.40792
+ 23
+       50.92264
+ 33
+        9.42658
+  0
+3DFACE
+  8
+ATRIUMRECEPTION_RECEPTION
+ 62
+ 43
+ 10
+       19.36131
+ 20
+       50.92264
+ 30
+        8.00000
+ 11
+       17.40792
+ 21
+       50.92264
+ 31
+        9.42658
+ 12
+       16.98976
+ 22
+       50.92264
+ 32
+        9.21352
+ 13
+       16.98976
+ 23
+       50.92264
+ 33
+        9.21352
+  0
+3DFACE
+  8
+ATRIUMRECEPTION_RECEPTION
+ 62
+ 43
+ 10
+       19.36131
+ 20
+       50.92264
+ 30
+        8.00000
+ 11
+       16.98976
+ 21
+       50.92264
+ 31
+        9.21352
+ 12
+       16.65792
+ 22
+       50.92264
+ 32
+        8.88167
+ 13
+       16.65792
+ 23
+       50.92264
+ 33
+        8.88167
+  0
+3DFACE
+  8
+ATRIUMRECEPTION_RECEPTION
+ 62
+ 43
+ 10
+       16.45955
+ 20
+       50.92264
+ 30
+        8.49236
+ 11
+       19.36131
+ 21
+       50.92264
+ 31
+        8.00000
+ 12
+       16.65792
+ 22
+       50.92264
+ 32
+        8.88167
+ 13
+       16.65792
+ 23
+       50.92264
+ 33
+        8.88167
+999
+ATRIUMRECEPTION:RECEPTION:ATRIUMRECEPTION:RECEPTION_PARTITION_12_0_0_0_0_0_WIN_10028
+  0
+3DFACE
+  8
+ATRIUMRECEPTION_RECEPTION
+ 62
+143
+ 10
+       17.40911
+ 20
+       50.92264
+ 30
+        9.42373
+ 11
+       16.39209
+ 21
+       50.92264
+ 31
+        8.01164
+ 12
+       17.86857
+ 22
+       50.92264
+ 32
+        9.49650
+ 13
+       17.86857
+ 23
+       50.92264
+ 33
+        9.49650
+999
+ATRIUMRECEPTION:RECEPTION:ATRIUMRECEPTION:RECEPTION_PARTITION_12_0_0_0_0_0_WIN_10029
+  0
+3DFACE
+  8
+ATRIUMRECEPTION_RECEPTION
+ 62
+143
+ 10
+       16.99170
+ 20
+       50.92264
+ 30
+        9.21114
+ 11
+       16.39043
+ 21
+       50.92264
+ 31
+        8.01276
+ 12
+       17.40532
+ 22
+       50.92264
+ 32
+        9.42189
+ 13
+       17.40532
+ 23
+       50.92264
+ 33
+        9.42189
+999
+ATRIUMRECEPTION:RECEPTION:ATRIUMRECEPTION:RECEPTION_PARTITION_12_0_0_0_0_0_WIN_10030
+  0
+3DFACE
+  8
+ATRIUMRECEPTION_RECEPTION
+ 62
+143
+ 10
+       16.46243
+ 20
+       50.92264
+ 30
+        8.49133
+ 11
+       16.38591
+ 21
+       50.92264
+ 31
+        8.00821
+ 12
+       16.98477
+ 22
+       50.92264
+ 32
+        9.20177
+ 13
+       16.98477
+ 23
+       50.92264
+ 33
+        9.20177
+999
+ATRIUMRECEPTION:RECEPTION:ATRIUMRECEPTION:RECEPTION_PARTITION_12_0_0_0_0_0_WIN_10031
+  0
+3DFACE
+  8
+ATRIUMRECEPTION_RECEPTION
+ 62
+143
+ 10
+       17.87144
+ 20
+       50.92264
+ 30
+        9.49655
+ 11
+       16.38632
+ 21
+       50.92264
+ 31
+        8.00300
+ 12
+       19.35656
+ 22
+       50.92264
+ 32
+        8.00300
+ 13
+       19.35656
+ 23
+       50.92264
+ 33
+        8.00300
+999
+ATRIUMRECEPTION:RECEPTION:ATRIUMRECEPTION:RECEPTION_WALL_3_0_0
+  0
+3DFACE
+  8
+ATRIUMRECEPTION_RECEPTION
+ 62
+ 43
+ 10
+       20.86144
+ 20
+       53.93264
+ 30
+        7.75000
+ 11
+       20.86144
+ 21
+       53.93264
+ 31
+       -0.00000
+ 12
+       20.86144
+ 22
+       56.92264
+ 32
+       -0.00000
+ 13
+       20.86144
+ 23
+       56.92264
+ 33
+        7.75000
+999
+ATRIUMRECEPTION:RECEPTION:ATRIUMRECEPTION:RECEPTION_WALL_3_0_0_0_0_0_WIN
+  0
+3DFACE
+  8
+ATRIUMRECEPTION_RECEPTION
+ 62
+143
+ 10
+       20.86144
+ 20
+       53.93564
+ 30
+        7.74700
+ 11
+       20.86144
+ 21
+       53.93564
+ 31
+        0.00300
+ 12
+       20.86144
+ 22
+       56.91964
+ 32
+        0.00300
+ 13
+       20.86144
+ 23
+       56.91964
+ 33
+        7.74700
+999
+ATRIUMRECEPTION:RECEPTION:ATRIUMRECEPTION:RECEPTION_WALL_4_0_0
+  0
+3DFACE
+  8
+ATRIUMRECEPTION_RECEPTION
+ 62
+ 43
+ 10
+       20.86144
+ 20
+       56.92264
+ 30
+        7.75166
+ 11
+       20.86144
+ 21
+       56.92264
+ 31
+       -0.00000
+ 12
+       14.88144
+ 22
+       56.92264
+ 32
+       -0.00000
+ 13
+       14.88144
+ 23
+       56.92264
+ 33
+       -0.00000
+  0
+3DFACE
+  8
+ATRIUMRECEPTION_RECEPTION
+ 62
+ 43
+ 10
+       14.88144
+ 20
+       56.92264
+ 30
+       -0.00000
+ 11
+       14.88144
+ 21
+       56.92264
+ 31
+        7.75166
+ 12
+       16.37144
+ 22
+       56.92264
+ 32
+        8.00000
+ 13
+       16.37144
+ 23
+       56.92264
+ 33
+        8.00000
+  0
+3DFACE
+  8
+ATRIUMRECEPTION_RECEPTION
+ 62
+ 43
+ 10
+       14.88144
+ 20
+       56.92264
+ 30
+       -0.00000
+ 11
+       16.37144
+ 21
+       56.92264
+ 31
+        8.00000
+ 12
+       19.37144
+ 22
+       56.92264
+ 32
+        8.00000
+ 13
+       19.37144
+ 23
+       56.92264
+ 33
+        8.00000
+  0
+3DFACE
+  8
+ATRIUMRECEPTION_RECEPTION
+ 62
+ 43
+ 10
+       20.86144
+ 20
+       56.92264
+ 30
+        7.75166
+ 11
+       14.88144
+ 21
+       56.92264
+ 31
+       -0.00000
+ 12
+       19.37144
+ 22
+       56.92264
+ 32
+        8.00000
+ 13
+       19.37144
+ 23
+       56.92264
+ 33
+        8.00000
+999
+ATRIUMRECEPTION:RECEPTION:ATRIUMRECEPTION:RECEPTION_WALL_4_0_0_0_0_0_WIN
+  0
+3DFACE
+  8
+ATRIUMRECEPTION_RECEPTION
+ 62
+143
+ 10
+       16.37036
+ 20
+       56.92264
+ 30
+        7.99678
+ 11
+       14.88444
+ 21
+       56.92264
+ 31
+        0.01284
+ 12
+       14.88444
+ 22
+       56.92264
+ 32
+        7.74912
+ 13
+       14.88444
+ 23
+       56.92264
+ 33
+        7.74912
+999
+ATRIUMRECEPTION:RECEPTION:ATRIUMRECEPTION:RECEPTION_WALL_4_0_0_1_0_0_WIN
+  0
+3DFACE
+  8
+ATRIUMRECEPTION_RECEPTION
+ 62
+143
+ 10
+       19.37080
+ 20
+       56.92264
+ 30
+        7.99510
+ 11
+       20.85824
+ 21
+       56.92264
+ 31
+        0.00300
+ 12
+       14.88515
+ 22
+       56.92264
+ 32
+        0.00300
+ 13
+       14.88515
+ 23
+       56.92264
+ 33
+        0.00300
+999
+ATRIUMRECEPTION:RECEPTION:ATRIUMRECEPTION:RECEPTION_WALL_4_0_0_2_0_0_WIN
+  0
+3DFACE
+  8
+ATRIUMRECEPTION_RECEPTION
+ 62
+143
+ 10
+       19.36957
+ 20
+       56.92264
+ 30
+        7.99700
+ 11
+       14.88553
+ 21
+       56.92264
+ 31
+        0.00777
+ 12
+       16.37243
+ 22
+       56.92264
+ 32
+        7.99700
+ 13
+       16.37243
+ 23
+       56.92264
+ 33
+        7.99700
+999
+ATRIUMRECEPTION:RECEPTION:ATRIUMRECEPTION:RECEPTION_WALL_5_0_0
+  0
+3DFACE
+  8
+ATRIUMRECEPTION_RECEPTION
+ 62
+ 43
+ 10
+       14.88144
+ 20
+       56.92264
+ 30
+        7.75000
+ 11
+       14.88144
+ 21
+       56.92264
+ 31
+        0.00000
+ 12
+       14.88144
+ 22
+       53.93264
+ 32
+        0.00000
+ 13
+       14.88144
+ 23
+       53.93264
+ 33
+        7.75000
+999
+ATRIUMRECEPTION:RECEPTION:ATRIUMRECEPTION:RECEPTION_WALL_5_0_0_0_0_0_WIN
+  0
+3DFACE
+  8
+ATRIUMRECEPTION_RECEPTION
+ 62
+143
+ 10
+       14.88144
+ 20
+       56.91964
+ 30
+        7.74700
+ 11
+       14.88144
+ 21
+       56.91964
+ 31
+        0.00300
+ 12
+       14.88144
+ 22
+       53.93564
+ 32
+        0.00300
+ 13
+       14.88144
+ 23
+       53.93564
+ 33
+        7.74700
+999
+ATRIUMRECEPTION:RECEPTION:ROOFLIGHT:RECEPTIONROOFLIGHT_WALL_0_0_0
+  0
+3DFACE
+  8
+ATRIUMRECEPTION_RECEPTION
+ 62
+ 43
+ 10
+       19.28333
+ 20
+       56.92264
+ 30
+        8.49236
+ 11
+       19.36131
+ 21
+       56.92264
+ 31
+        8.00000
+ 12
+       16.38157
+ 22
+       56.92264
+ 32
+        8.00000
+ 13
+       16.38157
+ 23
+       56.92264
+ 33
+        8.00000
+  0
+3DFACE
+  8
+ATRIUMRECEPTION_RECEPTION
+ 62
+ 43
+ 10
+       16.38157
+ 20
+       56.92264
+ 30
+        8.00000
+ 11
+       16.45955
+ 21
+       56.92264
+ 31
+        8.49236
+ 12
+       16.65792
+ 22
+       56.92264
+ 32
+        8.88167
+ 13
+       16.65792
+ 23
+       56.92264
+ 33
+        8.88167
+  0
+3DFACE
+  8
+ATRIUMRECEPTION_RECEPTION
+ 62
+ 43
+ 10
+       16.38157
+ 20
+       56.92264
+ 30
+        8.00000
+ 11
+       16.65792
+ 21
+       56.92264
+ 31
+        8.88167
+ 12
+       16.98976
+ 22
+       56.92264
+ 32
+        9.21352
+ 13
+       16.98976
+ 23
+       56.92264
+ 33
+        9.21352
+  0
+3DFACE
+  8
+ATRIUMRECEPTION_RECEPTION
+ 62
+ 43
+ 10
+       16.38157
+ 20
+       56.92264
+ 30
+        8.00000
+ 11
+       16.98976
+ 21
+       56.92264
+ 31
+        9.21352
+ 12
+       17.40792
+ 22
+       56.92264
+ 32
+        9.42658
+ 13
+       17.40792
+ 23
+       56.92264
+ 33
+        9.42658
+  0
+3DFACE
+  8
+ATRIUMRECEPTION_RECEPTION
+ 62
+ 43
+ 10
+       16.38157
+ 20
+       56.92264
+ 30
+        8.00000
+ 11
+       17.40792
+ 21
+       56.92264
+ 31
+        9.42658
+ 12
+       17.87144
+ 22
+       56.92264
+ 32
+        9.49999
+ 13
+       17.87144
+ 23
+       56.92264
+ 33
+        9.49999
+  0
+3DFACE
+  8
+ATRIUMRECEPTION_RECEPTION
+ 62
+ 43
+ 10
+       16.38157
+ 20
+       56.92264
+ 30
+        8.00000
+ 11
+       17.87144
+ 21
+       56.92264
+ 31
+        9.49999
+ 12
+       18.33496
+ 22
+       56.92264
+ 32
+        9.42658
+ 13
+       18.33496
+ 23
+       56.92264
+ 33
+        9.42658
+  0
+3DFACE
+  8
+ATRIUMRECEPTION_RECEPTION
+ 62
+ 43
+ 10
+       16.38157
+ 20
+       56.92264
+ 30
+        8.00000
+ 11
+       18.33496
+ 21
+       56.92264
+ 31
+        9.42658
+ 12
+       18.75311
+ 22
+       56.92264
+ 32
+        9.21352
+ 13
+       18.75311
+ 23
+       56.92264
+ 33
+        9.21352
+  0
+3DFACE
+  8
+ATRIUMRECEPTION_RECEPTION
+ 62
+ 43
+ 10
+       16.38157
+ 20
+       56.92264
+ 30
+        8.00000
+ 11
+       18.75311
+ 21
+       56.92264
+ 31
+        9.21352
+ 12
+       19.08496
+ 22
+       56.92264
+ 32
+        8.88167
+ 13
+       19.08496
+ 23
+       56.92264
+ 33
+        8.88167
+  0
+3DFACE
+  8
+ATRIUMRECEPTION_RECEPTION
+ 62
+ 43
+ 10
+       19.28333
+ 20
+       56.92264
+ 30
+        8.49236
+ 11
+       16.38157
+ 21
+       56.92264
+ 31
+        8.00000
+ 12
+       19.08496
+ 22
+       56.92264
+ 32
+        8.88167
+ 13
+       19.08496
+ 23
+       56.92264
+ 33
+        8.88167
+999
+ATRIUMRECEPTION:RECEPTION:ROOFLIGHT:RECEPTIONROOFLIGHT_WALL_0_0_0_0_0_0_WIN
+  0
+3DFACE
+  8
+ATRIUMRECEPTION_RECEPTION
+ 62
+143
+ 10
+       17.40532
+ 20
+       56.92264
+ 30
+        9.42189
+ 11
+       16.39043
+ 21
+       56.92264
+ 31
+        8.01276
+ 12
+       16.99170
+ 22
+       56.92264
+ 32
+        9.21114
+ 13
+       16.99170
+ 23
+       56.92264
+ 33
+        9.21114
+999
+ATRIUMRECEPTION:RECEPTION:ROOFLIGHT:RECEPTIONROOFLIGHT_WALL_0_0_0_1_0_0_WIN
+  0
+3DFACE
+  8
+ATRIUMRECEPTION_RECEPTION
+ 62
+143
+ 10
+       16.98477
+ 20
+       56.92264
+ 30
+        9.20177
+ 11
+       16.38591
+ 21
+       56.92264
+ 31
+        8.00821
+ 12
+       16.46243
+ 22
+       56.92264
+ 32
+        8.49133
+ 13
+       16.46243
+ 23
+       56.92264
+ 33
+        8.49133
+999
+ATRIUMRECEPTION:RECEPTION:ROOFLIGHT:RECEPTIONROOFLIGHT_WALL_0_0_0_4_0_0_WIN
+  0
+3DFACE
+  8
+ATRIUMRECEPTION_RECEPTION
+ 62
+143
+ 10
+       18.33377
+ 20
+       56.92264
+ 30
+        9.42373
+ 11
+       19.35079
+ 21
+       56.92264
+ 31
+        8.01164
+ 12
+       17.87431
+ 22
+       56.92264
+ 32
+        9.49650
+ 13
+       17.87431
+ 23
+       56.92264
+ 33
+        9.49650
+999
+ATRIUMRECEPTION:RECEPTION:ROOFLIGHT:RECEPTIONROOFLIGHT_WALL_0_0_0_5_0_0_WIN
+  0
+3DFACE
+  8
+ATRIUMRECEPTION_RECEPTION
+ 62
+143
+ 10
+       17.87144
+ 20
+       56.92264
+ 30
+        9.49655
+ 11
+       19.35656
+ 21
+       56.92264
+ 31
+        8.00300
+ 12
+       16.38632
+ 22
+       56.92264
+ 32
+        8.00300
+ 13
+       16.38632
+ 23
+       56.92264
+ 33
+        8.00300
+999
+ATRIUMRECEPTION:RECEPTION:ROOFLIGHT:RECEPTIONROOFLIGHT_WALL_5_0_0
+  0
+3DFACE
+  8
+ATRIUMRECEPTION_RECEPTION
+ 62
+ 43
+ 10
+       16.45474
+ 20
+       56.92264
+ 30
+        8.46196
+ 11
+       16.38157
+ 21
+       56.92264
+ 31
+        8.00000
+ 12
+       16.38157
+ 22
+       50.92264
+ 32
+        8.00000
+ 13
+       16.45474
+ 23
+       50.92264
+ 33
+        8.46196
+999
+ATRIUMRECEPTION:RECEPTION:ROOFLIGHT:RECEPTIONROOFLIGHT_WALL_5_0_0_0_0_0_WIN
+  0
+3DFACE
+  8
+ATRIUMRECEPTION_RECEPTION
+ 62
+143
+ 10
+       16.45427
+ 20
+       56.91964
+ 30
+        8.45900
+ 11
+       16.38204
+ 21
+       56.91964
+ 31
+        8.00296
+ 12
+       16.38204
+ 22
+       50.92564
+ 32
+        8.00296
+ 13
+       16.45427
+ 23
+       50.92564
+ 33
+        8.45900
+999
+ATRIUMRECEPTION:RECEPTION:ROOFLIGHT:RECEPTIONROOFLIGHT_WALL_5_0_1
+  0
+3DFACE
+  8
+ATRIUMRECEPTION_RECEPTION
+ 62
+ 43
+ 10
+       16.45955
+ 20
+       56.92264
+ 30
+        8.49236
+ 11
+       16.45474
+ 21
+       56.92264
+ 31
+        8.46196
+ 12
+       16.45474
+ 22
+       50.92264
+ 32
+        8.46196
+ 13
+       16.45955
+ 23
+       50.92264
+ 33
+        8.49236
+999
+ATRIUMRECEPTION:RECEPTION:ROOFLIGHT:RECEPTIONROOFLIGHT_WALL_7_0_0
+  0
+3DFACE
+  8
+ATRIUMRECEPTION_RECEPTION
+ 62
+ 43
+ 10
+       19.28814
+ 20
+       50.92264
+ 30
+        8.46196
+ 11
+       19.36131
+ 21
+       50.92264
+ 31
+        8.00000
+ 12
+       19.36131
+ 22
+       56.92264
+ 32
+        8.00000
+ 13
+       19.28814
+ 23
+       56.92264
+ 33
+        8.46196
+999
+ATRIUMRECEPTION:RECEPTION:ROOFLIGHT:RECEPTIONROOFLIGHT_WALL_7_0_0_0_0_0_WIN
+  0
+3DFACE
+  8
+ATRIUMRECEPTION_RECEPTION
+ 62
+143
+ 10
+       19.28861
+ 20
+       50.92564
+ 30
+        8.45900
+ 11
+       19.36084
+ 21
+       50.92564
+ 31
+        8.00296
+ 12
+       19.36084
+ 22
+       56.91964
+ 32
+        8.00296
+ 13
+       19.28861
+ 23
+       56.91964
+ 33
+        8.45900
+999
+ATRIUMRECEPTION:RECEPTION:ROOFLIGHT:RECEPTIONROOFLIGHT_WALL_7_0_1
+  0
+3DFACE
+  8
+ATRIUMRECEPTION_RECEPTION
+ 62
+ 43
+ 10
+       19.28333
+ 20
+       50.92264
+ 30
+        8.49236
+ 11
+       19.28814
+ 21
+       50.92264
+ 31
+        8.46196
+ 12
+       19.28814
+ 22
+       56.92264
+ 32
+        8.46196
+ 13
+       19.28333
+ 23
+       56.92264
+ 33
+        8.49236
+999
+ATRIUMRECEPTION:RECEPTION:ATRIUMRECEPTION:RECEPTION_GROUNDFLOOR_0_0_0
+  0
+3DFACE
+  8
+ATRIUMRECEPTION_RECEPTION
+ 62
+  8
+ 10
+       19.37144
+ 20
+       53.93264
+ 30
+        0.00000
+ 11
+       19.37143
+ 21
+       56.92264
+ 31
+        0.00000
+ 12
+       20.86144
+ 22
+       56.92264
+ 32
+        0.00000
+ 13
+       20.86144
+ 23
+       53.93264
+ 33
+        0.00000
+999
+ATRIUMRECEPTION:RECEPTION:ATRIUMRECEPTION:RECEPTION_GROUNDFLOOR_0_0_1
+  0
+3DFACE
+  8
+ATRIUMRECEPTION_RECEPTION
+ 62
+  8
+ 10
+       16.37144
+ 20
+       50.93264
+ 30
+        0.00000
+ 11
+       16.37144
+ 21
+       53.93264
+ 31
+        0.00000
+ 12
+       19.37144
+ 22
+       53.93264
+ 32
+        0.00000
+ 13
+       19.37144
+ 23
+       50.93264
+ 33
+        0.00000
+999
+ATRIUMRECEPTION:RECEPTION:ATRIUMRECEPTION:RECEPTION_GROUNDFLOOR_0_0_2
+  0
+3DFACE
+  8
+ATRIUMRECEPTION_RECEPTION
+ 62
+  8
+ 10
+       14.88144
+ 20
+       53.93264
+ 30
+        0.00000
+ 11
+       14.88144
+ 21
+       56.92264
+ 31
+        0.00000
+ 12
+       19.37143
+ 22
+       56.92264
+ 32
+        0.00000
+ 13
+       19.37144
+ 23
+       53.93264
+ 33
+        0.00000
+999
+ATRIUMRECEPTION:RECEPTION:ATRIUMRECEPTION:RECEPTION_ROOF_9_0_0
+  0
+3DFACE
+  8
+ATRIUMRECEPTION_RECEPTION
+ 62
+ 15
+ 10
+       19.37144
+ 20
+       53.93264
+ 30
+        8.00000
+ 11
+       20.86144
+ 21
+       53.93264
+ 31
+        7.75166
+ 12
+       20.86144
+ 22
+       56.92264
+ 32
+        7.75166
+ 13
+       19.37144
+ 23
+       56.92264
+ 33
+        8.00000
+999
+ATRIUMRECEPTION:RECEPTION:ATRIUMRECEPTION:RECEPTION_ROOF_9_0_0_0_0_0_WIN
+  0
+3DFACE
+  8
+ATRIUMRECEPTION_RECEPTION
+ 62
+143
+ 10
+       19.37439
+ 20
+       53.93564
+ 30
+        7.99951
+ 11
+       20.85848
+ 21
+       53.93564
+ 31
+        7.75216
+ 12
+       20.85848
+ 22
+       56.91964
+ 32
+        7.75216
+ 13
+       19.37440
+ 23
+       56.91964
+ 33
+        7.99950
+999
+ATRIUMRECEPTION:RECEPTION:ATRIUMRECEPTION:RECEPTION_ROOF_11_0_0
+  0
+3DFACE
+  8
+ATRIUMRECEPTION_RECEPTION
+ 62
+ 15
+ 10
+       16.37144
+ 20
+       56.92264
+ 30
+        8.00000
+ 11
+       14.88144
+ 21
+       56.92264
+ 31
+        7.75166
+ 12
+       14.88144
+ 22
+       53.93264
+ 32
+        7.75166
+ 13
+       16.37144
+ 23
+       53.93264
+ 33
+        8.00000
+999
+ATRIUMRECEPTION:RECEPTION:ATRIUMRECEPTION:RECEPTION_ROOF_11_0_0_0_0_0_WIN
+  0
+3DFACE
+  8
+ATRIUMRECEPTION_RECEPTION
+ 62
+143
+ 10
+       16.36848
+ 20
+       56.91964
+ 30
+        7.99950
+ 11
+       14.88440
+ 21
+       56.91964
+ 31
+        7.75216
+ 12
+       14.88440
+ 22
+       53.93564
+ 32
+        7.75216
+ 13
+       16.36848
+ 23
+       53.93564
+ 33
+        7.99951
+999
+ATRIUMRECEPTION:RECEPTION:ROOFLIGHT:RECEPTIONROOFLIGHT_ROOF_1_0_0
+  0
+3DFACE
+  8
+ATRIUMRECEPTION_RECEPTION
+ 62
+ 15
+ 10
+       17.87144
+ 20
+       56.92264
+ 30
+        9.49999
+ 11
+       17.40792
+ 21
+       56.92264
+ 31
+        9.42658
+ 12
+       17.40792
+ 22
+       50.92264
+ 32
+        9.42658
+ 13
+       17.87144
+ 23
+       50.92264
+ 33
+        9.49999
+999
+ATRIUMRECEPTION:RECEPTION:ROOFLIGHT:RECEPTIONROOFLIGHT_ROOF_1_0_0_0_0_0_WIN
+  0
+3DFACE
+  8
+ATRIUMRECEPTION_RECEPTION
+ 62
+143
+ 10
+       17.86848
+ 20
+       56.91964
+ 30
+        9.49952
+ 11
+       17.41088
+ 21
+       56.91964
+ 31
+        9.42705
+ 12
+       17.41088
+ 22
+       50.92564
+ 32
+        9.42705
+ 13
+       17.86848
+ 23
+       50.92564
+ 33
+        9.49952
+999
+ATRIUMRECEPTION:RECEPTION:ROOFLIGHT:RECEPTIONROOFLIGHT_ROOF_2_0_0
+  0
+3DFACE
+  8
+ATRIUMRECEPTION_RECEPTION
+ 62
+ 15
+ 10
+       17.40792
+ 20
+       56.92264
+ 30
+        9.42658
+ 11
+       16.98976
+ 21
+       56.92264
+ 31
+        9.21352
+ 12
+       16.98976
+ 22
+       50.92264
+ 32
+        9.21352
+ 13
+       17.40792
+ 23
+       50.92264
+ 33
+        9.42658
+999
+ATRIUMRECEPTION:RECEPTION:ROOFLIGHT:RECEPTIONROOFLIGHT_ROOF_2_0_0_0_0_0_WIN
+  0
+3DFACE
+  8
+ATRIUMRECEPTION_RECEPTION
+ 62
+143
+ 10
+       17.40524
+ 20
+       56.91964
+ 30
+        9.42522
+ 11
+       16.99244
+ 21
+       56.91964
+ 31
+        9.21488
+ 12
+       16.99244
+ 22
+       50.92564
+ 32
+        9.21488
+ 13
+       17.40524
+ 23
+       50.92564
+ 33
+        9.42522
+999
+ATRIUMRECEPTION:RECEPTION:ROOFLIGHT:RECEPTIONROOFLIGHT_ROOF_3_0_0
+  0
+3DFACE
+  8
+ATRIUMRECEPTION_RECEPTION
+ 62
+ 15
+ 10
+       16.98976
+ 20
+       56.92264
+ 30
+        9.21352
+ 11
+       16.65792
+ 21
+       56.92264
+ 31
+        8.88167
+ 12
+       16.65792
+ 22
+       50.92264
+ 32
+        8.88167
+ 13
+       16.98976
+ 23
+       50.92264
+ 33
+        9.21352
+999
+ATRIUMRECEPTION:RECEPTION:ROOFLIGHT:RECEPTIONROOFLIGHT_ROOF_3_0_0_0_0_0_WIN
+  0
+3DFACE
+  8
+ATRIUMRECEPTION_RECEPTION
+ 62
+143
+ 10
+       16.98764
+ 20
+       56.91964
+ 30
+        9.21140
+ 11
+       16.66004
+ 21
+       56.91964
+ 31
+        8.88379
+ 12
+       16.66004
+ 22
+       50.92564
+ 32
+        8.88379
+ 13
+       16.98764
+ 23
+       50.92564
+ 33
+        9.21140
+999
+ATRIUMRECEPTION:RECEPTION:ROOFLIGHT:RECEPTIONROOFLIGHT_ROOF_4_0_0
+  0
+3DFACE
+  8
+ATRIUMRECEPTION_RECEPTION
+ 62
+ 15
+ 10
+       16.65792
+ 20
+       56.92264
+ 30
+        8.88167
+ 11
+       16.45955
+ 21
+       56.92264
+ 31
+        8.49236
+ 12
+       16.45955
+ 22
+       50.92264
+ 32
+        8.49236
+ 13
+       16.65792
+ 23
+       50.92264
+ 33
+        8.88167
+999
+ATRIUMRECEPTION:RECEPTION:ROOFLIGHT:RECEPTIONROOFLIGHT_ROOF_4_0_0_0_0_0_WIN
+  0
+3DFACE
+  8
+ATRIUMRECEPTION_RECEPTION
+ 62
+143
+ 10
+       16.65656
+ 20
+       56.91964
+ 30
+        8.87900
+ 11
+       16.46091
+ 21
+       56.91964
+ 31
+        8.49503
+ 12
+       16.46091
+ 22
+       50.92564
+ 32
+        8.49503
+ 13
+       16.65656
+ 23
+       50.92564
+ 33
+        8.87900
+999
+ATRIUMRECEPTION:RECEPTION:ROOFLIGHT:RECEPTIONROOFLIGHT_ROOF_8_0_0
+  0
+3DFACE
+  8
+ATRIUMRECEPTION_RECEPTION
+ 62
+ 15
+ 10
+       19.08496
+ 20
+       50.92264
+ 30
+        8.88167
+ 11
+       19.28333
+ 21
+       50.92264
+ 31
+        8.49236
+ 12
+       19.28333
+ 22
+       56.92264
+ 32
+        8.49236
+ 13
+       19.08496
+ 23
+       56.92264
+ 33
+        8.88167
+999
+ATRIUMRECEPTION:RECEPTION:ROOFLIGHT:RECEPTIONROOFLIGHT_ROOF_8_0_0_0_0_0_WIN
+  0
+3DFACE
+  8
+ATRIUMRECEPTION_RECEPTION
+ 62
+143
+ 10
+       19.08632
+ 20
+       50.92564
+ 30
+        8.87900
+ 11
+       19.28196
+ 21
+       50.92564
+ 31
+        8.49503
+ 12
+       19.28196
+ 22
+       56.91964
+ 32
+        8.49503
+ 13
+       19.08632
+ 23
+       56.91964
+ 33
+        8.87900
+999
+ATRIUMRECEPTION:RECEPTION:ROOFLIGHT:RECEPTIONROOFLIGHT_ROOF_9_0_0
+  0
+3DFACE
+  8
+ATRIUMRECEPTION_RECEPTION
+ 62
+ 15
+ 10
+       18.75311
+ 20
+       50.92264
+ 30
+        9.21352
+ 11
+       19.08496
+ 21
+       50.92264
+ 31
+        8.88167
+ 12
+       19.08496
+ 22
+       56.92264
+ 32
+        8.88167
+ 13
+       18.75311
+ 23
+       56.92264
+ 33
+        9.21352
+999
+ATRIUMRECEPTION:RECEPTION:ROOFLIGHT:RECEPTIONROOFLIGHT_ROOF_9_0_0_0_0_0_WIN
+  0
+3DFACE
+  8
+ATRIUMRECEPTION_RECEPTION
+ 62
+143
+ 10
+       18.75523
+ 20
+       50.92564
+ 30
+        9.21140
+ 11
+       19.08284
+ 21
+       50.92564
+ 31
+        8.88379
+ 12
+       19.08284
+ 22
+       56.91964
+ 32
+        8.88379
+ 13
+       18.75523
+ 23
+       56.91964
+ 33
+        9.21140
+999
+ATRIUMRECEPTION:RECEPTION:ROOFLIGHT:RECEPTIONROOFLIGHT_ROOF_10_0_0
+  0
+3DFACE
+  8
+ATRIUMRECEPTION_RECEPTION
+ 62
+ 15
+ 10
+       18.33496
+ 20
+       50.92264
+ 30
+        9.42658
+ 11
+       18.75311
+ 21
+       50.92264
+ 31
+        9.21352
+ 12
+       18.75311
+ 22
+       56.92264
+ 32
+        9.21352
+ 13
+       18.33496
+ 23
+       56.92264
+ 33
+        9.42658
+999
+ATRIUMRECEPTION:RECEPTION:ROOFLIGHT:RECEPTIONROOFLIGHT_ROOF_10_0_0_0_0_0_WIN
+  0
+3DFACE
+  8
+ATRIUMRECEPTION_RECEPTION
+ 62
+143
+ 10
+       18.33764
+ 20
+       50.92564
+ 30
+        9.42522
+ 11
+       18.75044
+ 21
+       50.92564
+ 31
+        9.21488
+ 12
+       18.75044
+ 22
+       56.91964
+ 32
+        9.21488
+ 13
+       18.33764
+ 23
+       56.91964
+ 33
+        9.42522
+999
+ATRIUMRECEPTION:RECEPTION:ROOFLIGHT:RECEPTIONROOFLIGHT_ROOF_11_0_0
+  0
+3DFACE
+  8
+ATRIUMRECEPTION_RECEPTION
+ 62
+ 15
+ 10
+       17.87144
+ 20
+       50.92264
+ 30
+        9.49999
+ 11
+       18.33496
+ 21
+       50.92264
+ 31
+        9.42658
+ 12
+       18.33496
+ 22
+       56.92264
+ 32
+        9.42658
+ 13
+       17.87144
+ 23
+       56.92264
+ 33
+        9.49999
+999
+ATRIUMRECEPTION:RECEPTION:ROOFLIGHT:RECEPTIONROOFLIGHT_ROOF_11_0_0_0_0_0_WIN
+  0
+3DFACE
+  8
+ATRIUMRECEPTION_RECEPTION
+ 62
+143
+ 10
+       17.87440
+ 20
+       50.92564
+ 30
+        9.49952
+ 11
+       18.33200
+ 21
+       50.92564
+ 31
+        9.42705
+ 12
+       18.33200
+ 22
+       56.91964
+ 32
+        9.42705
+ 13
+       17.87440
+ 23
+       56.91964
+ 33
+        9.49952
+999
+1FFIRSTFLOOREAST1:OPENOFFICE:1FFIRSTFLOOREAST1:OPENOFFICE_PARTITION_1_0_0
+  0
+3DFACE
+  8
+1FFIRSTFLOOREAST1_OPENOFFICE
+ 62
+ 43
+ 10
+       14.87144
+ 20
+        6.10137
+ 30
+        7.75000
+ 11
+       14.87144
+ 21
+        6.10137
+ 31
+        3.00000
+ 12
+       16.37144
+ 22
+        6.10137
+ 32
+        3.00000
+ 13
+       16.37144
+ 23
+        6.10137
+ 33
+        8.00000
+999
+1FFIRSTFLOOREAST1:OPENOFFICE:1FFIRSTFLOOREAST1:OPENOFFICE_WALL_1_1_0
+  0
+3DFACE
+  8
+1FFIRSTFLOOREAST1_OPENOFFICE
+ 62
+ 43
+ 10
+        4.38144
+ 20
+        6.10137
+ 30
+        6.00167
+ 11
+        4.38144
+ 21
+        6.10137
+ 31
+        3.00000
+ 12
+       14.87144
+ 22
+        6.10137
+ 32
+        3.00000
+ 13
+       14.87144
+ 23
+        6.10137
+ 33
+        7.75000
+999
+1FFIRSTFLOOREAST1:OPENOFFICE:1FFIRSTFLOOREAST1:OPENOFFICE_WALL_1_1_0_0_0_1_WIN
+  0
+3DFACE
+  8
+1FFIRSTFLOOREAST1_OPENOFFICE
+ 62
+143
+ 10
+       10.25357
+ 20
+        6.10137
+ 30
+        5.26000
+ 11
+       10.25357
+ 21
+        6.10137
+ 31
+        3.84000
+ 12
+       14.23931
+ 22
+        6.10137
+ 32
+        3.84000
+ 13
+       14.23931
+ 23
+        6.10137
+ 33
+        5.26000
+999
+1FFIRSTFLOOREAST1:OPENOFFICE:1FFIRSTFLOOREAST1:OPENOFFICE_WALL_2_0_0
+  0
+3DFACE
+  8
+1FFIRSTFLOOREAST1_OPENOFFICE
+ 62
+ 43
+ 10
+        4.38144
+ 20
+       26.08290
+ 30
+        6.00000
+ 11
+        4.38144
+ 21
+       26.08290
+ 31
+        3.00000
+ 12
+        4.38144
+ 22
+        6.10137
+ 32
+        3.00000
+ 13
+        4.38144
+ 23
+        6.10137
+ 33
+        6.00000
+999
+1FFIRSTFLOOREAST1:OPENOFFICE:1FFIRSTFLOOREAST1:OPENOFFICE_WALL_2_0_0_0_0_2_WIN
+  0
+3DFACE
+  8
+1FFIRSTFLOOREAST1_OPENOFFICE
+ 62
+143
+ 10
+        4.38144
+ 20
+       11.39311
+ 30
+        5.26000
+ 11
+        4.38144
+ 21
+       11.39311
+ 31
+        3.84000
+ 12
+        4.38144
+ 22
+        7.47681
+ 32
+        3.84000
+ 13
+        4.38144
+ 23
+        7.47681
+ 33
+        5.26000
+999
+1FFIRSTFLOOREAST1:OPENOFFICE:1FFIRSTFLOOREAST1:OPENOFFICE_PARTITION_3_0_0
+  0
+3DFACE
+  8
+1FFIRSTFLOOREAST1_OPENOFFICE
+ 62
+ 43
+ 10
+       16.37144
+ 20
+        6.10137
+ 30
+        8.00000
+ 11
+       16.37144
+ 21
+        6.10137
+ 31
+        3.00000
+ 12
+       16.37144
+ 22
+        9.09290
+ 32
+        3.00000
+ 13
+       16.37144
+ 23
+        9.09290
+ 33
+        8.00000
+999
+1FFIRSTFLOOREAST1:OPENOFFICE:1FFIRSTFLOOREAST1:OPENOFFICE_PARTITION_3_1_0
+  0
+3DFACE
+  8
+1FFIRSTFLOOREAST1_OPENOFFICE
+ 62
+ 43
+ 10
+       16.37144
+ 20
+        9.09290
+ 30
+        8.00000
+ 11
+       16.37144
+ 21
+        9.09290
+ 31
+        3.00000
+ 12
+       16.37144
+ 22
+       26.08290
+ 32
+        3.00000
+ 13
+       16.37144
+ 23
+       26.08290
+ 33
+        8.00000
+999
+1FFIRSTFLOOREAST1:OPENOFFICE:1FFIRSTFLOOREAST1:OPENOFFICE_PARTITION_3_1_0_0_0_0_WIN
+  0
+3DFACE
+  8
+1FFIRSTFLOOREAST1_OPENOFFICE
+ 62
+143
+ 10
+       16.37144
+ 20
+        9.62279
+ 30
+        7.46011
+ 11
+       16.37144
+ 21
+        9.62279
+ 31
+        3.54011
+ 12
+       16.37144
+ 22
+       25.54279
+ 32
+        3.54011
+ 13
+       16.37144
+ 23
+       25.54279
+ 33
+        7.46011
+999
+1FFIRSTFLOOREAST1:OPENOFFICE:1FFIRSTFLOOREAST1:OPENOFFICE_WALL_4_0_0
+  0
+3DFACE
+  8
+1FFIRSTFLOOREAST1_OPENOFFICE
+ 62
+ 43
+ 10
+       16.37144
+ 20
+       26.08290
+ 30
+        8.00000
+ 11
+       16.37144
+ 21
+       26.08290
+ 31
+        3.00000
+ 12
+        4.38144
+ 22
+       26.08290
+ 32
+        3.00000
+ 13
+        4.38144
+ 23
+       26.08290
+ 33
+        6.00167
+999
+1FFIRSTFLOOREAST1:OPENOFFICE:1FFIRSTFLOOREAST1:OPENOFFICE_WALL_4_0_0_0_0_1_WIN
+  0
+3DFACE
+  8
+1FFIRSTFLOOREAST1_OPENOFFICE
+ 62
+143
+ 10
+        9.73994
+ 20
+       26.08290
+ 30
+        5.26000
+ 11
+        9.73994
+ 21
+       26.08290
+ 31
+        3.84000
+ 12
+        5.02294
+ 22
+       26.08290
+ 32
+        3.84000
+ 13
+        5.02294
+ 23
+       26.08290
+ 33
+        5.26000
+999
+1FFIRSTFLOOREAST1:OPENOFFICE:1FFIRSTFLOOREAST1:OPENOFFICE_FLOOR_0_0_0
+  0
+3DFACE
+  8
+1FFIRSTFLOOREAST1_OPENOFFICE
+ 62
+  8
+ 10
+        4.38144
+ 20
+        6.10137
+ 30
+        3.00000
+ 11
+        4.38144
+ 21
+       26.08290
+ 31
+        3.00000
+ 12
+       16.37144
+ 22
+       26.08290
+ 32
+        3.00000
+ 13
+       16.37144
+ 23
+        6.10137
+ 33
+        3.00000
+999
+1FFIRSTFLOOREAST1:OPENOFFICE:1FFIRSTFLOOREAST1:OPENOFFICE_ROOF_5_0_0
+  0
+3DFACE
+  8
+1FFIRSTFLOOREAST1_OPENOFFICE
+ 62
+ 15
+ 10
+       16.37144
+ 20
+       26.08290
+ 30
+        8.00000
+ 11
+        4.38144
+ 21
+       26.08290
+ 31
+        6.00167
+ 12
+        4.38144
+ 22
+        6.10137
+ 32
+        6.00167
+ 13
+       16.37144
+ 23
+        6.10137
+ 33
+        8.00000
+999
+1FFIRSTFLOORWEST1:OPENOFFICE:1FFIRSTFLOORWEST1:OPENOFFICE_PARTITION_1_0_0
+  0
+3DFACE
+  8
+1FFIRSTFLOORWEST1_OPENOFFICE
+ 62
+ 43
+ 10
+       19.37144
+ 20
+        6.10137
+ 30
+        8.00000
+ 11
+       19.37144
+ 21
+        6.10137
+ 31
+        3.00000
+ 12
+       20.87144
+ 22
+        6.10137
+ 32
+        3.00000
+ 13
+       20.87144
+ 23
+        6.10137
+ 33
+        7.75000
+999
+1FFIRSTFLOORWEST1:OPENOFFICE:1FFIRSTFLOORWEST1:OPENOFFICE_WALL_1_1_0
+  0
+3DFACE
+  8
+1FFIRSTFLOORWEST1_OPENOFFICE
+ 62
+ 43
+ 10
+       20.87144
+ 20
+        6.10137
+ 30
+        7.75000
+ 11
+       20.87144
+ 21
+        6.10137
+ 31
+        3.00000
+ 12
+       31.36144
+ 22
+        6.10137
+ 32
+        3.00000
+ 13
+       31.36144
+ 23
+        6.10137
+ 33
+        6.00167
+999
+1FFIRSTFLOORWEST1:OPENOFFICE:1FFIRSTFLOORWEST1:OPENOFFICE_WALL_1_1_0_0_0_1_WIN
+  0
+3DFACE
+  8
+1FFIRSTFLOORWEST1_OPENOFFICE
+ 62
+143
+ 10
+       26.74357
+ 20
+        6.10137
+ 30
+        5.26000
+ 11
+       26.74357
+ 21
+        6.10137
+ 31
+        3.84000
+ 12
+       30.72931
+ 22
+        6.10137
+ 32
+        3.84000
+ 13
+       30.72931
+ 23
+        6.10137
+ 33
+        5.26000
+999
+1FFIRSTFLOORWEST1:OPENOFFICE:1FFIRSTFLOORWEST1:OPENOFFICE_PARTITION_2_0_0
+  0
+3DFACE
+  8
+1FFIRSTFLOORWEST1_OPENOFFICE
+ 62
+ 43
+ 10
+       19.37144
+ 20
+        9.09290
+ 30
+        8.00000
+ 11
+       19.37144
+ 21
+        9.09290
+ 31
+        3.00000
+ 12
+       19.37144
+ 22
+        6.10137
+ 32
+        3.00000
+ 13
+       19.37144
+ 23
+        6.10137
+ 33
+        8.00000
+999
+1FFIRSTFLOORWEST1:OPENOFFICE:1FFIRSTFLOORWEST1:OPENOFFICE_PARTITION_2_1_0
+  0
+3DFACE
+  8
+1FFIRSTFLOORWEST1_OPENOFFICE
+ 62
+ 43
+ 10
+       19.37144
+ 20
+       26.08290
+ 30
+        8.00000
+ 11
+       19.37144
+ 21
+       26.08290
+ 31
+        3.00000
+ 12
+       19.37144
+ 22
+        9.09290
+ 32
+        3.00000
+ 13
+       19.37144
+ 23
+        9.09290
+ 33
+        8.00000
+999
+1FFIRSTFLOORWEST1:OPENOFFICE:1FFIRSTFLOORWEST1:OPENOFFICE_PARTITION_2_1_0_0_0_0_WIN
+  0
+3DFACE
+  8
+1FFIRSTFLOORWEST1_OPENOFFICE
+ 62
+143
+ 10
+       19.37144
+ 20
+       25.54279
+ 30
+        7.46011
+ 11
+       19.37144
+ 21
+       25.54279
+ 31
+        3.54011
+ 12
+       19.37144
+ 22
+        9.62279
+ 32
+        3.54011
+ 13
+       19.37144
+ 23
+        9.62279
+ 33
+        7.46011
+999
+1FFIRSTFLOORWEST1:OPENOFFICE:1FFIRSTFLOORWEST1:OPENOFFICE_WALL_3_0_0
+  0
+3DFACE
+  8
+1FFIRSTFLOORWEST1_OPENOFFICE
+ 62
+ 43
+ 10
+       31.36144
+ 20
+        6.10137
+ 30
+        6.00000
+ 11
+       31.36144
+ 21
+        6.10137
+ 31
+        3.00000
+ 12
+       31.36144
+ 22
+       26.08290
+ 32
+        3.00000
+ 13
+       31.36144
+ 23
+       26.08290
+ 33
+        6.00000
+999
+1FFIRSTFLOORWEST1:OPENOFFICE:1FFIRSTFLOORWEST1:OPENOFFICE_WALL_3_0_0_0_0_2_WIN
+  0
+3DFACE
+  8
+1FFIRSTFLOORWEST1_OPENOFFICE
+ 62
+143
+ 10
+       31.36144
+ 20
+       20.79116
+ 30
+        5.26000
+ 11
+       31.36144
+ 21
+       20.79116
+ 31
+        3.84000
+ 12
+       31.36144
+ 22
+       24.70746
+ 32
+        3.84000
+ 13
+       31.36144
+ 23
+       24.70746
+ 33
+        5.26000
+999
+1FFIRSTFLOORWEST1:OPENOFFICE:1FFIRSTFLOORWEST1:OPENOFFICE_WALL_4_0_0
+  0
+3DFACE
+  8
+1FFIRSTFLOORWEST1_OPENOFFICE
+ 62
+ 43
+ 10
+       31.36144
+ 20
+       26.08290
+ 30
+        6.00167
+ 11
+       31.36144
+ 21
+       26.08290
+ 31
+        3.00000
+ 12
+       19.37144
+ 22
+       26.08290
+ 32
+        3.00000
+ 13
+       19.37144
+ 23
+       26.08290
+ 33
+        8.00000
+999
+1FFIRSTFLOORWEST1:OPENOFFICE:1FFIRSTFLOORWEST1:OPENOFFICE_WALL_4_0_0_0_0_1_WIN
+  0
+3DFACE
+  8
+1FFIRSTFLOORWEST1_OPENOFFICE
+ 62
+143
+ 10
+       24.72994
+ 20
+       26.08290
+ 30
+        5.26000
+ 11
+       24.72994
+ 21
+       26.08290
+ 31
+        3.84000
+ 12
+       20.01294
+ 22
+       26.08290
+ 32
+        3.84000
+ 13
+       20.01294
+ 23
+       26.08290
+ 33
+        5.26000
+999
+1FFIRSTFLOORWEST1:OPENOFFICE:1FFIRSTFLOORWEST1:OPENOFFICE_FLOOR_0_0_0
+  0
+3DFACE
+  8
+1FFIRSTFLOORWEST1_OPENOFFICE
+ 62
+  8
+ 10
+       19.37144
+ 20
+        6.10137
+ 30
+        3.00000
+ 11
+       19.37144
+ 21
+       26.08290
+ 31
+        3.00000
+ 12
+       31.36144
+ 22
+       26.08290
+ 32
+        3.00000
+ 13
+       31.36144
+ 23
+        6.10137
+ 33
+        3.00000
+999
+1FFIRSTFLOORWEST1:OPENOFFICE:1FFIRSTFLOORWEST1:OPENOFFICE_ROOF_5_0_0
+  0
+3DFACE
+  8
+1FFIRSTFLOORWEST1_OPENOFFICE
+ 62
+ 15
+ 10
+       19.37144
+ 20
+        6.10137
+ 30
+        8.00000
+ 11
+       31.36144
+ 21
+        6.10137
+ 31
+        6.00167
+ 12
+       31.36144
+ 22
+       26.08290
+ 32
+        6.00167
+ 13
+       19.37144
+ 23
+       26.08290
+ 33
+        8.00000
+999
+0FGROUNDFLOORWEST1:OPENOFFICE:0FGROUNDFLOORWEST1:OPENOFFICE_WALL_2_0_0
+  0
+3DFACE
+  8
+0FGROUNDFLOORWEST1_OPENOFFICE
+ 62
+ 43
+ 10
+       31.36144
+ 20
+        6.10165
+ 30
+        3.00000
+ 11
+       31.36144
+ 21
+        6.10165
+ 31
+        0.00000
+ 12
+       31.36144
+ 22
+       26.09290
+ 32
+        0.00000
+ 13
+       31.36144
+ 23
+       26.09290
+ 33
+        3.00000
+999
+0FGROUNDFLOORWEST1:OPENOFFICE:0FGROUNDFLOORWEST1:OPENOFFICE_WALL_2_0_0_0_0_2_WIN
+  0
+3DFACE
+  8
+0FGROUNDFLOORWEST1_OPENOFFICE
+ 62
+143
+ 10
+       31.36144
+ 20
+       20.79856
+ 30
+        2.26000
+ 11
+       31.36144
+ 21
+       20.79856
+ 31
+        0.84000
+ 12
+       31.36144
+ 22
+       24.71681
+ 32
+        0.84000
+ 13
+       31.36144
+ 23
+       24.71681
+ 33
+        2.26000
+999
+0FGROUNDFLOORWEST1:OPENOFFICE:0FGROUNDFLOORWEST1:OPENOFFICE_PARTITION_3_0_0
+  0
+3DFACE
+  8
+0FGROUNDFLOORWEST1_OPENOFFICE
+ 62
+ 43
+ 10
+       31.36144
+ 20
+       26.09290
+ 30
+        3.00000
+ 11
+       31.36144
+ 21
+       26.09290
+ 31
+        0.00000
+ 12
+       19.37144
+ 22
+       26.09290
+ 32
+        0.00000
+ 13
+       19.37144
+ 23
+       26.09290
+ 33
+        3.00000
+999
+0FGROUNDFLOORWEST1:OPENOFFICE:0FGROUNDFLOORWEST1:OPENOFFICE_PARTITION_4_0_0
+  0
+3DFACE
+  8
+0FGROUNDFLOORWEST1_OPENOFFICE
+ 62
+ 43
+ 10
+       19.37144
+ 20
+        9.09290
+ 30
+        3.00000
+ 11
+       19.37144
+ 21
+        9.09290
+ 31
+        0.00000
+ 12
+       19.37144
+ 22
+        6.10165
+ 32
+        0.00000
+ 13
+       19.37144
+ 23
+        6.10165
+ 33
+        3.00000
+999
+0FGROUNDFLOORWEST1:OPENOFFICE:0FGROUNDFLOORWEST1:OPENOFFICE_PARTITION_4_1_0
+  0
+3DFACE
+  8
+0FGROUNDFLOORWEST1_OPENOFFICE
+ 62
+ 43
+ 10
+       19.37144
+ 20
+       26.09290
+ 30
+        3.00000
+ 11
+       19.37144
+ 21
+       26.09290
+ 31
+        0.00000
+ 12
+       19.37144
+ 22
+        9.09290
+ 32
+        0.00000
+ 13
+       19.37144
+ 23
+        9.09290
+ 33
+        3.00000
+999
+0FGROUNDFLOORWEST1:OPENOFFICE:0FGROUNDFLOORWEST1:OPENOFFICE_PARTITION_4_1_0_2_0_0_DOOR
+  0
+3DFACE
+  8
+0FGROUNDFLOORWEST1_OPENOFFICE
+ 62
+ 45
+ 10
+       19.37144
+ 20
+       18.09290
+ 30
+        2.05111
+ 11
+       19.37144
+ 21
+       18.09290
+ 31
+        0.05111
+ 12
+       19.37144
+ 22
+       17.09290
+ 32
+        0.05111
+ 13
+       19.37144
+ 23
+       17.09290
+ 33
+        2.05111
+999
+0FGROUNDFLOORWEST1:OPENOFFICE:0FGROUNDFLOORWEST1:OPENOFFICE_PARTITION_4_1_0_0_0_2_WIN
+  0
+3DFACE
+  8
+0FGROUNDFLOORWEST1_OPENOFFICE
+ 62
+143
+ 10
+       19.37144
+ 20
+       16.55290
+ 30
+        2.46011
+ 11
+       19.37144
+ 21
+       16.55290
+ 31
+        0.54011
+ 12
+       19.37144
+ 22
+        9.63290
+ 32
+        0.54011
+ 13
+       19.37144
+ 23
+        9.63290
+ 33
+        2.46011
+999
+0FGROUNDFLOORWEST1:OPENOFFICE:0FGROUNDFLOORWEST1:OPENOFFICE_PARTITION_5_0_0
+  0
+3DFACE
+  8
+0FGROUNDFLOORWEST1_OPENOFFICE
+ 62
+ 43
+ 10
+       19.37144
+ 20
+        6.10165
+ 30
+        3.00000
+ 11
+       19.37144
+ 21
+        6.10165
+ 31
+        0.00000
+ 12
+       20.87144
+ 22
+        6.10165
+ 32
+        0.00000
+ 13
+       20.87144
+ 23
+        6.10165
+ 33
+        3.00000
+999
+0FGROUNDFLOORWEST1:OPENOFFICE:0FGROUNDFLOORWEST1:OPENOFFICE_WALL_5_1_0
+  0
+3DFACE
+  8
+0FGROUNDFLOORWEST1_OPENOFFICE
+ 62
+ 43
+ 10
+       20.87144
+ 20
+        6.10165
+ 30
+        3.00000
+ 11
+       20.87144
+ 21
+        6.10165
+ 31
+        0.00000
+ 12
+       31.36144
+ 22
+        6.10165
+ 32
+        0.00000
+ 13
+       31.36144
+ 23
+        6.10165
+ 33
+        3.00000
+999
+0FGROUNDFLOORWEST1:OPENOFFICE:0FGROUNDFLOORWEST1:OPENOFFICE_WALL_5_1_0_0_0_1_WIN
+  0
+3DFACE
+  8
+0FGROUNDFLOORWEST1_OPENOFFICE
+ 62
+143
+ 10
+       27.20294
+ 20
+        6.10165
+ 30
+        2.26000
+ 11
+       27.20294
+ 21
+        6.10165
+ 31
+        0.84000
+ 12
+       30.26994
+ 22
+        6.10165
+ 32
+        0.84000
+ 13
+       30.26994
+ 23
+        6.10165
+ 33
+        2.26000
+999
+0FGROUNDFLOORWEST1:OPENOFFICE:0FGROUNDFLOORWEST1:OPENOFFICE_GROUNDFLOOR_0_0_0
+  0
+3DFACE
+  8
+0FGROUNDFLOORWEST1_OPENOFFICE
+ 62
+  8
+ 10
+       19.37144
+ 20
+        6.10165
+ 30
+        0.00000
+ 11
+       19.37144
+ 21
+       26.09290
+ 31
+        0.00000
+ 12
+       31.36144
+ 22
+       26.09290
+ 32
+        0.00000
+ 13
+       31.36144
+ 23
+        6.10165
+ 33
+        0.00000
+999
+0FGROUNDFLOORWEST1:OPENOFFICE:0FGROUNDFLOORWEST1:OPENOFFICE_CEILING_1_0_10036
+  0
+3DFACE
+  8
+0FGROUNDFLOORWEST1_OPENOFFICE
+ 62
+ 15
+ 10
+       19.37144
+ 20
+       26.08290
+ 30
+        3.00000
+ 11
+       19.37144
+ 21
+        6.10137
+ 31
+        3.00000
+ 12
+       31.36144
+ 22
+        6.10137
+ 32
+        3.00000
+ 13
+       31.36144
+ 23
+       26.08290
+ 33
+        3.00000
+999
+0FGROUNDFLOOREAST1:OPENOFFICE:0FGROUNDFLOOREAST1:OPENOFFICE_PARTITION_2_0_0
+  0
+3DFACE
+  8
+0FGROUNDFLOOREAST1_OPENOFFICE
+ 62
+ 43
+ 10
+       16.37144
+ 20
+        6.10165
+ 30
+        3.00000
+ 11
+       16.37144
+ 21
+        6.10165
+ 31
+        0.00000
+ 12
+       16.37144
+ 22
+        9.09290
+ 32
+        0.00000
+ 13
+       16.37144
+ 23
+        9.09290
+ 33
+        3.00000
+999
+0FGROUNDFLOOREAST1:OPENOFFICE:0FGROUNDFLOOREAST1:OPENOFFICE_PARTITION_2_1_0
+  0
+3DFACE
+  8
+0FGROUNDFLOOREAST1_OPENOFFICE
+ 62
+ 43
+ 10
+       16.37144
+ 20
+        9.09290
+ 30
+        3.00000
+ 11
+       16.37144
+ 21
+        9.09290
+ 31
+        0.00000
+ 12
+       16.37144
+ 22
+       26.09290
+ 32
+        0.00000
+ 13
+       16.37144
+ 23
+       26.09290
+ 33
+        3.00000
+999
+0FGROUNDFLOOREAST1:OPENOFFICE:0FGROUNDFLOOREAST1:OPENOFFICE_PARTITION_2_1_0_2_0_0_DOOR
+  0
+3DFACE
+  8
+0FGROUNDFLOOREAST1_OPENOFFICE
+ 62
+ 45
+ 10
+       16.37144
+ 20
+       17.09490
+ 30
+        1.99811
+ 11
+       16.37144
+ 21
+       17.09490
+ 31
+        0.00211
+ 12
+       16.37144
+ 22
+       18.09090
+ 32
+        0.00211
+ 13
+       16.37144
+ 23
+       18.09090
+ 33
+        1.99811
+999
+0FGROUNDFLOOREAST1:OPENOFFICE:0FGROUNDFLOOREAST1:OPENOFFICE_PARTITION_2_1_0_0_0_2_WIN
+  0
+3DFACE
+  8
+0FGROUNDFLOOREAST1_OPENOFFICE
+ 62
+143
+ 10
+       16.37144
+ 20
+        9.63290
+ 30
+        2.46011
+ 11
+       16.37144
+ 21
+        9.63290
+ 31
+        0.54011
+ 12
+       16.37144
+ 22
+       16.55290
+ 32
+        0.54011
+ 13
+       16.37144
+ 23
+       16.55290
+ 33
+        2.46011
+999
+0FGROUNDFLOOREAST1:OPENOFFICE:0FGROUNDFLOOREAST1:OPENOFFICE_PARTITION_3_0_0
+  0
+3DFACE
+  8
+0FGROUNDFLOOREAST1_OPENOFFICE
+ 62
+ 43
+ 10
+       16.37144
+ 20
+       26.09290
+ 30
+        3.00000
+ 11
+       16.37144
+ 21
+       26.09290
+ 31
+        0.00000
+ 12
+        4.38144
+ 22
+       26.09290
+ 32
+        0.00000
+ 13
+        4.38144
+ 23
+       26.09290
+ 33
+        3.00000
+999
+0FGROUNDFLOOREAST1:OPENOFFICE:0FGROUNDFLOOREAST1:OPENOFFICE_WALL_4_0_0
+  0
+3DFACE
+  8
+0FGROUNDFLOOREAST1_OPENOFFICE
+ 62
+ 43
+ 10
+        4.38144
+ 20
+       26.09290
+ 30
+        3.00000
+ 11
+        4.38144
+ 21
+       26.09290
+ 31
+        0.00000
+ 12
+        4.38144
+ 22
+        6.10165
+ 32
+        0.00000
+ 13
+        4.38144
+ 23
+        6.10165
+ 33
+        3.00000
+999
+0FGROUNDFLOOREAST1:OPENOFFICE:0FGROUNDFLOOREAST1:OPENOFFICE_WALL_4_0_0_0_0_2_WIN
+  0
+3DFACE
+  8
+0FGROUNDFLOOREAST1_OPENOFFICE
+ 62
+143
+ 10
+        4.38144
+ 20
+       11.39598
+ 30
+        2.26000
+ 11
+        4.38144
+ 21
+       11.39598
+ 31
+        0.84000
+ 12
+        4.38144
+ 22
+        7.47773
+ 32
+        0.84000
+ 13
+        4.38144
+ 23
+        7.47773
+ 33
+        2.26000
+999
+0FGROUNDFLOOREAST1:OPENOFFICE:0FGROUNDFLOOREAST1:OPENOFFICE_PARTITION_5_0_0
+  0
+3DFACE
+  8
+0FGROUNDFLOOREAST1_OPENOFFICE
+ 62
+ 43
+ 10
+       14.87144
+ 20
+        6.10165
+ 30
+        3.00000
+ 11
+       14.87144
+ 21
+        6.10165
+ 31
+        0.00000
+ 12
+       16.37144
+ 22
+        6.10165
+ 32
+        0.00000
+ 13
+       16.37144
+ 23
+        6.10165
+ 33
+        3.00000
+999
+0FGROUNDFLOOREAST1:OPENOFFICE:0FGROUNDFLOOREAST1:OPENOFFICE_WALL_5_1_0
+  0
+3DFACE
+  8
+0FGROUNDFLOOREAST1_OPENOFFICE
+ 62
+ 43
+ 10
+        4.38144
+ 20
+        6.10165
+ 30
+        3.00000
+ 11
+        4.38144
+ 21
+        6.10165
+ 31
+        0.00000
+ 12
+       14.87144
+ 22
+        6.10165
+ 32
+        0.00000
+ 13
+       14.87144
+ 23
+        6.10165
+ 33
+        3.00000
+999
+0FGROUNDFLOOREAST1:OPENOFFICE:0FGROUNDFLOOREAST1:OPENOFFICE_WALL_5_1_0_0_0_1_WIN
+  0
+3DFACE
+  8
+0FGROUNDFLOOREAST1_OPENOFFICE
+ 62
+143
+ 10
+       10.71294
+ 20
+        6.10165
+ 30
+        2.26000
+ 11
+       10.71294
+ 21
+        6.10165
+ 31
+        0.84000
+ 12
+       13.77994
+ 22
+        6.10165
+ 32
+        0.84000
+ 13
+       13.77994
+ 23
+        6.10165
+ 33
+        2.26000
+999
+0FGROUNDFLOOREAST1:OPENOFFICE:0FGROUNDFLOOREAST1:OPENOFFICE_GROUNDFLOOR_0_0_0
+  0
+3DFACE
+  8
+0FGROUNDFLOOREAST1_OPENOFFICE
+ 62
+  8
+ 10
+        4.38144
+ 20
+        6.10165
+ 30
+        0.00000
+ 11
+        4.38144
+ 21
+       26.09290
+ 31
+        0.00000
+ 12
+       16.37144
+ 22
+       26.09290
+ 32
+        0.00000
+ 13
+       16.37144
+ 23
+        6.10165
+ 33
+        0.00000
+999
+0FGROUNDFLOOREAST1:OPENOFFICE:0FGROUNDFLOOREAST1:OPENOFFICE_CEILING_1_0_10031
+  0
+3DFACE
+  8
+0FGROUNDFLOOREAST1_OPENOFFICE
+ 62
+ 15
+ 10
+        4.38144
+ 20
+       26.08290
+ 30
+        3.00000
+ 11
+        4.38144
+ 21
+        6.10137
+ 31
+        3.00000
+ 12
+       16.37144
+ 22
+        6.10137
+ 32
+        3.00000
+ 13
+       16.37144
+ 23
+       26.08290
+ 33
+        3.00000
+999
+CORECIRCULATION1:CIRCULATION:CORECIRCULATION1:CIRCULATION_PARTITION_4_0_10034
+  0
+3DFACE
+  8
+CORECIRCULATION1_CIRCULATION
+ 62
+ 43
+ 10
+       16.37144
+ 20
+       26.08290
+ 30
+        8.00000
+ 11
+       16.37144
+ 21
+       26.08290
+ 31
+        3.00000
+ 12
+       16.37144
+ 22
+        9.09290
+ 32
+        3.00000
+ 13
+       16.37144
+ 23
+        9.09290
+ 33
+        8.00000
+999
+CORECIRCULATION1:CIRCULATION:CORECIRCULATION1:CIRCULATION_PARTITION_4_0_0_0_0_0_WIN_10036
+  0
+3DFACE
+  8
+CORECIRCULATION1_CIRCULATION
+ 62
+143
+ 10
+       16.37144
+ 20
+       25.54279
+ 30
+        7.46011
+ 11
+       16.37144
+ 21
+       25.54279
+ 31
+        3.54011
+ 12
+       16.37144
+ 22
+        9.62279
+ 32
+        3.54011
+ 13
+       16.37144
+ 23
+        9.62279
+ 33
+        7.46011
+999
+CORECIRCULATION1:CIRCULATION:CORECIRCULATION1:CIRCULATION_PARTITION_2_0_10039
+  0
+3DFACE
+  8
+CORECIRCULATION1_CIRCULATION
+ 62
+ 43
+ 10
+       19.37144
+ 20
+        9.09290
+ 30
+        8.00000
+ 11
+       19.37144
+ 21
+        9.09290
+ 31
+        3.00000
+ 12
+       19.37144
+ 22
+       26.08290
+ 32
+        3.00000
+ 13
+       19.37144
+ 23
+       26.08290
+ 33
+        8.00000
+999
+CORECIRCULATION1:CIRCULATION:CORECIRCULATION1:CIRCULATION_PARTITION_2_0_0_0_0_0_WIN_10041
+  0
+3DFACE
+  8
+CORECIRCULATION1_CIRCULATION
+ 62
+143
+ 10
+       19.37144
+ 20
+        9.62279
+ 30
+        7.46011
+ 11
+       19.37144
+ 21
+        9.62279
+ 31
+        3.54011
+ 12
+       19.37144
+ 22
+       25.54279
+ 32
+        3.54011
+ 13
+       19.37144
+ 23
+       25.54279
+ 33
+        7.46011
+999
+CORECIRCULATION1:CIRCULATION:CORECIRCULATION1:CIRCULATION_PARTITION_2_0_10043
+  0
+3DFACE
+  8
+CORECIRCULATION1_CIRCULATION
+ 62
+ 43
+ 10
+       19.37144
+ 20
+        9.09290
+ 30
+        3.00000
+ 11
+       19.37144
+ 21
+        9.09290
+ 31
+        0.00000
+ 12
+       19.37144
+ 22
+       26.09290
+ 32
+        0.00000
+ 13
+       19.37144
+ 23
+       26.09290
+ 33
+        3.00000
+999
+CORECIRCULATION1:CIRCULATION:CORECIRCULATION1:CIRCULATION_PARTITION_2_0_0_1_0_1_DOOR_10045
+  0
+3DFACE
+  8
+CORECIRCULATION1_CIRCULATION
+ 62
+ 45
+ 10
+       19.37144
+ 20
+       17.09290
+ 30
+        2.05111
+ 11
+       19.37144
+ 21
+       17.09290
+ 31
+        0.05111
+ 12
+       19.37144
+ 22
+       18.09290
+ 32
+        0.05111
+ 13
+       19.37144
+ 23
+       18.09290
+ 33
+        2.05111
+999
+CORECIRCULATION1:CIRCULATION:CORECIRCULATION1:CIRCULATION_PARTITION_2_0_0_3_0_3_WIN_10046
+  0
+3DFACE
+  8
+CORECIRCULATION1_CIRCULATION
+ 62
+143
+ 10
+       19.37144
+ 20
+        9.63290
+ 30
+        2.46011
+ 11
+       19.37144
+ 21
+        9.63290
+ 31
+        0.54011
+ 12
+       19.37144
+ 22
+       16.55290
+ 32
+        0.54011
+ 13
+       19.37144
+ 23
+       16.55290
+ 33
+        2.46011
+999
+CORECIRCULATION1:CIRCULATION:CORECIRCULATION1:CIRCULATION_PARTITION_4_0_10048
+  0
+3DFACE
+  8
+CORECIRCULATION1_CIRCULATION
+ 62
+ 43
+ 10
+       16.37144
+ 20
+       26.09290
+ 30
+        3.00000
+ 11
+       16.37144
+ 21
+       26.09290
+ 31
+        0.00000
+ 12
+       16.37144
+ 22
+        9.09290
+ 32
+        0.00000
+ 13
+       16.37144
+ 23
+        9.09290
+ 33
+        3.00000
+999
+CORECIRCULATION1:CIRCULATION:CORECIRCULATION1:CIRCULATION_PARTITION_4_0_0_1_0_1_DOOR_10050
+  0
+3DFACE
+  8
+CORECIRCULATION1_CIRCULATION
+ 62
+ 45
+ 10
+       16.37144
+ 20
+       18.09090
+ 30
+        1.99811
+ 11
+       16.37144
+ 21
+       18.09090
+ 31
+        0.00211
+ 12
+       16.37144
+ 22
+       17.09490
+ 32
+        0.00211
+ 13
+       16.37144
+ 23
+       17.09490
+ 33
+        1.99811
+999
+CORECIRCULATION1:CIRCULATION:CORECIRCULATION1:CIRCULATION_PARTITION_4_0_0_3_0_3_WIN_10051
+  0
+3DFACE
+  8
+CORECIRCULATION1_CIRCULATION
+ 62
+143
+ 10
+       16.37144
+ 20
+       16.55290
+ 30
+        2.46011
+ 11
+       16.37144
+ 21
+       16.55290
+ 31
+        0.54011
+ 12
+       16.37144
+ 22
+        9.63290
+ 32
+        0.54011
+ 13
+       16.37144
+ 23
+        9.63290
+ 33
+        2.46011
+999
+CORECIRCULATION1:CIRCULATION:CORECIRCULATION1:CIRCULATION_PARTITION_3_0_0
+  0
+3DFACE
+  8
+CORECIRCULATION1_CIRCULATION
+ 62
+ 43
+ 10
+       19.37144
+ 20
+       26.08665
+ 30
+        3.00000
+ 11
+       19.37144
+ 21
+       26.08665
+ 31
+        0.00000
+ 12
+       16.37144
+ 22
+       26.08665
+ 32
+        0.00000
+ 13
+       16.37144
+ 23
+       26.08665
+ 33
+        3.00000
+999
+CORECIRCULATION1:CIRCULATION:CORECIRCULATION1:CIRCULATION_PARTITION_3_0_0_0_0_0_DOOR
+  0
+3DFACE
+  8
+CORECIRCULATION1_CIRCULATION
+ 62
+ 45
+ 10
+       19.26444
+ 20
+       26.08665
+ 30
+        1.99800
+ 11
+       19.26444
+ 21
+       26.08665
+ 31
+        0.00200
+ 12
+       18.16844
+ 22
+       26.08665
+ 32
+        0.00200
+ 13
+       18.16844
+ 23
+       26.08665
+ 33
+        1.99800
+999
+CORECIRCULATION1:CIRCULATION:CORECIRCULATION1:CIRCULATION_WALL_3_1_0
+  0
+3DFACE
+  8
+CORECIRCULATION1_CIRCULATION
+ 62
+ 43
+ 10
+       19.37144
+ 20
+       26.08665
+ 30
+        8.00000
+ 11
+       19.37144
+ 21
+       26.08665
+ 31
+        3.00000
+ 12
+       16.37144
+ 22
+       26.08665
+ 32
+        3.00000
+ 13
+       16.37144
+ 23
+       26.08665
+ 33
+        8.00000
+999
+CORECIRCULATION1:CIRCULATION:CORECIRCULATION1:CIRCULATION_WALL_3_1_0_0_0_1_WIN
+  0
+3DFACE
+  8
+CORECIRCULATION1_CIRCULATION
+ 62
+143
+ 10
+       19.36844
+ 20
+       26.08665
+ 30
+        7.99700
+ 11
+       19.36844
+ 21
+       26.08665
+ 31
+        3.00300
+ 12
+       16.37444
+ 22
+       26.08665
+ 32
+        3.00300
+ 13
+       16.37444
+ 23
+       26.08665
+ 33
+        7.99700
+999
+CORECIRCULATION1:CIRCULATION:CORECIRCULATION1:CIRCULATION_PARTITION_5_0_0
+  0
+3DFACE
+  8
+CORECIRCULATION1_CIRCULATION
+ 62
+ 43
+ 10
+       16.37144
+ 20
+        9.09290
+ 30
+        8.00000
+ 11
+       16.37144
+ 21
+        9.09290
+ 31
+        0.00000
+ 12
+       19.37144
+ 22
+        9.09290
+ 32
+        0.00000
+ 13
+       19.37144
+ 23
+        9.09290
+ 33
+        8.00000
+999
+CORECIRCULATION1:CIRCULATION:CORECIRCULATION1:CIRCULATION_PARTITION_5_0_0_0_0_0_DOOR
+  0
+3DFACE
+  8
+CORECIRCULATION1_CIRCULATION
+ 62
+ 45
+ 10
+       16.47844
+ 20
+        9.09290
+ 30
+        1.99800
+ 11
+       16.47844
+ 21
+        9.09290
+ 31
+        0.00200
+ 12
+       17.57444
+ 22
+        9.09290
+ 32
+        0.00200
+ 13
+       17.57444
+ 23
+        9.09290
+ 33
+        1.99800
+999
+CORECIRCULATION1:CIRCULATION:ROOFLIGHT1:COREROOFLIGHT_WALL_0_0_0
+  0
+3DFACE
+  8
+CORECIRCULATION1_CIRCULATION
+ 62
+ 43
+ 10
+       19.28333
+ 20
+       26.08290
+ 30
+        8.49236
+ 11
+       19.36131
+ 21
+       26.08290
+ 31
+        8.00000
+ 12
+       16.38157
+ 22
+       26.08290
+ 32
+        8.00000
+ 13
+       16.38157
+ 23
+       26.08290
+ 33
+        8.00000
+  0
+3DFACE
+  8
+CORECIRCULATION1_CIRCULATION
+ 62
+ 43
+ 10
+       16.38157
+ 20
+       26.08290
+ 30
+        8.00000
+ 11
+       16.45955
+ 21
+       26.08290
+ 31
+        8.49236
+ 12
+       16.65792
+ 22
+       26.08290
+ 32
+        8.88167
+ 13
+       16.65792
+ 23
+       26.08290
+ 33
+        8.88167
+  0
+3DFACE
+  8
+CORECIRCULATION1_CIRCULATION
+ 62
+ 43
+ 10
+       16.38157
+ 20
+       26.08290
+ 30
+        8.00000
+ 11
+       16.65792
+ 21
+       26.08290
+ 31
+        8.88167
+ 12
+       16.98977
+ 22
+       26.08290
+ 32
+        9.21352
+ 13
+       16.98977
+ 23
+       26.08290
+ 33
+        9.21352
+  0
+3DFACE
+  8
+CORECIRCULATION1_CIRCULATION
+ 62
+ 43
+ 10
+       16.38157
+ 20
+       26.08290
+ 30
+        8.00000
+ 11
+       16.98977
+ 21
+       26.08290
+ 31
+        9.21352
+ 12
+       17.40792
+ 22
+       26.08290
+ 32
+        9.42658
+ 13
+       17.40792
+ 23
+       26.08290
+ 33
+        9.42658
+  0
+3DFACE
+  8
+CORECIRCULATION1_CIRCULATION
+ 62
+ 43
+ 10
+       16.38157
+ 20
+       26.08290
+ 30
+        8.00000
+ 11
+       17.40792
+ 21
+       26.08290
+ 31
+        9.42658
+ 12
+       17.87144
+ 22
+       26.08290
+ 32
+        9.49999
+ 13
+       17.87144
+ 23
+       26.08290
+ 33
+        9.49999
+  0
+3DFACE
+  8
+CORECIRCULATION1_CIRCULATION
+ 62
+ 43
+ 10
+       16.38157
+ 20
+       26.08290
+ 30
+        8.00000
+ 11
+       17.87144
+ 21
+       26.08290
+ 31
+        9.49999
+ 12
+       18.33496
+ 22
+       26.08290
+ 32
+        9.42658
+ 13
+       18.33496
+ 23
+       26.08290
+ 33
+        9.42658
+  0
+3DFACE
+  8
+CORECIRCULATION1_CIRCULATION
+ 62
+ 43
+ 10
+       16.38157
+ 20
+       26.08290
+ 30
+        8.00000
+ 11
+       18.33496
+ 21
+       26.08290
+ 31
+        9.42658
+ 12
+       18.75311
+ 22
+       26.08290
+ 32
+        9.21352
+ 13
+       18.75311
+ 23
+       26.08290
+ 33
+        9.21352
+  0
+3DFACE
+  8
+CORECIRCULATION1_CIRCULATION
+ 62
+ 43
+ 10
+       16.38157
+ 20
+       26.08290
+ 30
+        8.00000
+ 11
+       18.75311
+ 21
+       26.08290
+ 31
+        9.21352
+ 12
+       19.08496
+ 22
+       26.08290
+ 32
+        8.88167
+ 13
+       19.08496
+ 23
+       26.08290
+ 33
+        8.88167
+  0
+3DFACE
+  8
+CORECIRCULATION1_CIRCULATION
+ 62
+ 43
+ 10
+       19.28333
+ 20
+       26.08290
+ 30
+        8.49236
+ 11
+       16.38157
+ 21
+       26.08290
+ 31
+        8.00000
+ 12
+       19.08496
+ 22
+       26.08290
+ 32
+        8.88167
+ 13
+       19.08496
+ 23
+       26.08290
+ 33
+        8.88167
+999
+CORECIRCULATION1:CIRCULATION:ROOFLIGHT1:COREROOFLIGHT_WALL_0_0_0_0_0_0_WIN
+  0
+3DFACE
+  8
+CORECIRCULATION1_CIRCULATION
+ 62
+143
+ 10
+       17.86857
+ 20
+       26.08290
+ 30
+        9.49650
+ 11
+       16.39209
+ 21
+       26.08290
+ 31
+        8.01164
+ 12
+       17.40911
+ 22
+       26.08290
+ 32
+        9.42373
+ 13
+       17.40911
+ 23
+       26.08290
+ 33
+        9.42373
+999
+CORECIRCULATION1:CIRCULATION:ROOFLIGHT1:COREROOFLIGHT_WALL_0_0_0_1_0_0_WIN
+  0
+3DFACE
+  8
+CORECIRCULATION1_CIRCULATION
+ 62
+143
+ 10
+       17.40532
+ 20
+       26.08290
+ 30
+        9.42189
+ 11
+       16.39043
+ 21
+       26.08290
+ 31
+        8.01276
+ 12
+       16.99170
+ 22
+       26.08290
+ 32
+        9.21114
+ 13
+       16.99170
+ 23
+       26.08290
+ 33
+        9.21114
+999
+CORECIRCULATION1:CIRCULATION:ROOFLIGHT1:COREROOFLIGHT_WALL_0_0_0_2_0_0_WIN
+  0
+3DFACE
+  8
+CORECIRCULATION1_CIRCULATION
+ 62
+143
+ 10
+       16.98477
+ 20
+       26.08290
+ 30
+        9.20177
+ 11
+       16.38591
+ 21
+       26.08290
+ 31
+        8.00821
+ 12
+       16.46243
+ 22
+       26.08290
+ 32
+        8.49133
+ 13
+       16.46243
+ 23
+       26.08290
+ 33
+        8.49133
+999
+CORECIRCULATION1:CIRCULATION:ROOFLIGHT1:COREROOFLIGHT_WALL_0_0_0_6_0_0_WIN
+  0
+3DFACE
+  8
+CORECIRCULATION1_CIRCULATION
+ 62
+143
+ 10
+       17.87144
+ 20
+       26.08290
+ 30
+        9.49655
+ 11
+       19.35656
+ 21
+       26.08290
+ 31
+        8.00300
+ 12
+       16.38632
+ 22
+       26.08290
+ 32
+        8.00300
+ 13
+       16.38632
+ 23
+       26.08290
+ 33
+        8.00300
+999
+CORECIRCULATION1:CIRCULATION:ROOFLIGHT1:COREROOFLIGHT_WALL_5_0_0
+  0
+3DFACE
+  8
+CORECIRCULATION1_CIRCULATION
+ 62
+ 43
+ 10
+       16.45474
+ 20
+       26.08290
+ 30
+        8.46196
+ 11
+       16.38157
+ 21
+       26.08290
+ 31
+        8.00000
+ 12
+       16.38157
+ 22
+        9.10290
+ 32
+        8.00000
+ 13
+       16.45474
+ 23
+        9.10290
+ 33
+        8.46196
+999
+CORECIRCULATION1:CIRCULATION:ROOFLIGHT1:COREROOFLIGHT_WALL_5_0_0_0_0_0_WIN
+  0
+3DFACE
+  8
+CORECIRCULATION1_CIRCULATION
+ 62
+143
+ 10
+       16.45427
+ 20
+       26.07990
+ 30
+        8.45900
+ 11
+       16.38204
+ 21
+       26.07990
+ 31
+        8.00296
+ 12
+       16.38204
+ 22
+        9.10590
+ 32
+        8.00296
+ 13
+       16.45427
+ 23
+        9.10590
+ 33
+        8.45900
+999
+CORECIRCULATION1:CIRCULATION:ROOFLIGHT1:COREROOFLIGHT_WALL_5_0_1
+  0
+3DFACE
+  8
+CORECIRCULATION1_CIRCULATION
+ 62
+ 43
+ 10
+       16.45955
+ 20
+       26.08290
+ 30
+        8.49236
+ 11
+       16.45474
+ 21
+       26.08290
+ 31
+        8.46196
+ 12
+       16.45474
+ 22
+        9.10290
+ 32
+        8.46196
+ 13
+       16.45955
+ 23
+        9.10290
+ 33
+        8.49236
+999
+CORECIRCULATION1:CIRCULATION:ROOFLIGHT1:COREROOFLIGHT_WALL_7_0_0
+  0
+3DFACE
+  8
+CORECIRCULATION1_CIRCULATION
+ 62
+ 43
+ 10
+       19.28814
+ 20
+        9.10290
+ 30
+        8.46196
+ 11
+       19.36131
+ 21
+        9.10290
+ 31
+        8.00000
+ 12
+       19.36131
+ 22
+       26.08290
+ 32
+        8.00000
+ 13
+       19.28814
+ 23
+       26.08290
+ 33
+        8.46196
+999
+CORECIRCULATION1:CIRCULATION:ROOFLIGHT1:COREROOFLIGHT_WALL_7_0_0_0_0_0_WIN
+  0
+3DFACE
+  8
+CORECIRCULATION1_CIRCULATION
+ 62
+143
+ 10
+       19.28861
+ 20
+        9.10590
+ 30
+        8.45900
+ 11
+       19.36084
+ 21
+        9.10590
+ 31
+        8.00296
+ 12
+       19.36084
+ 22
+       26.07990
+ 32
+        8.00296
+ 13
+       19.28861
+ 23
+       26.07990
+ 33
+        8.45900
+999
+CORECIRCULATION1:CIRCULATION:ROOFLIGHT1:COREROOFLIGHT_WALL_7_0_1
+  0
+3DFACE
+  8
+CORECIRCULATION1_CIRCULATION
+ 62
+ 43
+ 10
+       19.28333
+ 20
+        9.10290
+ 30
+        8.49236
+ 11
+       19.28814
+ 21
+        9.10290
+ 31
+        8.46196
+ 12
+       19.28814
+ 22
+       26.08290
+ 32
+        8.46196
+ 13
+       19.28333
+ 23
+       26.08290
+ 33
+        8.49236
+999
+CORECIRCULATION1:CIRCULATION:ROOFLIGHT1:COREROOFLIGHT_PARTITION_12_0_0
+  0
+3DFACE
+  8
+CORECIRCULATION1_CIRCULATION
+ 62
+ 43
+ 10
+       16.45955
+ 20
+        9.10290
+ 30
+        8.49236
+ 11
+       16.38157
+ 21
+        9.10290
+ 31
+        8.00000
+ 12
+       19.36131
+ 22
+        9.10290
+ 32
+        8.00000
+ 13
+       19.36131
+ 23
+        9.10290
+ 33
+        8.00000
+  0
+3DFACE
+  8
+CORECIRCULATION1_CIRCULATION
+ 62
+ 43
+ 10
+       19.36131
+ 20
+        9.10290
+ 30
+        8.00000
+ 11
+       19.28333
+ 21
+        9.10290
+ 31
+        8.49236
+ 12
+       19.08496
+ 22
+        9.10290
+ 32
+        8.88167
+ 13
+       19.08496
+ 23
+        9.10290
+ 33
+        8.88167
+  0
+3DFACE
+  8
+CORECIRCULATION1_CIRCULATION
+ 62
+ 43
+ 10
+       19.36131
+ 20
+        9.10290
+ 30
+        8.00000
+ 11
+       19.08496
+ 21
+        9.10290
+ 31
+        8.88167
+ 12
+       18.75311
+ 22
+        9.10290
+ 32
+        9.21352
+ 13
+       18.75311
+ 23
+        9.10290
+ 33
+        9.21352
+  0
+3DFACE
+  8
+CORECIRCULATION1_CIRCULATION
+ 62
+ 43
+ 10
+       19.36131
+ 20
+        9.10290
+ 30
+        8.00000
+ 11
+       18.75311
+ 21
+        9.10290
+ 31
+        9.21352
+ 12
+       18.33496
+ 22
+        9.10290
+ 32
+        9.42658
+ 13
+       18.33496
+ 23
+        9.10290
+ 33
+        9.42658
+  0
+3DFACE
+  8
+CORECIRCULATION1_CIRCULATION
+ 62
+ 43
+ 10
+       19.36131
+ 20
+        9.10290
+ 30
+        8.00000
+ 11
+       18.33496
+ 21
+        9.10290
+ 31
+        9.42658
+ 12
+       17.87144
+ 22
+        9.10290
+ 32
+        9.49999
+ 13
+       17.87144
+ 23
+        9.10290
+ 33
+        9.49999
+  0
+3DFACE
+  8
+CORECIRCULATION1_CIRCULATION
+ 62
+ 43
+ 10
+       19.36131
+ 20
+        9.10290
+ 30
+        8.00000
+ 11
+       17.87144
+ 21
+        9.10290
+ 31
+        9.49999
+ 12
+       17.40792
+ 22
+        9.10290
+ 32
+        9.42658
+ 13
+       17.40792
+ 23
+        9.10290
+ 33
+        9.42658
+  0
+3DFACE
+  8
+CORECIRCULATION1_CIRCULATION
+ 62
+ 43
+ 10
+       19.36131
+ 20
+        9.10290
+ 30
+        8.00000
+ 11
+       17.40792
+ 21
+        9.10290
+ 31
+        9.42658
+ 12
+       16.98977
+ 22
+        9.10290
+ 32
+        9.21352
+ 13
+       16.98977
+ 23
+        9.10290
+ 33
+        9.21352
+  0
+3DFACE
+  8
+CORECIRCULATION1_CIRCULATION
+ 62
+ 43
+ 10
+       19.36131
+ 20
+        9.10290
+ 30
+        8.00000
+ 11
+       16.98977
+ 21
+        9.10290
+ 31
+        9.21352
+ 12
+       16.65792
+ 22
+        9.10290
+ 32
+        8.88167
+ 13
+       16.65792
+ 23
+        9.10290
+ 33
+        8.88167
+  0
+3DFACE
+  8
+CORECIRCULATION1_CIRCULATION
+ 62
+ 43
+ 10
+       16.45955
+ 20
+        9.10290
+ 30
+        8.49236
+ 11
+       19.36131
+ 21
+        9.10290
+ 31
+        8.00000
+ 12
+       16.65792
+ 22
+        9.10290
+ 32
+        8.88167
+ 13
+       16.65792
+ 23
+        9.10290
+ 33
+        8.88167
+999
+CORECIRCULATION1:CIRCULATION:ROOFLIGHT1:COREROOFLIGHT_PARTITION_12_0_0_0_0_0_WIN
+  0
+3DFACE
+  8
+CORECIRCULATION1_CIRCULATION
+ 62
+143
+ 10
+       18.33756
+ 20
+        9.10290
+ 30
+        9.42189
+ 11
+       19.35245
+ 21
+        9.10290
+ 31
+        8.01276
+ 12
+       18.75118
+ 22
+        9.10290
+ 32
+        9.21114
+ 13
+       18.75118
+ 23
+        9.10290
+ 33
+        9.21114
+999
+CORECIRCULATION1:CIRCULATION:ROOFLIGHT1:COREROOFLIGHT_PARTITION_12_0_0_1_0_0_WIN
+  0
+3DFACE
+  8
+CORECIRCULATION1_CIRCULATION
+ 62
+143
+ 10
+       18.75811
+ 20
+        9.10290
+ 30
+        9.20177
+ 11
+       19.35697
+ 21
+        9.10290
+ 31
+        8.00821
+ 12
+       19.28045
+ 22
+        9.10290
+ 32
+        8.49133
+ 13
+       19.28045
+ 23
+        9.10290
+ 33
+        8.49133
+999
+CORECIRCULATION1:CIRCULATION:ROOFLIGHT1:COREROOFLIGHT_PARTITION_12_0_0_4_0_0_WIN
+  0
+3DFACE
+  8
+CORECIRCULATION1_CIRCULATION
+ 62
+143
+ 10
+       17.40911
+ 20
+        9.10290
+ 30
+        9.42373
+ 11
+       16.39209
+ 21
+        9.10290
+ 31
+        8.01164
+ 12
+       17.86857
+ 22
+        9.10290
+ 32
+        9.49650
+ 13
+       17.86857
+ 23
+        9.10290
+ 33
+        9.49650
+999
+CORECIRCULATION1:CIRCULATION:ROOFLIGHT1:COREROOFLIGHT_PARTITION_12_0_0_5_0_0_WIN
+  0
+3DFACE
+  8
+CORECIRCULATION1_CIRCULATION
+ 62
+143
+ 10
+       17.87144
+ 20
+        9.10290
+ 30
+        9.49655
+ 11
+       16.38632
+ 21
+        9.10290
+ 31
+        8.00300
+ 12
+       19.35656
+ 22
+        9.10290
+ 32
+        8.00300
+ 13
+       19.35656
+ 23
+        9.10290
+ 33
+        8.00300
+999
+CORECIRCULATION1:CIRCULATION:CORECIRCULATION1:CIRCULATION_GROUNDFLOOR_0_0_0
+  0
+3DFACE
+  8
+CORECIRCULATION1_CIRCULATION
+ 62
+  8
+ 10
+       16.37144
+ 20
+        9.09290
+ 30
+        0.00000
+ 11
+       16.37144
+ 21
+       26.08665
+ 31
+        0.00000
+ 12
+       19.37144
+ 22
+       26.08665
+ 32
+        0.00000
+ 13
+       19.37144
+ 23
+        9.09290
+ 33
+        0.00000
+999
+CORECIRCULATION1:CIRCULATION:ROOFLIGHT1:COREROOFLIGHT_ROOF_1_0_0
+  0
+3DFACE
+  8
+CORECIRCULATION1_CIRCULATION
+ 62
+ 15
+ 10
+       17.40792
+ 20
+       26.08290
+ 30
+        9.42658
+ 11
+       16.98977
+ 21
+       26.08290
+ 31
+        9.21352
+ 12
+       16.98977
+ 22
+        9.10290
+ 32
+        9.21352
+ 13
+       17.40792
+ 23
+        9.10290
+ 33
+        9.42658
+999
+CORECIRCULATION1:CIRCULATION:ROOFLIGHT1:COREROOFLIGHT_ROOF_1_0_0_0_0_0_WIN
+  0
+3DFACE
+  8
+CORECIRCULATION1_CIRCULATION
+ 62
+143
+ 10
+       17.40524
+ 20
+       26.07990
+ 30
+        9.42522
+ 11
+       16.99244
+ 21
+       26.07990
+ 31
+        9.21488
+ 12
+       16.99244
+ 22
+        9.10590
+ 32
+        9.21488
+ 13
+       17.40524
+ 23
+        9.10590
+ 33
+        9.42522
+999
+CORECIRCULATION1:CIRCULATION:ROOFLIGHT1:COREROOFLIGHT_ROOF_2_0_0
+  0
+3DFACE
+  8
+CORECIRCULATION1_CIRCULATION
+ 62
+ 15
+ 10
+       17.87144
+ 20
+       26.08290
+ 30
+        9.49999
+ 11
+       17.40792
+ 21
+       26.08290
+ 31
+        9.42658
+ 12
+       17.40792
+ 22
+        9.10290
+ 32
+        9.42658
+ 13
+       17.87144
+ 23
+        9.10290
+ 33
+        9.49999
+999
+CORECIRCULATION1:CIRCULATION:ROOFLIGHT1:COREROOFLIGHT_ROOF_2_0_0_0_0_0_WIN
+  0
+3DFACE
+  8
+CORECIRCULATION1_CIRCULATION
+ 62
+143
+ 10
+       17.86848
+ 20
+       26.07990
+ 30
+        9.49952
+ 11
+       17.41088
+ 21
+       26.07990
+ 31
+        9.42705
+ 12
+       17.41088
+ 22
+        9.10590
+ 32
+        9.42705
+ 13
+       17.86848
+ 23
+        9.10590
+ 33
+        9.49952
+999
+CORECIRCULATION1:CIRCULATION:ROOFLIGHT1:COREROOFLIGHT_ROOF_3_0_0
+  0
+3DFACE
+  8
+CORECIRCULATION1_CIRCULATION
+ 62
+ 15
+ 10
+       16.98977
+ 20
+       26.08290
+ 30
+        9.21352
+ 11
+       16.65792
+ 21
+       26.08290
+ 31
+        8.88167
+ 12
+       16.65792
+ 22
+        9.10290
+ 32
+        8.88167
+ 13
+       16.98977
+ 23
+        9.10290
+ 33
+        9.21352
+999
+CORECIRCULATION1:CIRCULATION:ROOFLIGHT1:COREROOFLIGHT_ROOF_3_0_0_0_0_0_WIN
+  0
+3DFACE
+  8
+CORECIRCULATION1_CIRCULATION
+ 62
+143
+ 10
+       16.98764
+ 20
+       26.07990
+ 30
+        9.21140
+ 11
+       16.66004
+ 21
+       26.07990
+ 31
+        8.88379
+ 12
+       16.66004
+ 22
+        9.10590
+ 32
+        8.88379
+ 13
+       16.98764
+ 23
+        9.10590
+ 33
+        9.21140
+999
+CORECIRCULATION1:CIRCULATION:ROOFLIGHT1:COREROOFLIGHT_ROOF_4_0_0
+  0
+3DFACE
+  8
+CORECIRCULATION1_CIRCULATION
+ 62
+ 15
+ 10
+       16.65792
+ 20
+       26.08290
+ 30
+        8.88167
+ 11
+       16.45955
+ 21
+       26.08290
+ 31
+        8.49236
+ 12
+       16.45955
+ 22
+        9.10290
+ 32
+        8.49236
+ 13
+       16.65792
+ 23
+        9.10290
+ 33
+        8.88167
+999
+CORECIRCULATION1:CIRCULATION:ROOFLIGHT1:COREROOFLIGHT_ROOF_4_0_0_0_0_0_WIN
+  0
+3DFACE
+  8
+CORECIRCULATION1_CIRCULATION
+ 62
+143
+ 10
+       16.65656
+ 20
+       26.07990
+ 30
+        8.87900
+ 11
+       16.46092
+ 21
+       26.07990
+ 31
+        8.49503
+ 12
+       16.46092
+ 22
+        9.10590
+ 32
+        8.49503
+ 13
+       16.65656
+ 23
+        9.10590
+ 33
+        8.87900
+999
+CORECIRCULATION1:CIRCULATION:ROOFLIGHT1:COREROOFLIGHT_ROOF_8_0_0
+  0
+3DFACE
+  8
+CORECIRCULATION1_CIRCULATION
+ 62
+ 15
+ 10
+       19.08496
+ 20
+        9.10290
+ 30
+        8.88167
+ 11
+       19.28333
+ 21
+        9.10290
+ 31
+        8.49236
+ 12
+       19.28333
+ 22
+       26.08290
+ 32
+        8.49236
+ 13
+       19.08496
+ 23
+       26.08290
+ 33
+        8.88167
+999
+CORECIRCULATION1:CIRCULATION:ROOFLIGHT1:COREROOFLIGHT_ROOF_8_0_0_0_0_0_WIN
+  0
+3DFACE
+  8
+CORECIRCULATION1_CIRCULATION
+ 62
+143
+ 10
+       19.08632
+ 20
+        9.10590
+ 30
+        8.87900
+ 11
+       19.28197
+ 21
+        9.10590
+ 31
+        8.49503
+ 12
+       19.28197
+ 22
+       26.07990
+ 32
+        8.49503
+ 13
+       19.08632
+ 23
+       26.07990
+ 33
+        8.87900
+999
+CORECIRCULATION1:CIRCULATION:ROOFLIGHT1:COREROOFLIGHT_ROOF_9_0_0
+  0
+3DFACE
+  8
+CORECIRCULATION1_CIRCULATION
+ 62
+ 15
+ 10
+       18.75311
+ 20
+        9.10290
+ 30
+        9.21352
+ 11
+       19.08496
+ 21
+        9.10290
+ 31
+        8.88167
+ 12
+       19.08496
+ 22
+       26.08290
+ 32
+        8.88167
+ 13
+       18.75311
+ 23
+       26.08290
+ 33
+        9.21352
+999
+CORECIRCULATION1:CIRCULATION:ROOFLIGHT1:COREROOFLIGHT_ROOF_9_0_0_0_0_0_WIN
+  0
+3DFACE
+  8
+CORECIRCULATION1_CIRCULATION
+ 62
+143
+ 10
+       18.75524
+ 20
+        9.10590
+ 30
+        9.21140
+ 11
+       19.08284
+ 21
+        9.10590
+ 31
+        8.88379
+ 12
+       19.08284
+ 22
+       26.07990
+ 32
+        8.88379
+ 13
+       18.75524
+ 23
+       26.07990
+ 33
+        9.21140
+999
+CORECIRCULATION1:CIRCULATION:ROOFLIGHT1:COREROOFLIGHT_ROOF_10_0_0
+  0
+3DFACE
+  8
+CORECIRCULATION1_CIRCULATION
+ 62
+ 15
+ 10
+       18.33496
+ 20
+        9.10290
+ 30
+        9.42658
+ 11
+       18.75311
+ 21
+        9.10290
+ 31
+        9.21352
+ 12
+       18.75311
+ 22
+       26.08290
+ 32
+        9.21352
+ 13
+       18.33496
+ 23
+       26.08290
+ 33
+        9.42658
+999
+CORECIRCULATION1:CIRCULATION:ROOFLIGHT1:COREROOFLIGHT_ROOF_10_0_0_0_0_0_WIN
+  0
+3DFACE
+  8
+CORECIRCULATION1_CIRCULATION
+ 62
+143
+ 10
+       18.33764
+ 20
+        9.10590
+ 30
+        9.42522
+ 11
+       18.75044
+ 21
+        9.10590
+ 31
+        9.21488
+ 12
+       18.75044
+ 22
+       26.07990
+ 32
+        9.21488
+ 13
+       18.33764
+ 23
+       26.07990
+ 33
+        9.42522
+999
+CORECIRCULATION1:CIRCULATION:ROOFLIGHT1:COREROOFLIGHT_ROOF_11_0_0
+  0
+3DFACE
+  8
+CORECIRCULATION1_CIRCULATION
+ 62
+ 15
+ 10
+       17.87144
+ 20
+        9.10290
+ 30
+        9.49999
+ 11
+       18.33496
+ 21
+        9.10290
+ 31
+        9.42658
+ 12
+       18.33496
+ 22
+       26.08290
+ 32
+        9.42658
+ 13
+       17.87144
+ 23
+       26.08290
+ 33
+        9.49999
+999
+CORECIRCULATION1:CIRCULATION:ROOFLIGHT1:COREROOFLIGHT_ROOF_11_0_0_0_0_0_WIN
+  0
+3DFACE
+  8
+CORECIRCULATION1_CIRCULATION
+ 62
+143
+ 10
+       17.87440
+ 20
+        9.10590
+ 30
+        9.49952
+ 11
+       18.33200
+ 21
+        9.10590
+ 31
+        9.42705
+ 12
+       18.33200
+ 22
+       26.07990
+ 32
+        9.42705
+ 13
+       17.87440
+ 23
+       26.07990
+ 33
+        9.49952
+999
+ATRIUMRECEPTION1:RECEPTION:ATRIUMRECEPTION1:RECEPTION_PARTITION_1_0_10032
+  0
+3DFACE
+  8
+ATRIUMRECEPTION1_RECEPTION
+ 62
+ 43
+ 10
+       16.37144
+ 20
+        6.10137
+ 30
+        8.00000
+ 11
+       16.37144
+ 21
+        6.10137
+ 31
+        3.00000
+ 12
+       14.87144
+ 22
+        6.10137
+ 32
+        3.00000
+ 13
+       14.87144
+ 23
+        6.10137
+ 33
+        7.75000
+999
+ATRIUMRECEPTION1:RECEPTION:ATRIUMRECEPTION1:RECEPTION_PARTITION_2_0_10033
+  0
+3DFACE
+  8
+ATRIUMRECEPTION1_RECEPTION
+ 62
+ 43
+ 10
+       16.37144
+ 20
+        9.09290
+ 30
+        8.00000
+ 11
+       16.37144
+ 21
+        9.09290
+ 31
+        3.00000
+ 12
+       16.37144
+ 22
+        6.10137
+ 32
+        3.00000
+ 13
+       16.37144
+ 23
+        6.10137
+ 33
+        8.00000
+999
+ATRIUMRECEPTION1:RECEPTION:ATRIUMRECEPTION1:RECEPTION_PARTITION_6_0_10037
+  0
+3DFACE
+  8
+ATRIUMRECEPTION1_RECEPTION
+ 62
+ 43
+ 10
+       20.87144
+ 20
+        6.10137
+ 30
+        7.75000
+ 11
+       20.87144
+ 21
+        6.10137
+ 31
+        3.00000
+ 12
+       19.37144
+ 22
+        6.10137
+ 32
+        3.00000
+ 13
+       19.37144
+ 23
+        6.10137
+ 33
+        8.00000
+999
+ATRIUMRECEPTION1:RECEPTION:ATRIUMRECEPTION1:RECEPTION_PARTITION_7_0_10038
+  0
+3DFACE
+  8
+ATRIUMRECEPTION1_RECEPTION
+ 62
+ 43
+ 10
+       19.37144
+ 20
+        6.10137
+ 30
+        8.00000
+ 11
+       19.37144
+ 21
+        6.10137
+ 31
+        3.00000
+ 12
+       19.37144
+ 22
+        9.09290
+ 32
+        3.00000
+ 13
+       19.37144
+ 23
+        9.09290
+ 33
+        8.00000
+999
+ATRIUMRECEPTION1:RECEPTION:ATRIUMRECEPTION1:RECEPTION_PARTITION_7_0_10042
+  0
+3DFACE
+  8
+ATRIUMRECEPTION1_RECEPTION
+ 62
+ 43
+ 10
+       19.37144
+ 20
+        6.10165
+ 30
+        3.00000
+ 11
+       19.37144
+ 21
+        6.10165
+ 31
+        0.00000
+ 12
+       19.37144
+ 22
+        9.09290
+ 32
+        0.00000
+ 13
+       19.37144
+ 23
+        9.09290
+ 33
+        3.00000
+999
+ATRIUMRECEPTION1:RECEPTION:ATRIUMRECEPTION1:RECEPTION_PARTITION_6_0_10046
+  0
+3DFACE
+  8
+ATRIUMRECEPTION1_RECEPTION
+ 62
+ 43
+ 10
+       20.87144
+ 20
+        6.10165
+ 30
+        3.00000
+ 11
+       20.87144
+ 21
+        6.10165
+ 31
+        0.00000
+ 12
+       19.37144
+ 22
+        6.10165
+ 32
+        0.00000
+ 13
+       19.37144
+ 23
+        6.10165
+ 33
+        3.00000
+999
+ATRIUMRECEPTION1:RECEPTION:ATRIUMRECEPTION1:RECEPTION_PARTITION_2_0_10047
+  0
+3DFACE
+  8
+ATRIUMRECEPTION1_RECEPTION
+ 62
+ 43
+ 10
+       16.37144
+ 20
+        9.09290
+ 30
+        3.00000
+ 11
+       16.37144
+ 21
+        9.09290
+ 31
+        0.00000
+ 12
+       16.37144
+ 22
+        6.10165
+ 32
+        0.00000
+ 13
+       16.37144
+ 23
+        6.10165
+ 33
+        3.00000
+999
+ATRIUMRECEPTION1:RECEPTION:ATRIUMRECEPTION1:RECEPTION_PARTITION_1_0_10052
+  0
+3DFACE
+  8
+ATRIUMRECEPTION1_RECEPTION
+ 62
+ 43
+ 10
+       16.37144
+ 20
+        6.10165
+ 30
+        3.00000
+ 11
+       16.37144
+ 21
+        6.10165
+ 31
+        0.00000
+ 12
+       14.87144
+ 22
+        6.10165
+ 32
+        0.00000
+ 13
+       14.87144
+ 23
+        6.10165
+ 33
+        3.00000
+999
+ATRIUMRECEPTION1:RECEPTION:ATRIUMRECEPTION1:RECEPTION_PARTITION_8_0_10055
+  0
+3DFACE
+  8
+ATRIUMRECEPTION1_RECEPTION
+ 62
+ 43
+ 10
+       19.37144
+ 20
+        9.09290
+ 30
+        8.00000
+ 11
+       19.37144
+ 21
+        9.09290
+ 31
+        0.00000
+ 12
+       16.37144
+ 22
+        9.09290
+ 32
+        0.00000
+ 13
+       16.37144
+ 23
+        9.09290
+ 33
+        8.00000
+999
+ATRIUMRECEPTION1:RECEPTION:ATRIUMRECEPTION1:RECEPTION_PARTITION_8_0_0_0_0_0_DOOR_10057
+  0
+3DFACE
+  8
+ATRIUMRECEPTION1_RECEPTION
+ 62
+ 45
+ 10
+       17.57444
+ 20
+        9.09290
+ 30
+        1.99800
+ 11
+       17.57444
+ 21
+        9.09290
+ 31
+        0.00200
+ 12
+       16.47844
+ 22
+        9.09290
+ 32
+        0.00200
+ 13
+       16.47844
+ 23
+        9.09290
+ 33
+        1.99800
+999
+ATRIUMRECEPTION1:RECEPTION:ATRIUMRECEPTION1:RECEPTION_PARTITION_12_0_10057
+  0
+3DFACE
+  8
+ATRIUMRECEPTION1_RECEPTION
+ 62
+ 43
+ 10
+       19.28333
+ 20
+        9.10290
+ 30
+        8.49236
+ 11
+       19.36131
+ 21
+        9.10290
+ 31
+        8.00000
+ 12
+       16.38157
+ 22
+        9.10290
+ 32
+        8.00000
+ 13
+       16.38157
+ 23
+        9.10290
+ 33
+        8.00000
+  0
+3DFACE
+  8
+ATRIUMRECEPTION1_RECEPTION
+ 62
+ 43
+ 10
+       16.38157
+ 20
+        9.10290
+ 30
+        8.00000
+ 11
+       16.45955
+ 21
+        9.10290
+ 31
+        8.49236
+ 12
+       16.65792
+ 22
+        9.10290
+ 32
+        8.88167
+ 13
+       16.65792
+ 23
+        9.10290
+ 33
+        8.88167
+  0
+3DFACE
+  8
+ATRIUMRECEPTION1_RECEPTION
+ 62
+ 43
+ 10
+       16.38157
+ 20
+        9.10290
+ 30
+        8.00000
+ 11
+       16.65792
+ 21
+        9.10290
+ 31
+        8.88167
+ 12
+       16.98977
+ 22
+        9.10290
+ 32
+        9.21352
+ 13
+       16.98977
+ 23
+        9.10290
+ 33
+        9.21352
+  0
+3DFACE
+  8
+ATRIUMRECEPTION1_RECEPTION
+ 62
+ 43
+ 10
+       16.38157
+ 20
+        9.10290
+ 30
+        8.00000
+ 11
+       16.98977
+ 21
+        9.10290
+ 31
+        9.21352
+ 12
+       17.40792
+ 22
+        9.10290
+ 32
+        9.42658
+ 13
+       17.40792
+ 23
+        9.10290
+ 33
+        9.42658
+  0
+3DFACE
+  8
+ATRIUMRECEPTION1_RECEPTION
+ 62
+ 43
+ 10
+       16.38157
+ 20
+        9.10290
+ 30
+        8.00000
+ 11
+       17.40792
+ 21
+        9.10290
+ 31
+        9.42658
+ 12
+       17.87144
+ 22
+        9.10290
+ 32
+        9.49999
+ 13
+       17.87144
+ 23
+        9.10290
+ 33
+        9.49999
+  0
+3DFACE
+  8
+ATRIUMRECEPTION1_RECEPTION
+ 62
+ 43
+ 10
+       16.38157
+ 20
+        9.10290
+ 30
+        8.00000
+ 11
+       17.87144
+ 21
+        9.10290
+ 31
+        9.49999
+ 12
+       18.33496
+ 22
+        9.10290
+ 32
+        9.42658
+ 13
+       18.33496
+ 23
+        9.10290
+ 33
+        9.42658
+  0
+3DFACE
+  8
+ATRIUMRECEPTION1_RECEPTION
+ 62
+ 43
+ 10
+       16.38157
+ 20
+        9.10290
+ 30
+        8.00000
+ 11
+       18.33496
+ 21
+        9.10290
+ 31
+        9.42658
+ 12
+       18.75311
+ 22
+        9.10290
+ 32
+        9.21352
+ 13
+       18.75311
+ 23
+        9.10290
+ 33
+        9.21352
+  0
+3DFACE
+  8
+ATRIUMRECEPTION1_RECEPTION
+ 62
+ 43
+ 10
+       16.38157
+ 20
+        9.10290
+ 30
+        8.00000
+ 11
+       18.75311
+ 21
+        9.10290
+ 31
+        9.21352
+ 12
+       19.08496
+ 22
+        9.10290
+ 32
+        8.88167
+ 13
+       19.08496
+ 23
+        9.10290
+ 33
+        8.88167
+  0
+3DFACE
+  8
+ATRIUMRECEPTION1_RECEPTION
+ 62
+ 43
+ 10
+       19.28333
+ 20
+        9.10290
+ 30
+        8.49236
+ 11
+       16.38157
+ 21
+        9.10290
+ 31
+        8.00000
+ 12
+       19.08496
+ 22
+        9.10290
+ 32
+        8.88167
+ 13
+       19.08496
+ 23
+        9.10290
+ 33
+        8.88167
+999
+ATRIUMRECEPTION1:RECEPTION:ATRIUMRECEPTION1:RECEPTION_PARTITION_12_0_0_0_0_0_WIN_10059
+  0
+3DFACE
+  8
+ATRIUMRECEPTION1_RECEPTION
+ 62
+143
+ 10
+       18.75118
+ 20
+        9.10290
+ 30
+        9.21114
+ 11
+       19.35245
+ 21
+        9.10290
+ 31
+        8.01276
+ 12
+       18.33756
+ 22
+        9.10290
+ 32
+        9.42189
+ 13
+       18.33756
+ 23
+        9.10290
+ 33
+        9.42189
+999
+ATRIUMRECEPTION1:RECEPTION:ATRIUMRECEPTION1:RECEPTION_PARTITION_12_0_0_0_0_0_WIN_10060
+  0
+3DFACE
+  8
+ATRIUMRECEPTION1_RECEPTION
+ 62
+143
+ 10
+       19.28045
+ 20
+        9.10290
+ 30
+        8.49133
+ 11
+       19.35697
+ 21
+        9.10290
+ 31
+        8.00821
+ 12
+       18.75811
+ 22
+        9.10290
+ 32
+        9.20177
+ 13
+       18.75811
+ 23
+        9.10290
+ 33
+        9.20177
+999
+ATRIUMRECEPTION1:RECEPTION:ATRIUMRECEPTION1:RECEPTION_PARTITION_12_0_0_0_0_0_WIN_10061
+  0
+3DFACE
+  8
+ATRIUMRECEPTION1_RECEPTION
+ 62
+143
+ 10
+       17.86857
+ 20
+        9.10290
+ 30
+        9.49650
+ 11
+       16.39209
+ 21
+        9.10290
+ 31
+        8.01164
+ 12
+       17.40911
+ 22
+        9.10290
+ 32
+        9.42373
+ 13
+       17.40911
+ 23
+        9.10290
+ 33
+        9.42373
+999
+ATRIUMRECEPTION1:RECEPTION:ATRIUMRECEPTION1:RECEPTION_PARTITION_12_0_0_0_0_0_WIN_10062
+  0
+3DFACE
+  8
+ATRIUMRECEPTION1_RECEPTION
+ 62
+143
+ 10
+       17.87144
+ 20
+        9.10290
+ 30
+        9.49655
+ 11
+       19.35656
+ 21
+        9.10290
+ 31
+        8.00300
+ 12
+       16.38632
+ 22
+        9.10290
+ 32
+        8.00300
+ 13
+       16.38632
+ 23
+        9.10290
+ 33
+        8.00300
+999
+ATRIUMRECEPTION1:RECEPTION:ATRIUMRECEPTION1:RECEPTION_WALL_3_0_0
+  0
+3DFACE
+  8
+ATRIUMRECEPTION1_RECEPTION
+ 62
+ 43
+ 10
+       14.88144
+ 20
+        6.09290
+ 30
+        7.75000
+ 11
+       14.88144
+ 21
+        6.09290
+ 31
+        0.00000
+ 12
+       14.88144
+ 22
+        3.10290
+ 32
+        0.00000
+ 13
+       14.88144
+ 23
+        3.10290
+ 33
+        7.75000
+999
+ATRIUMRECEPTION1:RECEPTION:ATRIUMRECEPTION1:RECEPTION_WALL_3_0_0_0_0_0_WIN
+  0
+3DFACE
+  8
+ATRIUMRECEPTION1_RECEPTION
+ 62
+143
+ 10
+       14.88144
+ 20
+        6.08990
+ 30
+        7.74700
+ 11
+       14.88144
+ 21
+        6.08990
+ 31
+        0.00300
+ 12
+       14.88144
+ 22
+        3.10590
+ 32
+        0.00300
+ 13
+       14.88144
+ 23
+        3.10590
+ 33
+        7.74700
+999
+ATRIUMRECEPTION1:RECEPTION:ATRIUMRECEPTION1:RECEPTION_WALL_4_0_0
+  0
+3DFACE
+  8
+ATRIUMRECEPTION1_RECEPTION
+ 62
+ 43
+ 10
+       14.88144
+ 20
+        3.10290
+ 30
+        7.75166
+ 11
+       14.88144
+ 21
+        3.10290
+ 31
+        0.00000
+ 12
+       20.86144
+ 22
+        3.10290
+ 32
+        0.00000
+ 13
+       20.86144
+ 23
+        3.10290
+ 33
+        0.00000
+  0
+3DFACE
+  8
+ATRIUMRECEPTION1_RECEPTION
+ 62
+ 43
+ 10
+       20.86144
+ 20
+        3.10290
+ 30
+        0.00000
+ 11
+       20.86144
+ 21
+        3.10290
+ 31
+        7.75166
+ 12
+       19.37143
+ 22
+        3.10290
+ 32
+        8.00000
+ 13
+       19.37143
+ 23
+        3.10290
+ 33
+        8.00000
+  0
+3DFACE
+  8
+ATRIUMRECEPTION1_RECEPTION
+ 62
+ 43
+ 10
+       20.86144
+ 20
+        3.10290
+ 30
+        0.00000
+ 11
+       19.37143
+ 21
+        3.10290
+ 31
+        8.00000
+ 12
+       16.37145
+ 22
+        3.10290
+ 32
+        8.00000
+ 13
+       16.37145
+ 23
+        3.10290
+ 33
+        8.00000
+  0
+3DFACE
+  8
+ATRIUMRECEPTION1_RECEPTION
+ 62
+ 43
+ 10
+       14.88144
+ 20
+        3.10290
+ 30
+        7.75166
+ 11
+       20.86144
+ 21
+        3.10290
+ 31
+        0.00000
+ 12
+       16.37145
+ 22
+        3.10290
+ 32
+        8.00000
+ 13
+       16.37145
+ 23
+        3.10290
+ 33
+        8.00000
+999
+ATRIUMRECEPTION1:RECEPTION:ATRIUMRECEPTION1:RECEPTION_WALL_4_0_0_0_0_0_WIN
+  0
+3DFACE
+  8
+ATRIUMRECEPTION1_RECEPTION
+ 62
+143
+ 10
+       19.37251
+ 20
+        3.10290
+ 30
+        7.99678
+ 11
+       20.85844
+ 21
+        3.10290
+ 31
+        0.01284
+ 12
+       20.85844
+ 22
+        3.10290
+ 32
+        7.74912
+ 13
+       20.85844
+ 23
+        3.10290
+ 33
+        7.74912
+999
+ATRIUMRECEPTION1:RECEPTION:ATRIUMRECEPTION1:RECEPTION_WALL_4_0_0_1_0_0_WIN
+  0
+3DFACE
+  8
+ATRIUMRECEPTION1_RECEPTION
+ 62
+143
+ 10
+       16.37209
+ 20
+        3.10290
+ 30
+        7.99510
+ 11
+       14.88464
+ 21
+        3.10290
+ 31
+        0.00300
+ 12
+       20.85773
+ 22
+        3.10290
+ 32
+        0.00300
+ 13
+       20.85773
+ 23
+        3.10290
+ 33
+        0.00300
+999
+ATRIUMRECEPTION1:RECEPTION:ATRIUMRECEPTION1:RECEPTION_WALL_4_0_0_2_0_0_WIN
+  0
+3DFACE
+  8
+ATRIUMRECEPTION1_RECEPTION
+ 62
+143
+ 10
+       16.37332
+ 20
+        3.10290
+ 30
+        7.99700
+ 11
+       20.85735
+ 21
+        3.10290
+ 31
+        0.00777
+ 12
+       19.37044
+ 22
+        3.10290
+ 32
+        7.99700
+ 13
+       19.37044
+ 23
+        3.10290
+ 33
+        7.99700
+999
+ATRIUMRECEPTION1:RECEPTION:ATRIUMRECEPTION1:RECEPTION_WALL_5_0_0
+  0
+3DFACE
+  8
+ATRIUMRECEPTION1_RECEPTION
+ 62
+ 43
+ 10
+       20.86144
+ 20
+        3.10290
+ 30
+        7.75000
+ 11
+       20.86144
+ 21
+        3.10290
+ 31
+       -0.00000
+ 12
+       20.86144
+ 22
+        6.09290
+ 32
+       -0.00000
+ 13
+       20.86144
+ 23
+        6.09290
+ 33
+        7.75000
+999
+ATRIUMRECEPTION1:RECEPTION:ATRIUMRECEPTION1:RECEPTION_WALL_5_0_0_0_0_0_WIN
+  0
+3DFACE
+  8
+ATRIUMRECEPTION1_RECEPTION
+ 62
+143
+ 10
+       20.86144
+ 20
+        3.10590
+ 30
+        7.74700
+ 11
+       20.86144
+ 21
+        3.10590
+ 31
+        0.00300
+ 12
+       20.86144
+ 22
+        6.08990
+ 32
+        0.00300
+ 13
+       20.86144
+ 23
+        6.08990
+ 33
+        7.74700
+999
+ATRIUMRECEPTION1:RECEPTION:ROOFLIGHT1:RECEPTIONROOFLIGHT_WALL_0_0_0
+  0
+3DFACE
+  8
+ATRIUMRECEPTION1_RECEPTION
+ 62
+ 43
+ 10
+       16.45955
+ 20
+        3.10290
+ 30
+        8.49236
+ 11
+       16.38157
+ 21
+        3.10290
+ 31
+        8.00000
+ 12
+       19.36131
+ 22
+        3.10290
+ 32
+        8.00000
+ 13
+       19.36131
+ 23
+        3.10290
+ 33
+        8.00000
+  0
+3DFACE
+  8
+ATRIUMRECEPTION1_RECEPTION
+ 62
+ 43
+ 10
+       19.36131
+ 20
+        3.10290
+ 30
+        8.00000
+ 11
+       19.28333
+ 21
+        3.10290
+ 31
+        8.49236
+ 12
+       19.08496
+ 22
+        3.10290
+ 32
+        8.88167
+ 13
+       19.08496
+ 23
+        3.10290
+ 33
+        8.88167
+  0
+3DFACE
+  8
+ATRIUMRECEPTION1_RECEPTION
+ 62
+ 43
+ 10
+       19.36131
+ 20
+        3.10290
+ 30
+        8.00000
+ 11
+       19.08496
+ 21
+        3.10290
+ 31
+        8.88167
+ 12
+       18.75311
+ 22
+        3.10290
+ 32
+        9.21352
+ 13
+       18.75311
+ 23
+        3.10290
+ 33
+        9.21352
+  0
+3DFACE
+  8
+ATRIUMRECEPTION1_RECEPTION
+ 62
+ 43
+ 10
+       19.36131
+ 20
+        3.10290
+ 30
+        8.00000
+ 11
+       18.75311
+ 21
+        3.10290
+ 31
+        9.21352
+ 12
+       18.33496
+ 22
+        3.10290
+ 32
+        9.42658
+ 13
+       18.33496
+ 23
+        3.10290
+ 33
+        9.42658
+  0
+3DFACE
+  8
+ATRIUMRECEPTION1_RECEPTION
+ 62
+ 43
+ 10
+       19.36131
+ 20
+        3.10290
+ 30
+        8.00000
+ 11
+       18.33496
+ 21
+        3.10290
+ 31
+        9.42658
+ 12
+       17.87144
+ 22
+        3.10290
+ 32
+        9.49999
+ 13
+       17.87144
+ 23
+        3.10290
+ 33
+        9.49999
+  0
+3DFACE
+  8
+ATRIUMRECEPTION1_RECEPTION
+ 62
+ 43
+ 10
+       19.36131
+ 20
+        3.10290
+ 30
+        8.00000
+ 11
+       17.87144
+ 21
+        3.10290
+ 31
+        9.49999
+ 12
+       17.40792
+ 22
+        3.10290
+ 32
+        9.42658
+ 13
+       17.40792
+ 23
+        3.10290
+ 33
+        9.42658
+  0
+3DFACE
+  8
+ATRIUMRECEPTION1_RECEPTION
+ 62
+ 43
+ 10
+       19.36131
+ 20
+        3.10290
+ 30
+        8.00000
+ 11
+       17.40792
+ 21
+        3.10290
+ 31
+        9.42658
+ 12
+       16.98977
+ 22
+        3.10290
+ 32
+        9.21352
+ 13
+       16.98977
+ 23
+        3.10290
+ 33
+        9.21352
+  0
+3DFACE
+  8
+ATRIUMRECEPTION1_RECEPTION
+ 62
+ 43
+ 10
+       19.36131
+ 20
+        3.10290
+ 30
+        8.00000
+ 11
+       16.98977
+ 21
+        3.10290
+ 31
+        9.21352
+ 12
+       16.65792
+ 22
+        3.10290
+ 32
+        8.88167
+ 13
+       16.65792
+ 23
+        3.10290
+ 33
+        8.88167
+  0
+3DFACE
+  8
+ATRIUMRECEPTION1_RECEPTION
+ 62
+ 43
+ 10
+       16.45955
+ 20
+        3.10290
+ 30
+        8.49236
+ 11
+       19.36131
+ 21
+        3.10290
+ 31
+        8.00000
+ 12
+       16.65792
+ 22
+        3.10290
+ 32
+        8.88167
+ 13
+       16.65792
+ 23
+        3.10290
+ 33
+        8.88167
+999
+ATRIUMRECEPTION1:RECEPTION:ROOFLIGHT1:RECEPTIONROOFLIGHT_WALL_0_0_0_0_0_0_WIN
+  0
+3DFACE
+  8
+ATRIUMRECEPTION1_RECEPTION
+ 62
+143
+ 10
+       18.33756
+ 20
+        3.10290
+ 30
+        9.42189
+ 11
+       19.35245
+ 21
+        3.10290
+ 31
+        8.01276
+ 12
+       18.75118
+ 22
+        3.10290
+ 32
+        9.21114
+ 13
+       18.75118
+ 23
+        3.10290
+ 33
+        9.21114
+999
+ATRIUMRECEPTION1:RECEPTION:ROOFLIGHT1:RECEPTIONROOFLIGHT_WALL_0_0_0_1_0_0_WIN
+  0
+3DFACE
+  8
+ATRIUMRECEPTION1_RECEPTION
+ 62
+143
+ 10
+       18.75811
+ 20
+        3.10290
+ 30
+        9.20177
+ 11
+       19.35697
+ 21
+        3.10290
+ 31
+        8.00821
+ 12
+       19.28045
+ 22
+        3.10290
+ 32
+        8.49133
+ 13
+       19.28045
+ 23
+        3.10290
+ 33
+        8.49133
+999
+ATRIUMRECEPTION1:RECEPTION:ROOFLIGHT1:RECEPTIONROOFLIGHT_WALL_0_0_0_4_0_0_WIN
+  0
+3DFACE
+  8
+ATRIUMRECEPTION1_RECEPTION
+ 62
+143
+ 10
+       17.40911
+ 20
+        3.10290
+ 30
+        9.42373
+ 11
+       16.39209
+ 21
+        3.10290
+ 31
+        8.01164
+ 12
+       17.86857
+ 22
+        3.10290
+ 32
+        9.49650
+ 13
+       17.86857
+ 23
+        3.10290
+ 33
+        9.49650
+999
+ATRIUMRECEPTION1:RECEPTION:ROOFLIGHT1:RECEPTIONROOFLIGHT_WALL_0_0_0_5_0_0_WIN
+  0
+3DFACE
+  8
+ATRIUMRECEPTION1_RECEPTION
+ 62
+143
+ 10
+       17.87144
+ 20
+        3.10290
+ 30
+        9.49655
+ 11
+       16.38632
+ 21
+        3.10290
+ 31
+        8.00300
+ 12
+       19.35656
+ 22
+        3.10290
+ 32
+        8.00300
+ 13
+       19.35656
+ 23
+        3.10290
+ 33
+        8.00300
+999
+ATRIUMRECEPTION1:RECEPTION:ROOFLIGHT1:RECEPTIONROOFLIGHT_WALL_5_0_0
+  0
+3DFACE
+  8
+ATRIUMRECEPTION1_RECEPTION
+ 62
+ 43
+ 10
+       19.28814
+ 20
+        3.10290
+ 30
+        8.46196
+ 11
+       19.36131
+ 21
+        3.10290
+ 31
+        8.00000
+ 12
+       19.36131
+ 22
+        9.10290
+ 32
+        8.00000
+ 13
+       19.28814
+ 23
+        9.10290
+ 33
+        8.46196
+999
+ATRIUMRECEPTION1:RECEPTION:ROOFLIGHT1:RECEPTIONROOFLIGHT_WALL_5_0_0_0_0_0_WIN
+  0
+3DFACE
+  8
+ATRIUMRECEPTION1_RECEPTION
+ 62
+143
+ 10
+       19.28861
+ 20
+        3.10590
+ 30
+        8.45900
+ 11
+       19.36084
+ 21
+        3.10590
+ 31
+        8.00296
+ 12
+       19.36084
+ 22
+        9.09990
+ 32
+        8.00296
+ 13
+       19.28861
+ 23
+        9.09990
+ 33
+        8.45900
+999
+ATRIUMRECEPTION1:RECEPTION:ROOFLIGHT1:RECEPTIONROOFLIGHT_WALL_5_0_1
+  0
+3DFACE
+  8
+ATRIUMRECEPTION1_RECEPTION
+ 62
+ 43
+ 10
+       19.28333
+ 20
+        3.10290
+ 30
+        8.49236
+ 11
+       19.28814
+ 21
+        3.10290
+ 31
+        8.46196
+ 12
+       19.28814
+ 22
+        9.10290
+ 32
+        8.46196
+ 13
+       19.28333
+ 23
+        9.10290
+ 33
+        8.49236
+999
+ATRIUMRECEPTION1:RECEPTION:ROOFLIGHT1:RECEPTIONROOFLIGHT_WALL_7_0_0
+  0
+3DFACE
+  8
+ATRIUMRECEPTION1_RECEPTION
+ 62
+ 43
+ 10
+       16.45474
+ 20
+        9.10290
+ 30
+        8.46196
+ 11
+       16.38157
+ 21
+        9.10290
+ 31
+        8.00000
+ 12
+       16.38157
+ 22
+        3.10290
+ 32
+        8.00000
+ 13
+       16.45474
+ 23
+        3.10290
+ 33
+        8.46196
+999
+ATRIUMRECEPTION1:RECEPTION:ROOFLIGHT1:RECEPTIONROOFLIGHT_WALL_7_0_0_0_0_0_WIN
+  0
+3DFACE
+  8
+ATRIUMRECEPTION1_RECEPTION
+ 62
+143
+ 10
+       16.45427
+ 20
+        9.09990
+ 30
+        8.45900
+ 11
+       16.38204
+ 21
+        9.09990
+ 31
+        8.00296
+ 12
+       16.38204
+ 22
+        3.10590
+ 32
+        8.00296
+ 13
+       16.45427
+ 23
+        3.10590
+ 33
+        8.45900
+999
+ATRIUMRECEPTION1:RECEPTION:ROOFLIGHT1:RECEPTIONROOFLIGHT_WALL_7_0_1
+  0
+3DFACE
+  8
+ATRIUMRECEPTION1_RECEPTION
+ 62
+ 43
+ 10
+       16.45955
+ 20
+        9.10290
+ 30
+        8.49236
+ 11
+       16.45474
+ 21
+        9.10290
+ 31
+        8.46196
+ 12
+       16.45474
+ 22
+        3.10290
+ 32
+        8.46196
+ 13
+       16.45955
+ 23
+        3.10290
+ 33
+        8.49236
+999
+ATRIUMRECEPTION1:RECEPTION:ATRIUMRECEPTION1:RECEPTION_GROUNDFLOOR_0_0_0
+  0
+3DFACE
+  8
+ATRIUMRECEPTION1_RECEPTION
+ 62
+  8
+ 10
+       16.37144
+ 20
+        6.09290
+ 30
+        0.00000
+ 11
+       16.37144
+ 21
+        9.09290
+ 31
+        0.00000
+ 12
+       19.37144
+ 22
+        9.09290
+ 32
+        0.00000
+ 13
+       19.37144
+ 23
+        6.09290
+ 33
+        0.00000
+999
+ATRIUMRECEPTION1:RECEPTION:ATRIUMRECEPTION1:RECEPTION_GROUNDFLOOR_0_0_1
+  0
+3DFACE
+  8
+ATRIUMRECEPTION1_RECEPTION
+ 62
+  8
+ 10
+       14.88144
+ 20
+        3.10290
+ 30
+        0.00000
+ 11
+       14.88144
+ 21
+        6.09290
+ 31
+        0.00000
+ 12
+       20.86144
+ 22
+        6.09290
+ 32
+        0.00000
+ 13
+       20.86144
+ 23
+        3.10290
+ 33
+        0.00000
+999
+ATRIUMRECEPTION1:RECEPTION:ATRIUMRECEPTION1:RECEPTION_ROOF_9_0_0
+  0
+3DFACE
+  8
+ATRIUMRECEPTION1_RECEPTION
+ 62
+ 15
+ 10
+       16.37144
+ 20
+        6.09290
+ 30
+        8.00000
+ 11
+       14.88144
+ 21
+        6.09290
+ 31
+        7.75166
+ 12
+       14.88144
+ 22
+        3.10290
+ 32
+        7.75166
+ 13
+       16.37145
+ 23
+        3.10290
+ 33
+        8.00000
+999
+ATRIUMRECEPTION1:RECEPTION:ATRIUMRECEPTION1:RECEPTION_ROOF_9_0_0_0_0_0_WIN
+  0
+3DFACE
+  8
+ATRIUMRECEPTION1_RECEPTION
+ 62
+143
+ 10
+       16.36848
+ 20
+        6.08990
+ 30
+        7.99951
+ 11
+       14.88440
+ 21
+        6.08990
+ 31
+        7.75216
+ 12
+       14.88440
+ 22
+        3.10590
+ 32
+        7.75216
+ 13
+       16.36849
+ 23
+        3.10590
+ 33
+        7.99951
+999
+ATRIUMRECEPTION1:RECEPTION:ATRIUMRECEPTION1:RECEPTION_ROOF_11_0_0
+  0
+3DFACE
+  8
+ATRIUMRECEPTION1_RECEPTION
+ 62
+ 15
+ 10
+       19.37143
+ 20
+        3.10290
+ 30
+        8.00000
+ 11
+       20.86144
+ 21
+        3.10290
+ 31
+        7.75166
+ 12
+       20.86144
+ 22
+        6.09290
+ 32
+        7.75166
+ 13
+       19.37144
+ 23
+        6.09290
+ 33
+        8.00000
+999
+ATRIUMRECEPTION1:RECEPTION:ATRIUMRECEPTION1:RECEPTION_ROOF_11_0_0_0_0_0_WIN
+  0
+3DFACE
+  8
+ATRIUMRECEPTION1_RECEPTION
+ 62
+143
+ 10
+       19.37439
+ 20
+        3.10590
+ 30
+        7.99951
+ 11
+       20.85848
+ 21
+        3.10590
+ 31
+        7.75216
+ 12
+       20.85848
+ 22
+        6.08990
+ 32
+        7.75216
+ 13
+       19.37440
+ 23
+        6.08990
+ 33
+        7.99951
+999
+ATRIUMRECEPTION1:RECEPTION:ROOFLIGHT1:RECEPTIONROOFLIGHT_ROOF_1_0_0
+  0
+3DFACE
+  8
+ATRIUMRECEPTION1_RECEPTION
+ 62
+ 15
+ 10
+       17.87144
+ 20
+        3.10290
+ 30
+        9.49999
+ 11
+       18.33496
+ 21
+        3.10290
+ 31
+        9.42658
+ 12
+       18.33496
+ 22
+        9.10290
+ 32
+        9.42658
+ 13
+       17.87144
+ 23
+        9.10290
+ 33
+        9.49999
+999
+ATRIUMRECEPTION1:RECEPTION:ROOFLIGHT1:RECEPTIONROOFLIGHT_ROOF_1_0_0_0_0_0_WIN
+  0
+3DFACE
+  8
+ATRIUMRECEPTION1_RECEPTION
+ 62
+143
+ 10
+       17.87440
+ 20
+        3.10590
+ 30
+        9.49952
+ 11
+       18.33200
+ 21
+        3.10590
+ 31
+        9.42705
+ 12
+       18.33200
+ 22
+        9.09990
+ 32
+        9.42705
+ 13
+       17.87440
+ 23
+        9.09990
+ 33
+        9.49952
+999
+ATRIUMRECEPTION1:RECEPTION:ROOFLIGHT1:RECEPTIONROOFLIGHT_ROOF_2_0_0
+  0
+3DFACE
+  8
+ATRIUMRECEPTION1_RECEPTION
+ 62
+ 15
+ 10
+       18.33496
+ 20
+        3.10290
+ 30
+        9.42658
+ 11
+       18.75311
+ 21
+        3.10290
+ 31
+        9.21352
+ 12
+       18.75311
+ 22
+        9.10290
+ 32
+        9.21352
+ 13
+       18.33496
+ 23
+        9.10290
+ 33
+        9.42658
+999
+ATRIUMRECEPTION1:RECEPTION:ROOFLIGHT1:RECEPTIONROOFLIGHT_ROOF_2_0_0_0_0_0_WIN
+  0
+3DFACE
+  8
+ATRIUMRECEPTION1_RECEPTION
+ 62
+143
+ 10
+       18.33764
+ 20
+        3.10590
+ 30
+        9.42522
+ 11
+       18.75044
+ 21
+        3.10590
+ 31
+        9.21488
+ 12
+       18.75044
+ 22
+        9.09990
+ 32
+        9.21488
+ 13
+       18.33764
+ 23
+        9.09990
+ 33
+        9.42522
+999
+ATRIUMRECEPTION1:RECEPTION:ROOFLIGHT1:RECEPTIONROOFLIGHT_ROOF_3_0_0
+  0
+3DFACE
+  8
+ATRIUMRECEPTION1_RECEPTION
+ 62
+ 15
+ 10
+       18.75311
+ 20
+        3.10290
+ 30
+        9.21352
+ 11
+       19.08496
+ 21
+        3.10290
+ 31
+        8.88167
+ 12
+       19.08496
+ 22
+        9.10290
+ 32
+        8.88167
+ 13
+       18.75311
+ 23
+        9.10290
+ 33
+        9.21352
+999
+ATRIUMRECEPTION1:RECEPTION:ROOFLIGHT1:RECEPTIONROOFLIGHT_ROOF_3_0_0_0_0_0_WIN
+  0
+3DFACE
+  8
+ATRIUMRECEPTION1_RECEPTION
+ 62
+143
+ 10
+       18.75524
+ 20
+        3.10590
+ 30
+        9.21140
+ 11
+       19.08284
+ 21
+        3.10590
+ 31
+        8.88379
+ 12
+       19.08284
+ 22
+        9.09990
+ 32
+        8.88379
+ 13
+       18.75524
+ 23
+        9.09990
+ 33
+        9.21140
+999
+ATRIUMRECEPTION1:RECEPTION:ROOFLIGHT1:RECEPTIONROOFLIGHT_ROOF_4_0_0
+  0
+3DFACE
+  8
+ATRIUMRECEPTION1_RECEPTION
+ 62
+ 15
+ 10
+       19.08496
+ 20
+        3.10290
+ 30
+        8.88167
+ 11
+       19.28333
+ 21
+        3.10290
+ 31
+        8.49236
+ 12
+       19.28333
+ 22
+        9.10290
+ 32
+        8.49236
+ 13
+       19.08496
+ 23
+        9.10290
+ 33
+        8.88167
+999
+ATRIUMRECEPTION1:RECEPTION:ROOFLIGHT1:RECEPTIONROOFLIGHT_ROOF_4_0_0_0_0_0_WIN
+  0
+3DFACE
+  8
+ATRIUMRECEPTION1_RECEPTION
+ 62
+143
+ 10
+       19.08632
+ 20
+        3.10590
+ 30
+        8.87900
+ 11
+       19.28197
+ 21
+        3.10590
+ 31
+        8.49503
+ 12
+       19.28197
+ 22
+        9.09990
+ 32
+        8.49503
+ 13
+       19.08632
+ 23
+        9.09990
+ 33
+        8.87900
+999
+ATRIUMRECEPTION1:RECEPTION:ROOFLIGHT1:RECEPTIONROOFLIGHT_ROOF_8_0_0
+  0
+3DFACE
+  8
+ATRIUMRECEPTION1_RECEPTION
+ 62
+ 15
+ 10
+       16.65792
+ 20
+        9.10290
+ 30
+        8.88167
+ 11
+       16.45955
+ 21
+        9.10290
+ 31
+        8.49236
+ 12
+       16.45955
+ 22
+        3.10290
+ 32
+        8.49236
+ 13
+       16.65792
+ 23
+        3.10290
+ 33
+        8.88167
+999
+ATRIUMRECEPTION1:RECEPTION:ROOFLIGHT1:RECEPTIONROOFLIGHT_ROOF_8_0_0_0_0_0_WIN
+  0
+3DFACE
+  8
+ATRIUMRECEPTION1_RECEPTION
+ 62
+143
+ 10
+       16.65656
+ 20
+        9.09990
+ 30
+        8.87900
+ 11
+       16.46092
+ 21
+        9.09990
+ 31
+        8.49503
+ 12
+       16.46092
+ 22
+        3.10590
+ 32
+        8.49503
+ 13
+       16.65656
+ 23
+        3.10590
+ 33
+        8.87900
+999
+ATRIUMRECEPTION1:RECEPTION:ROOFLIGHT1:RECEPTIONROOFLIGHT_ROOF_9_0_0
+  0
+3DFACE
+  8
+ATRIUMRECEPTION1_RECEPTION
+ 62
+ 15
+ 10
+       16.98977
+ 20
+        9.10290
+ 30
+        9.21352
+ 11
+       16.65792
+ 21
+        9.10290
+ 31
+        8.88167
+ 12
+       16.65792
+ 22
+        3.10290
+ 32
+        8.88167
+ 13
+       16.98977
+ 23
+        3.10290
+ 33
+        9.21352
+999
+ATRIUMRECEPTION1:RECEPTION:ROOFLIGHT1:RECEPTIONROOFLIGHT_ROOF_9_0_0_0_0_0_WIN
+  0
+3DFACE
+  8
+ATRIUMRECEPTION1_RECEPTION
+ 62
+143
+ 10
+       16.98764
+ 20
+        9.09990
+ 30
+        9.21140
+ 11
+       16.66004
+ 21
+        9.09990
+ 31
+        8.88379
+ 12
+       16.66004
+ 22
+        3.10590
+ 32
+        8.88379
+ 13
+       16.98764
+ 23
+        3.10590
+ 33
+        9.21140
+999
+ATRIUMRECEPTION1:RECEPTION:ROOFLIGHT1:RECEPTIONROOFLIGHT_ROOF_10_0_0
+  0
+3DFACE
+  8
+ATRIUMRECEPTION1_RECEPTION
+ 62
+ 15
+ 10
+       17.40792
+ 20
+        9.10290
+ 30
+        9.42658
+ 11
+       16.98977
+ 21
+        9.10290
+ 31
+        9.21352
+ 12
+       16.98977
+ 22
+        3.10290
+ 32
+        9.21352
+ 13
+       17.40792
+ 23
+        3.10290
+ 33
+        9.42658
+999
+ATRIUMRECEPTION1:RECEPTION:ROOFLIGHT1:RECEPTIONROOFLIGHT_ROOF_10_0_0_0_0_0_WIN
+  0
+3DFACE
+  8
+ATRIUMRECEPTION1_RECEPTION
+ 62
+143
+ 10
+       17.40524
+ 20
+        9.09990
+ 30
+        9.42522
+ 11
+       16.99244
+ 21
+        9.09990
+ 31
+        9.21488
+ 12
+       16.99244
+ 22
+        3.10590
+ 32
+        9.21488
+ 13
+       17.40524
+ 23
+        3.10590
+ 33
+        9.42522
+999
+ATRIUMRECEPTION1:RECEPTION:ROOFLIGHT1:RECEPTIONROOFLIGHT_ROOF_11_0_0
+  0
+3DFACE
+  8
+ATRIUMRECEPTION1_RECEPTION
+ 62
+ 15
+ 10
+       17.87144
+ 20
+        9.10290
+ 30
+        9.49999
+ 11
+       17.40792
+ 21
+        9.10290
+ 31
+        9.42658
+ 12
+       17.40792
+ 22
+        3.10290
+ 32
+        9.42658
+ 13
+       17.87144
+ 23
+        3.10290
+ 33
+        9.49999
+999
+ATRIUMRECEPTION1:RECEPTION:ROOFLIGHT1:RECEPTIONROOFLIGHT_ROOF_11_0_0_0_0_0_WIN
+  0
+3DFACE
+  8
+ATRIUMRECEPTION1_RECEPTION
+ 62
+143
+ 10
+       17.86848
+ 20
+        9.09990
+ 30
+        9.49952
+ 11
+       17.41088
+ 21
+        9.09990
+ 31
+        9.42705
+ 12
+       17.41088
+ 22
+        3.10590
+ 32
+        9.42705
+ 13
+       17.86848
+ 23
+        3.10590
+ 33
+        9.49952
+999
+BLOCK1:ZONE1:BLOCK1:ZONE1_PARTITION_5_0_10010
+  0
+3DFACE
+  8
+BLOCK1_ZONE1
+ 62
+ 43
+ 10
+       16.37144
+ 20
+       33.93264
+ 30
+        3.00000
+ 11
+       16.37144
+ 21
+       33.93264
+ 31
+        0.00000
+ 12
+        4.38144
+ 22
+       33.93264
+ 32
+        0.00000
+ 13
+        4.38144
+ 23
+       33.93264
+ 33
+        3.00000
+999
+BLOCK1:ZONE1:BLOCK1:ZONE1_PARTITION_5_0_10020
+  0
+3DFACE
+  8
+BLOCK1_ZONE1
+ 62
+ 43
+ 10
+       31.36144
+ 20
+       33.93264
+ 30
+        3.00000
+ 11
+       31.36144
+ 21
+       33.93264
+ 31
+        0.00000
+ 12
+       19.37144
+ 22
+       33.93264
+ 32
+        0.00000
+ 13
+       19.37144
+ 23
+       33.93264
+ 33
+        3.00000
+999
+BLOCK1:ZONE1:BLOCK1:ZONE1_PARTITION_5_0_10022
+  0
+3DFACE
+  8
+BLOCK1_ZONE1
+ 62
+ 43
+ 10
+       19.37144
+ 20
+       33.93889
+ 30
+        3.00000
+ 11
+       19.37144
+ 21
+       33.93889
+ 31
+        0.00000
+ 12
+       16.37144
+ 22
+       33.93889
+ 32
+        0.00000
+ 13
+       16.37144
+ 23
+       33.93889
+ 33
+        3.00000
+999
+BLOCK1:ZONE1:BLOCK1:ZONE1_PARTITION_5_0_0_0_0_0_DOOR_10024
+  0
+3DFACE
+  8
+BLOCK1_ZONE1
+ 62
+ 45
+ 10
+       17.57444
+ 20
+       33.93889
+ 30
+        1.99800
+ 11
+       17.57444
+ 21
+       33.93889
+ 31
+        0.00200
+ 12
+       16.47844
+ 22
+       33.93889
+ 32
+        0.00200
+ 13
+       16.47844
+ 23
+       33.93889
+ 33
+        1.99800
+999
+BLOCK1:ZONE1:BLOCK1:ZONE1_PARTITION_3_0_10041
+  0
+3DFACE
+  8
+BLOCK1_ZONE1
+ 62
+ 43
+ 10
+       19.37144
+ 20
+       26.09290
+ 30
+        3.00000
+ 11
+       19.37144
+ 21
+       26.09290
+ 31
+        0.00000
+ 12
+       31.36144
+ 22
+       26.09290
+ 32
+        0.00000
+ 13
+       31.36144
+ 23
+       26.09290
+ 33
+        3.00000
+999
+BLOCK1:ZONE1:BLOCK1:ZONE1_PARTITION_3_0_10051
+  0
+3DFACE
+  8
+BLOCK1_ZONE1
+ 62
+ 43
+ 10
+        4.38144
+ 20
+       26.09290
+ 30
+        3.00000
+ 11
+        4.38144
+ 21
+       26.09290
+ 31
+        0.00000
+ 12
+       16.37144
+ 22
+       26.09290
+ 32
+        0.00000
+ 13
+       16.37144
+ 23
+       26.09290
+ 33
+        3.00000
+999
+BLOCK1:ZONE1:BLOCK1:ZONE1_PARTITION_3_0_10053
+  0
+3DFACE
+  8
+BLOCK1_ZONE1
+ 62
+ 43
+ 10
+       16.37144
+ 20
+       26.08665
+ 30
+        3.00000
+ 11
+       16.37144
+ 21
+       26.08665
+ 31
+        0.00000
+ 12
+       19.37144
+ 22
+       26.08665
+ 32
+        0.00000
+ 13
+       19.37144
+ 23
+       26.08665
+ 33
+        3.00000
+999
+BLOCK1:ZONE1:BLOCK1:ZONE1_PARTITION_3_0_0_0_0_0_DOOR_10055
+  0
+3DFACE
+  8
+BLOCK1_ZONE1
+ 62
+ 45
+ 10
+       18.16844
+ 20
+       26.08665
+ 30
+        1.99800
+ 11
+       18.16844
+ 21
+       26.08665
+ 31
+        0.00200
+ 12
+       19.26444
+ 22
+       26.08665
+ 32
+        0.00200
+ 13
+       19.26444
+ 23
+       26.08665
+ 33
+        1.99800
+999
+BLOCK1:ZONE1:BLOCK1:ZONE1_WALL_2_0_0
+  0
+3DFACE
+  8
+BLOCK1_ZONE1
+ 62
+ 43
+ 10
+        4.37144
+ 20
+       33.93264
+ 30
+        3.00000
+ 11
+        4.37144
+ 21
+       33.93264
+ 31
+        0.00000
+ 12
+        4.37144
+ 22
+       26.09290
+ 32
+        0.00000
+ 13
+        4.37144
+ 23
+       26.09290
+ 33
+        3.00000
+999
+BLOCK1:ZONE1:BLOCK1:ZONE1_WALL_2_0_0_0_0_0_WIN
+  0
+3DFACE
+  8
+BLOCK1_ZONE1
+ 62
+143
+ 10
+        4.37144
+ 20
+       32.32469
+ 30
+        2.26000
+ 11
+        4.37144
+ 21
+       32.32469
+ 31
+        0.84000
+ 12
+        4.37144
+ 22
+       27.70084
+ 32
+        0.84000
+ 13
+        4.37144
+ 23
+       27.70084
+ 33
+        2.26000
+999
+BLOCK1:ZONE1:BLOCK1:ZONE1_WALL_4_0_0
+  0
+3DFACE
+  8
+BLOCK1_ZONE1
+ 62
+ 43
+ 10
+       31.37144
+ 20
+       26.09290
+ 30
+        3.00000
+ 11
+       31.37144
+ 21
+       26.09290
+ 31
+        0.00000
+ 12
+       31.37144
+ 22
+       33.93264
+ 32
+        0.00000
+ 13
+       31.37144
+ 23
+       33.93264
+ 33
+        3.00000
+999
+BLOCK1:ZONE1:BLOCK1:ZONE1_WALL_4_0_0_0_0_0_WIN
+  0
+3DFACE
+  8
+BLOCK1_ZONE1
+ 62
+143
+ 10
+       31.37144
+ 20
+       27.70084
+ 30
+        2.26000
+ 11
+       31.37144
+ 21
+       27.70084
+ 31
+        0.84000
+ 12
+       31.37144
+ 22
+       32.32469
+ 32
+        0.84000
+ 13
+       31.37144
+ 23
+       32.32469
+ 33
+        2.26000
+999
+BLOCK1:ZONE1:BLOCK1:ZONE1_GROUNDFLOOR_0_0_0
+  0
+3DFACE
+  8
+BLOCK1_ZONE1
+ 62
+  8
+ 10
+        4.37144
+ 20
+       26.09290
+ 30
+        0.00000
+ 11
+        4.37144
+ 21
+       33.93264
+ 31
+        0.00000
+ 12
+       31.37144
+ 22
+       33.93264
+ 32
+        0.00000
+ 13
+       31.37144
+ 23
+       26.09290
+ 33
+        0.00000
+999
+BLOCK1:ZONE1:BLOCK1:ZONE1_ROOF_1_0_0
+  0
+3DFACE
+  8
+BLOCK1_ZONE1
+ 62
+ 15
+ 10
+       31.37144
+ 20
+       26.09290
+ 30
+        3.00000
+ 11
+       31.37144
+ 21
+       33.93264
+ 31
+        3.00000
+ 12
+        4.37144
+ 22
+       33.93264
+ 32
+        3.00000
+ 13
+        4.37144
+ 23
+       26.09290
+ 33
+        3.00000
+  0
+ENDSEC
+  0
+EOF

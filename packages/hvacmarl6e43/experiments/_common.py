@@ -64,6 +64,10 @@ class OfficeBuildingObserver:
             room_id: system[OutputVariable.Ref('Zone Mean Air Temperature', zone_key)]
             for room_id, zone_key in system.zone_keys.items() 
         }
+        Radiant_Temperature	 = {
+            room_id: system[OutputVariable.Ref('Zone Mean Radiant Temperature', zone_key)]
+            for room_id, zone_key in system.zone_keys.items()
+        }
         sp_vars = {
             room_id: system[
                 # Actuator.Ref(
@@ -77,6 +81,7 @@ class OfficeBuildingObserver:
                     f'{zone_key} COOLING SETPOINT SCHEDULE',
                 )
             ]
+        
             for room_id, zone_key in system.zone_keys.items()
         }
 
@@ -98,6 +103,8 @@ class OfficeBuildingObserver:
                         'pmv': pmv_vars[room_id].value,
                         'temp': tdb_vars[room_id].value,
                         'temp:setpoint': sp_vars[room_id].value,
+                        'outdoor_temp': system[OutputVariable.Ref('Site Outdoor Air Drybulb Temperature', 'ENVIRONMENT')].value,
+                        'Radiant_Temperature' : Radiant_Temperature[room_id].value
                     })
                 except TemporaryUnavailableError:
                     pass

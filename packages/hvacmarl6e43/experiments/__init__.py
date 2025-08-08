@@ -12,6 +12,7 @@ from .baseline import BaselineExperiment
 baseline_experiments = {
     str(setpoint) if setpoint is not None else 'default'
         : BaselineExperiment(setpoint=setpoint)
+    # for setpoint in _numpy_.arange(22.5, 24.2, .1)
     for setpoint in _numpy_.arange(23., 25.)
 }
 

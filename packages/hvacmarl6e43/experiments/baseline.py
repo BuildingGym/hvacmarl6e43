@@ -16,7 +16,7 @@ class OfficeBuildingController:
         def begin_f(*args, **kwargs):
             system.events['begin'].off(begin_f)
             system[OutputVariable.Ref('Schedule Value', 'Office_OpenOff_Occ')]
-
+            
         @system.events['timestep'].on
         def timestep_f(*args, **kwargs):
             for x in system.zone_keys.values():
