@@ -161,7 +161,7 @@ class CommonExperiment(BaseExperiment, _abc_.ABC):
             building.events['end'].off(end_f)
             if not dryrun:
                 DataFrameStore(
-                    self._base_storage / 'observations:eval'
+                    self._base_storage / 'observations_eval'
                 ).set(observer.observation_dfs)
 
     @_abc_.abstractmethod
@@ -170,6 +170,6 @@ class CommonExperiment(BaseExperiment, _abc_.ABC):
 
     def get_results(self, *args, **kwargs):
         return CommonExperimentResult(
-            observations=DataFrameStore(self._base_storage / 'observations:eval').get(),
+            observations=DataFrameStore(self._base_storage / 'observations_eval').get(),
         )
 

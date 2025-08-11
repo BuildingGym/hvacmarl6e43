@@ -95,10 +95,10 @@ class CommonRLExperiment(CommonExperiment):
         if not dryrun:
             if best_result.checkpoint is not None:
                 best_result.checkpoint.to_directory(
-                    self._base_storage / 'checkpoint:train'
+                    self._base_storage / 'checkpoint_train'
                 )
             DataFrameStore(
-                self._base_storage / 'metrics:train'
+                self._base_storage / 'metrics_train'
             ).set({'best': best_result.metrics_dataframe})
 
     def _eval(self, algo_config: PPOConfig, dryrun: bool):
@@ -117,7 +117,7 @@ class CommonRLExperiment(CommonExperiment):
         )
 
         algo_eval = PPO(config_eval)
-        algo_eval.restore(str(self._base_storage / 'checkpoint:train'))
+        algo_eval.restore(str(self._base_storage / 'checkpoint_train'))
         algo_eval.evaluate()
 
     def get_results(self):
@@ -125,8 +125,8 @@ class CommonRLExperiment(CommonExperiment):
             **_dataclasses_.asdict(
                 CommonExperiment.get_results(self)
             ),
-            checkpoint_train=self._base_storage / 'checkpoint:train',
-            metrics_train=DataFrameStore(self._base_storage / 'metrics:train').get()['best'],
+            checkpoint_train=self._base_storage / 'checkpoint_train',
+            metrics_train=DataFrameStore(self._base_storage / 'metrics_train').get()['best'],
         )
 
 
