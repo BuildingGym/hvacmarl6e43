@@ -9,6 +9,7 @@ cd hvacmarl6e43
 ```
 python -m pip install -e .
 python -m pip install --extra-index-url https://test.pypi.org/simple git+https://github.com/NTU-CCA-HVAC-OPTIM-a842a748/EnergyPlus-OOEP
+pip install -r requirements.txt
 ```
 
 ## Directory
