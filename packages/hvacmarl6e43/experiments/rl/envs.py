@@ -288,6 +288,39 @@ class MultiAgentBuildingEnv(MultiAgentEnv):
         system = self._make_building()
         if self._building_init is not None:
             self._building_init(system)
+        # Randomize the episode start within the July window to avoid fixed trajectories.
+        steps_per_hour = 6  # 10-minute EnergyPlus timestep
+        episode_days = 31   # July 1st inclusive to Aug 1st exclusive
+        episode_steps = steps_per_hour * 24 * episode_days
+        rng = _numpy_.random.default_rng()
+        state = {'skip': 0, 'steps_left': 0, 'episode_id': None}
+
+        def _reset_episode_window():
+            state['skip'] = int(rng.integers(0, episode_steps))
+            state['steps_left'] = episode_steps
+            state['episode_id'] = None
+
+        _reset_episode_window()
+
+        @system.events['timestep'].on
+        def _on_timestep(_):
+            if state['skip'] > 0:
+                state['skip'] -= 1
+                return
+
+            try:
+                if state['episode_id'] is None:
+                    state['episode_id'] = self.start_episode()
+
+                self.step_episode(state['episode_id'])
+            except TemporaryUnavailableError:
+                return
+
+            state['steps_left'] -= 1
+
+            if state['steps_left'] == 0:
+                self.end_episode(state['episode_id'])
+                _reset_episode_window()
         # TODO
         # system.add('logging:progress')
         self.__attach__(system)
@@ -378,6 +411,39 @@ class MonoAgentBuildingEnv(Env):
         system = self._make_building()
         if self._building_init is not None:
             self._building_init(system)
+        # Randomize the episode start for mono-agent simulation to mirror the multi-agent setup.
+        steps_per_hour = 6
+        episode_days = 31
+        episode_steps = steps_per_hour * 24 * episode_days
+        rng = _numpy_.random.default_rng()
+        state = {'skip': 0, 'steps_left': 0, 'episode_id': None}
+
+        def _reset_episode_window():
+            state['skip'] = int(rng.integers(0, episode_steps))
+            state['steps_left'] = episode_steps
+            state['episode_id'] = None
+
+        _reset_episode_window()
+
+        @system.events['timestep'].on
+        def _on_timestep(_):
+            if state['skip'] > 0:
+                state['skip'] -= 1
+                return
+
+            try:
+                if state['episode_id'] is None:
+                    state['episode_id'] = self.start_episode()
+
+                self.step_episode(state['episode_id'])
+            except TemporaryUnavailableError:
+                return
+
+            state['steps_left'] -= 1
+
+            if state['steps_left'] == 0:
+                self.end_episode(state['episode_id'])
+                _reset_episode_window()
         # system.add('logging:progress')
         self.__attach__(system)
         self.schedule_episode(errors='warn')
